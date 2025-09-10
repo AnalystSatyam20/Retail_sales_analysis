@@ -1,0 +1,5001 @@
+ProductID,ProductName,Category,Price
+1,Mathematics Book,Books,40848.07
+2,nmeeS Weroa,Clothing,28569.2
+3,Doll,Toys,20741.56
+4,T-Shirt,Clothing,15175.19
+5,Tennis Racket,Sports,1405.66
+6,Tennis Racket,Sports,26535.25
+7,Dumbbell,Sports,46184.57
+8,Bluetooth Speaker,Electronics,10723.91
+9,Bluetooth Speaker,,23821.46
+10,Ceiling Fan,Home,43827.49
+11,Notebook,Stationery,30137.38
+12,oStaSf e,Home,36204.09
+13,Vacuum Cleaner,Home,1319.77
+14,Jacket,Clothing,5806.6
+15,Tennis Racket,Sports,30944.48
+16,Mixer Grinder,Home,35572.66
+17,Mixer Grinder,Home,41317.03
+18,Football,,42055.24
+19,LED TV,Electronics,13457.07
+20,NCERT Science,Books,48399.9
+21,Sketch Book,Stationery,12472.13
+22,Vacuum Cleaner,Home,20428.93
+23,Dining Table,Home,2361.3
+24,Mathematics Book,Books,27354.74
+25,Lego Set,Toys,34161.88
+26,Sofa Set,Home,13256.14
+27,Mobile Phone,Electronics,25030.43
+28,Bluetooth Speaker,Electronics,35489.45
+29,Sketch Book,Stationery,5616.35
+30,Cricket Bat,,42281.37
+31,Football,Sports,34215.2
+32,Car Toy,Toys,62.09
+33,Bluetooth Speaker,Electronics,44640.44
+34,Notebook,Stationery,27059.48
+35,Smart Watch,Electronics,12003.62
+36,Notebook,Stationery,44132.46
+37,Smart Watch,Electronics,18296.82
+38,Bluetooth Speaker,Electronics,8864.3
+39,Sketch Book,Stationery,2885.04
+40,Bluetooth Speaker,Electronics,20371.51
+41,Markers,Stationery,17736.01
+42,Vacuum Cleaner,Home,8553.54
+43,Puzzle,Toys,20908.94
+44,Smart Watch,Electronics,21726.57
+45,rhB eeotolSetpuak,Electronics,25061.34
+46,Puzzle,Toys,24926.46
+47,Dumbbell,Sports,47916.55
+48,Dumbbell,Sports,14273.75
+49,Tennis Racket,Sports,26567.55
+50,Smart Watch,Electronics,13863.71
+51,Sketch Book,,21960.51
+52,Notebook,Stationery,43119.18
+53,Smart Watch,Electronics,1325.96
+54,Jacket,Clothing,16779.58
+55,Laptop,Electronics,4948.42
+56,Ceiling Fan,Home,20729.69
+57,Jacket,Clothing,32153.26
+58,Ceiling Fan,Home,29129.23
+59,Markers,Stationery,35647.59
+60,Women Saree,Clothing,12350.46
+61, StnefKie,Kitchen,12693.0
+62,Smart Watch,,16003.05
+63,Bluetooth Speaker,Electronics,9745.46
+64,Non-stick Pan,Kitchen,16972.51
+65,Drawing Kit,Stationery,23015.68
+66,Yoga Mat,Sports,13317.91
+67,Puzzle,Toys,1028.76
+68,Fiction Novel,Books,352.4
+69,Competitive Guide,,10342.59
+70,Pen Set,Stationery,18514.16
+71,Jacket,Clothing,36907.87
+72,Fiction Novel,Books,9786.75
+73,Yoga Mat,,38795.77
+74,Women Saree,Clothing,35456.17
+75,Men Kurta,Clothing,49676.67
+76,Ceiling Fan,Home,25579.61
+77,Sofa Set,Home,49760.45
+78,Mixer Grinder,Home,1998.47
+79,Action Figure,Toys,48381.71
+80,Bluetooth Speaker,Electronics,22228.75
+81,Football,Sports,15269.43
+82,Lego Set,Toys,22848.89
+83,Men Kurta,Clothing,10468.13
+84,Women Saree,Clothing,44002.23
+85,Smart Watch,Electronics,38063.99
+86,Yoga Mat,Sports,38764.88
+87,Mobile Phone,Electronics,18269.37
+88,Competitive Guide,Books,30155.17
+89,Cricket Bat,Sports,13660.86
+90,Fiction Novel,Books,22792.72
+91,Sketch Book,Stationery,39411.22
+92,-cntkiso nPaN,Kitchen,35314.62
+93,Sketch Book,Stationery,4142.31
+94,Smart Watch,Electronics,2139.36
+95,Car Toy,Toys,5543.77
+96,Sketch Book,Stationery,24853.33
+97,Sofa Set,Home,44675.21
+98,Mixer Grinder,Home,10220.88
+99,Ceiling Fan,Home,7812.09
+100,Competitive Guide,Books,25840.76
+101,Knife Set,Kitchen,47625.06
+102,NCERT Science,,12926.54
+103,Mathematics Book,Books,14167.15
+104,Mobile Phone,Electronics,35553.72
+105,Drawing Kit,Stationery,1096.29
+106,Football,Sports,33724.69
+107,Non-stick Pan,Kitchen,6547.67
+108,Smart Watch,Electronics,15433.69
+109,NCERT Science,Books,21017.32
+110,Pressure Cooker,Kitchen,10607.75
+111,Bluetooth Speaker,Electronics,2910.95
+112,Water Bottle,Kitchen,7961.46
+113,Mobile Phone,Electronics,13543.42
+114,T-Shirt,Clothing,14754.59
+115,nJesa,Clothing,18565.48
+116,Markers,Stationery,23898.4
+117,Men Kurta,Clothing,33966.89
+118,Football,Sports,20200.63
+119,Dining Table,Home,8313.7
+120,Drawing Kit,Stationery,21007.99
+121,Car Toy,,20841.43
+122,Drawing Kit,,46354.03
+123,Water Bottle,Kitchen,37766.01
+124,Non-stick Pan,Kitchen,28731.48
+125,Pen Set,Stationery,24480.69
+126,Mixer Grinder,Home,31080.24
+127,Pressure Cooker,Kitchen,24301.9
+128,Dllo,Toys,39044.49
+129,Markers,Stationery,39404.53
+130,T-Shirt,Clothing,41006.79
+131,Jeans,Clothing,37097.17
+132,Pressure Cooker,Kitchen,34383.73
+133,Drawing Kit,Stationery,27687.78
+134,Knife Set,Kitchen,22996.84
+135,Notebook,Stationery,43999.76
+136,Pressure Cooker,Kitchen,31907.36
+137,Dumbbell,Sports,49770.53
+138,Women Saree,Clothing,34990.36
+139,Lunch Box,Kitchen,26178.27
+140,Competitive Guide,Books,40106.58
+141,Jeans,Clothing,40664.91
+142,Lunch Box,Kitchen,40237.81
+143,Drawing Kit,Stationery,4964.77
+144,Dining Table,Home,18332.93
+145,Dining Table,Home,11097.3
+146,Vacuum Cleaner,Home,8836.98
+147,Jacket,Clothing,36165.38
+148,Drawing Kit,Stationery,23067.81
+149,Non-stick Pan,Kitchen,45811.99
+150,Lego Set,Toys,39867.28
+151,Vacuum Cleaner,Home,8893.53
+152,Water Bottle,Kitchen,14573.4
+153,Non-stick Pan,Kitchen,20922.29
+154,Smart Watch,,31037.52
+155,Dumbbell,Sports,21744.8
+156,Mobile Phone,Electronics,47000.49
+157,Ceiling Fan,,26757.4
+158,Mixer Grinder,Home,21200.89
+159,Yoga Mat,Sports,9429.66
+160,Laptop,Electronics,779.75
+161,Sketch Book,Stationery,1784.74
+162,Car Toy,Toys,12643.15
+163,Tennis Racket,Sports,29343.08
+164,NCERT Science,Books,45901.6
+165,Maesrkr,Stationery,16082.7
+166,Jacket,Clothing,10340.13
+167,Pen Set,Stationery,32979.29
+168,T-Shirt,Clothing,7608.76
+169,Water Bottle,Kitchen,28486.07
+170,Laptop,Electronics,7932.1
+171,Lego Set,Toys,27113.11
+172,Lego Set,Toys,13785.35
+173,Sofa Set,Home,8356.15
+174,Mathematics Book,Books,31022.58
+175,Pen Set,Stationery,14196.93
+176,Doll,Toys,25193.75
+177,Bluetooth Speaker,Electronics,4950.05
+178,Yoga Mat,Sports,42225.88
+179,Fiction Novel,,18169.72
+180,Laptop,Electronics,44002.28
+181,Knife Set,Kitchen,42068.57
+182,Story Book,Books,6782.81
+183,Dumbbell,Sports,28245.97
+184,Men Kurta,Clothing,32818.58
+185,Competitive Guide,Books,11365.32
+186,Vacuum Cleaner,Home,278.48
+187,Dumbbell,Sports,25039.79
+188,Doll,Toys,17251.33
+189,Lego Set,Toys,38868.96
+190,Lego Set,Toys,21966.63
+191,Car Toy,Toys,22348.41
+192,Men Kurta,Clothing,5692.37
+193,Drawing Kit,Stationery,46296.02
+194,Dining Table,Home,32117.93
+195,Fiction Novel,Books,18600.85
+196,Doll,Toys,1298.47
+197,Men Kurta,Clothing,25168.9
+198,LED TV,Electronics,36498.29
+199,Competitive Guide,Books,34433.47
+200,Lunch Box,Kitchen,13465.27
+201,LED TV,Electronics,43741.96
+202,Jeans,Clothing,48217.37
+203,NCERT Science,Books,14153.88
+204,Story Book,Books,44437.93
+205,Lego Set,Toys,39100.29
+206,Water Bottle,Kitchen,36119.17
+207,Lego Set,Toys,6325.96
+208,Mixer Grinder,Home,46139.06
+209,Jeans,Clothing,33933.17
+210,t toereBlaWt,Kitchen,7431.56
+211,Pen Set,Stationery,33523.96
+212,Non-stick Pan,Kitchen,2539.72
+213,Sketch Book,Stationery,46396.21
+214,Yoga Mat,Sports,35937.04
+215,Jeans,Clothing,22090.4
+216,LED TV,Electronics,27487.96
+217, ahamctrStW,Electronics,12009.14
+218,Non-stick Pan,Kitchen,16375.44
+219,Mobile Phone,Electronics,23209.23
+220,Drawing Kit,Stationery,22306.66
+221,Yoga Mat,Sports,23520.28
+222,Pressure Cooker,Kitchen,91.0
+223,Dining Table,Home,3182.98
+224,Yoga Mat,Sports,40507.04
+225,Football,Sports,5442.04
+226,D EVLT,Electronics,8544.98
+227,Story Book,Books,17840.01
+228,Laptop,Electronics,25978.93
+229,Mobile Phone,Electronics,5172.36
+230,LED TV,Electronics,37458.0
+231,Laptop,Electronics,39481.19
+232,Jeans,Clothing,68.31
+233,Women Saree,Clothing,22374.52
+234,NCERT Science,Books,10410.02
+235,Story Book,Books,5466.67
+236,Men Kurta,Clothing,10847.63
+237,Laptop,Electronics,16635.86
+238,Mathematics Book,Books,27226.56
+239,Smart Watch,Electronics,48197.99
+240,Lunch Box,Kitchen,28035.74
+241,Women Saree,Clothing,48443.57
+242,T-Shirt,Clothing,8203.77
+243,Pen Set,Stationery,26403.95
+244,T-Shirt,Clothing,35966.66
+245,Tennis Racket,,31073.36
+246,NCERT Science,Books,30546.05
+247,Action Figure,Toys,21115.34
+248,Tennis Racket,Sports,9496.42
+249,Non-stick Pan,Kitchen,7994.9
+250,Pen Set,Stationery,25346.68
+251,Cricket Bat,Sports,18478.89
+252,Jacket,Clothing,28342.89
+253,Nbotekoo,Stationery,7307.07
+254,Fiction Novel,Books,17336.22
+255,Sofa Set,Home,36793.04
+256,Football,Sports,26414.08
+257,Dining Table,,17130.11
+258,Pen Set,Stationery,38350.84
+259,Story Book,,24612.92
+260,Knife Set,Kitchen,30005.51
+261,Ceiling Fan,Home,25665.55
+262,aen ineTctkRs,Sports,27420.88
+263,Tennis Racket,Sports,16157.22
+264,Pen Set,Stationery,45405.18
+265,Non-stick Pan,Kitchen,22344.2
+266,Sofa Set,Home,7457.85
+267,NCERT Science,,18171.94
+268,Water Bottle,Kitchen,9331.71
+269,Ceiling Fan,Home,39594.56
+270,Men Kurta,Clothing,38534.45
+271,Car Toy,Toys,15104.74
+272,Car Toy,Toys,19780.66
+273,Fiction Novel,Books,43963.16
+274,Ceiling Fan,Home,39919.31
+275,Sofa Set,Home,615.08
+276,Dining Table,Home,24126.15
+277,T-Shirt,Clothing,20045.29
+278,Notebook,Stationery,26356.09
+279,Non-stick Pan,Kitchen,6230.39
+280,Notebook,Stationery,40469.23
+281,Bluetooth Speaker,Electronics,13927.34
+282,Water Bottle,Kitchen,44614.37
+283,Men Kurta,Clothing,12599.55
+284,Cricket Bat,Sports,23151.16
+285,T-Shirt,Clothing,5503.14
+286,Sofa Set,Home,6480.27
+287,Puzzle,Toys,41941.93
+288,Puzzle,Toys,36965.01
+289,Markers,Stationery,6519.13
+290,Non-stick Pan,Kitchen,44453.04
+291,Action Figure,Toys,44660.31
+292,Smart Watch,Electronics,48798.27
+293,LED TV,Electronics,22164.3
+294,Markers,Stationery,41602.7
+295,Laptop,Electronics,41682.72
+296,Tennis Racket,Sports,35677.14
+297,Jacket,Clothing,4148.54
+298,Puzzle,Toys,42394.01
+299,Mathematics Book,Books,5275.49
+300,Lunch Box,Kitchen,1120.01
+301,Vacuum Cleaner,Home,41406.83
+302,Dining Table,Home,8688.38
+303,Yoga Mat,Sports,10203.24
+304,Non-stick Pan,Kitchen,48709.36
+305,ezPuzl,Toys,15948.23
+306,Pen Set,Stationery,3070.64
+307,Knife Set,Kitchen,42188.34
+308,Smart Watch,Electronics,6563.79
+309,Non-stick Pan,Kitchen,12389.1
+310,T-Shirt,Clothing,13028.38
+311,LED TV,Electronics,21908.1
+312,Men Kurta,Clothing,4432.67
+313,Sofa Set,Home,46749.26
+314,Pressure Cooker,Kitchen,41380.06
+315,Tennis Racket,Sports,14849.96
+316,Sofa Set,Home,45658.01
+317,Dining Table,Home,35611.62
+318,Cricket Bat,Sports,12998.68
+319,Car Toy,Toys,9853.68
+320,LED TV,Electronics,722.0
+321,Jeans,Clothing,24994.11
+322,Sketch Book,Stationery,1380.32
+323,Tennis Racket,Sports,24683.68
+324,Markers,Stationery,39395.92
+325,Lunch Box,Kitchen,40600.99
+326,Jacket,Clothing,21860.53
+327,Jeans,Clothing,24650.01
+328,Doll,Toys,16786.28
+329,LED TV,Electronics,43579.89
+330,Mixer Grinder,Home,46872.36
+331,Mobile Phone,Electronics,12570.55
+332,Pressure Cooker,Kitchen,19549.94
+333,Competitive Guide,Books,44893.75
+334,Lunch Box,Kitchen,37853.73
+335,Notebook,Stationery,38745.67
+336,Laptop,Electronics,34700.13
+337,LED TV,Electronics,9250.46
+338,NCERT Science,Books,9745.77
+339,Bluetooth Speaker,Electronics,2311.07
+340,Lego Set,Toys,42279.64
+341,Tennis Racket,Sports,9135.51
+342,Jacket,Clothing,32849.94
+343,Pressure Cooker,Kitchen,1625.6
+344,Action Figure,Toys,36101.96
+345,Knife Set,Kitchen,47951.62
+346,Vacuum Cleaner,Home,48096.95
+347,Doll,Toys,22946.35
+348,Mixer Grinder,Home,23783.04
+349,LED TV,Electronics,15347.86
+350,Puzzle,Toys,4403.16
+351,Sketch Book,Stationery,22205.74
+352,Doll,Toys,27110.78
+353,Ceiling Fan,Home,19548.25
+354,NCERT Science,Books,19038.34
+355,Mobile Phone,Electronics,24270.81
+356,NCERT Science,Books,5938.11
+357,Mobile Phone,Electronics,27107.95
+358,hk oBSketoc,Stationery,801.62
+359,Smart Watch,Electronics,1843.43
+360,Car Toy,Toys,17487.1
+361,Football,Sports,32437.65
+362,Sofa Set,Home,46034.49
+363,Tennis Racket,Sports,22332.76
+364,Sofa Set,Home,48402.6
+365,Mixer Grinder,Home,7241.78
+366,NCERT Science,Books,31349.3
+367,Story Book,Books,19636.5
+368,Mobile Phone,Electronics,6562.82
+369,eeCrosrP uerosk,Kitchen,5491.16
+370,Mobile Phone,Electronics,17059.72
+371,senaJ,Clothing,44420.77
+372,Vacuum Cleaner,Home,12396.0
+373,Notebook,Stationery,40886.84
+374,Mathematics Book,Books,32155.87
+375,Competitive Guide,Books,27293.51
+376,Notebook,Stationery,47601.2
+377,Non-stick Pan,Kitchen,30318.38
+378,Yoga Mat,,14271.52
+379,Bluetooth Speaker,Electronics,23381.18
+380,Cricket Bat,Sports,39683.93
+381,Fiction Novel,Books,21867.31
+382,Mathematics Book,Books,36312.84
+383,Tennis Racket,Sports,36234.67
+384,zuzleP,Toys,21926.43
+385,Laptop,Electronics,18816.59
+386,Smart Watch,Electronics,47881.61
+387,Mixer Grinder,Home,35580.38
+388,Fiction Novel,Books,20916.9
+389,ohuncL xB,,23558.66
+390,T-Shirt,Clothing,43298.53
+391,Action Figure,Toys,22070.37
+392,Sofa Set,Home,24354.38
+393,Competitive Guide,Books,17933.04
+394,LED TV,Electronics,6339.04
+395,Markers,Stationery,39178.42
+396,Ceiling Fan,Home,19845.97
+397,Men Kurta,Clothing,21300.73
+398,Cricket Bat,Sports,14937.91
+399,Yoga Mat,Sports,26750.12
+400,Ceiling Fan,Home,30393.09
+401,Mobile Phone,Electronics,39459.55
+402,Puzzle,Toys,34111.83
+403,Mixer Grinder,Home,24554.53
+404,LED TV,Electronics,41905.31
+405,LED TV,Electronics,23023.6
+406,Water Bottle,Kitchen,16646.74
+407,Cricket Bat,Sports,6553.67
+408,Knife Set,Kitchen,9117.59
+409,Men Kurta,Clothing,24652.33
+410,Cricket Bat,Sports,34471.23
+411,Sofa Set,,3510.53
+412,Jeans,Clothing,4368.95
+413,Car Toy,Toys,26399.1
+414,Notebook,Stationery,16838.28
+415,Markers,Stationery,40551.64
+416,Sketch Book,Stationery,44374.76
+417, iitepouedtmveiCG,Books,49149.55
+418,Mobile Phone,Electronics,18806.13
+419,eniD Tbaglni,Home,48041.74
+420,Doll,Toys,3699.15
+421,ligCa inenF,Home,49006.1
+422,Water Bottle,Kitchen,35236.38
+423,Sofa Set,Home,15039.86
+424,Jacket,Clothing,33283.37
+425,Water Bottle,Kitchen,35931.58
+426,Action Figure,Toys,45379.05
+427,Sofa Set,Home,28436.91
+428,S neetP,Stationery,32722.58
+429,Vacuum Cleaner,Home,9218.76
+430,Notebook,Stationery,42260.45
+431,Men Kurta,Clothing,27130.88
+432,Dining Table,Home,45713.0
+433,Non-stick Pan,Kitchen,1329.28
+434,Tennis Racket,Sports,13587.14
+435,LED TV,Electronics,30363.74
+436,Pressure Cooker,Kitchen,33069.26
+437,Doll,Toys,15376.84
+438,Drawing Kit,Stationery,32724.91
+439,Jacket,Clothing,49990.58
+440,Fiction Novel,Books,47903.91
+441,Vacuum Cleaner,,23425.45
+442,Action Figure,Toys,9161.82
+443,Drawing Kit,Stationery,18949.0
+444,Mathematics Book,Books,6841.74
+445,Drawing Kit,Stationery,19361.14
+446,Lego Set,Toys,40215.97
+447,Women Saree,Clothing,22798.8
+448,Dumbbell,Sports,462.83
+449,Non-stick Pan,,48228.06
+450,Lego Set,Toys,6126.33
+451,Football,Sports,34369.11
+452,Action Figure,Toys,26972.47
+453,Car Toy,Toys,22547.21
+454,Women Saree,Clothing,5049.22
+455,Sofa Set,Home,35445.62
+456,Notebook,Stationery,18759.08
+457,Competitive Guide,Books,17955.33
+458,Story Book,Books,26955.4
+459,Smart Watch,Electronics,7848.07
+460,Lego Set,Toys,44030.4
+461,Action Figure,Toys,42678.52
+462,Men Kurta,Clothing,32786.42
+463,hrWmcaS tat,Electronics,16166.86
+464,Dining Table,Home,35864.38
+465,Yoga Mat,Sports,45511.35
+466,Markers,Stationery,31767.56
+467,Lunch Box,Kitchen,45552.1
+468,Mathematics Book,Books,29223.37
+469,Lunch Box,Kitchen,17961.83
+470,niDbealgnT i,Home,23345.06
+471,Doll,Toys,21927.23
+472,Car Toy,Toys,28691.16
+473,NCERT Science,Books,1040.74
+474,Markers,Stationery,23306.49
+475,Women Saree,Clothing,41712.28
+476,Fiction Novel,Books,34665.91
+477,Action Figure,Toys,47873.63
+478,Lego Set,Toys,12248.17
+479,Fiction Novel,Books,5204.19
+480,T-Shirt,Clothing,48356.76
+481,Non-stick Pan,Kitchen,34396.86
+482,Bluetooth Speaker,Electronics,1691.33
+483,Smart Watch,Electronics,6639.48
+484,Pressure Cooker,Kitchen,10096.21
+485,NCERT Science,Books,45755.28
+486,Jeans,Clothing,15711.35
+487,Markers,Stationery,32740.06
+488,Competitive Guide,Books,17697.13
+489,Smart Watch,Electronics,11014.59
+490,Non-stick Pan,Kitchen,41194.65
+491,Yoga Mat,Sports,8522.8
+492,Dumbbell,Sports,30981.92
+493,Lego Set,Toys,33545.97
+494,Knife Set,Kitchen,25371.66
+495,Men Kurta,Clothing,43462.5
+496,Ceiling Fan,Home,18344.39
+497,Non-stick Pan,Kitchen,13797.86
+498,Non-stick Pan,Kitchen,41232.54
+499,Non-stick Pan,Kitchen,14344.11
+500,Men Kurta,Clothing,45427.93
+501,LED TV,Electronics,34075.57
+502,Knife Set,Kitchen,33572.62
+503,Puzzle,Toys,15857.05
+504,Doll,Toys,47198.54
+505,Vacuum Cleaner,Home,46763.48
+506,Action Figure,Toys,24339.55
+507,Yoga Mat,Sports,5916.32
+508,Dumbbell,Sports,19356.72
+509,Laptop,Electronics,21383.85
+510,Drawing Kit,Stationery,35373.16
+511,NCERT Science,Books,5014.15
+512,Mathematics Book,Books,47531.44
+513,Women Saree,Clothing,5084.3
+514,Vacuum Cleaner,Home,28322.45
+515,Pressure Cooker,Kitchen,26277.48
+516,Jacket,Clothing,49139.03
+517,Drawing Kit,Stationery,45137.3
+518,Fiction Novel,Books,6896.85
+519,Action Figure,Toys,37840.07
+520,Car Toy,Toys,49343.57
+521,Story Book,Books,1370.48
+522,Sofa Set,Home,35599.18
+523,Lego Set,Toys,18598.2
+524,NCERT Science,Books,18600.91
+525,Women Saree,Clothing,1088.0
+526,Markers,Stationery,23090.07
+527,Vacuum Cleaner,,15608.93
+528,Competitive Guide,Books,26113.04
+529,Puzzle,Toys,11395.78
+530,Mathematics Book,Books,43493.69
+531,Markers,Stationery,43338.64
+532,Notebook,Stationery,28178.48
+533,Bluetooth Speaker,Electronics,44640.53
+534,Knife Set,Kitchen,8147.62
+535,Competitive Guide,Books,24414.44
+536,NCERT Science,Books,24579.28
+537,Laptop,Electronics,49848.78
+538,Lego Set,Toys,1983.98
+539,Women Saree,Clothing,45827.06
+540,Mobile Phone,Electronics,4235.78
+541,Fiction Novel,Books,6193.54
+542,Sofa Set,Home,4377.78
+543,Cricket Bat,Sports,11689.76
+544,Cricket Bat,Sports,10204.08
+545,Jacket,Clothing,39530.85
+546,Dumbbell,Sports,18257.85
+547,Mobile Phone,Electronics,45858.15
+548,eFriugicAnt o,Toys,14085.34
+549,Gdri xrreiMne,Home,45266.79
+550,Men Kurta,Clothing,41345.25
+551,Water Bottle,Kitchen,20311.52
+552,Lunch Box,Kitchen,40358.68
+553,Bluetooth Speaker,Electronics,48145.35
+554,Smart Watch,Electronics,45606.04
+555,Drawing Kit,,32355.02
+556,Vacuum Cleaner,Home,43429.66
+557,Tennis Racket,,12246.54
+558,Smart Watch,Electronics,10625.7
+559,Laptop,Electronics,46021.69
+560,Water Bottle,Kitchen,14199.54
+561,Ceiling Fan,Home,33370.71
+562,Pen Set,Stationery,24186.79
+563,NCERT Science,Books,43945.2
+564,Car Toy,Toys,17689.93
+565,Doll,Toys,4936.59
+566,LED TV,Electronics,38709.26
+567,Pressure Cooker,Kitchen,38878.65
+568,Drawing Kit,Stationery,31143.33
+569,Cricket Bat,Sports,31758.71
+570,Mixer Grinder,Home,24469.96
+571,CyTor a,Toys,49020.53
+572,Action Figure,Toys,36187.64
+573,Jeans,,15431.27
+574, KrawtgiinD,,49598.88
+575,Laptop,Electronics,35435.08
+576,Story Book,Books,32564.14
+577,LED TV,Electronics,12792.0
+578,Dining Table,Home,43828.36
+579,Water Bottle,Kitchen,24853.65
+580,Dining Table,Home,38446.85
+581,Vacuum Cleaner,Home,17462.56
+582,Laptop,Electronics,20538.11
+583,Smart Watch,Electronics,10024.5
+584,Water Bottle,Kitchen,12117.68
+585,Dining Table,Home,16941.35
+586,Dumbbell,,2587.71
+587,Dining Table,Home,23451.84
+588,Sketch Book,Stationery,17429.82
+589,Doll,Toys,28084.06
+590,Dining Table,Home,4014.75
+591,Fiction Novel,Books,7424.35
+592,Women Saree,Clothing,43259.47
+593,Tennis Racket,Sports,13211.22
+594,Mathematics Book,Books,46342.52
+595,Mathematics Book,Books,37019.73
+596,Lunch Box,Kitchen,27850.49
+597,Sketch Book,Stationery,407.06
+598,Non-stick Pan,Kitchen,22459.59
+599,eSfaot S,Home,524.79
+600,Sketch Book,Stationery,47882.19
+601,Fiction Novel,Books,7926.81
+602,Doll,Toys,14653.81
+603,aWetreBt tol,Kitchen,26695.74
+604,NCERT Science,Books,14136.11
+605,LED TV,Electronics,45659.92
+606,rMearks,Stationery,36015.0
+607,Water Bottle,Kitchen,20736.27
+608,LED TV,Electronics,14720.98
+609,Jeans,Clothing,39188.35
+610,Knife Set,Kitchen,14380.96
+611,Action Figure,Toys,33267.85
+612,Football,Sports,4658.56
+613,Cricket Bat,Sports,45625.94
+614,Mathematics Book,,7081.23
+615,Men Kurta,Clothing,31181.48
+616,Yoga Mat,Sports,14793.52
+617,T-Shirt,Clothing,5099.4
+618,Competitive Guide,Books,4565.91
+619,Tennis Racket,Sports,42775.44
+620,Lego Set,Toys,45123.75
+621,Lunch Box,Kitchen,19658.12
+622,Drawing Kit,Stationery,35311.34
+623,Tennis Racket,Sports,38287.6
+624,Water Bottle,Kitchen,4133.47
+625,Pressure Cooker,Kitchen,33087.57
+626,Sketch Book,Stationery,32481.54
+627,Sketch Book,Stationery,49446.29
+628,Pen Set,,15821.61
+629,Football,Sports,38564.78
+630,Notebook,Stationery,12429.45
+631,Vacuum Cleaner,Home,5412.04
+632,Jeans,Clothing,13442.44
+633,Puzzle,Toys,13919.93
+634,Vacuum Cleaner,Home,31512.98
+635,Lego Set,Toys,32052.57
+636,Action Figure,Toys,30093.64
+637,Notebook,Stationery,36627.63
+638,Knife Set,Kitchen,19144.0
+639,Drawing Kit,,48788.19
+640,Story Book,Books,47696.64
+641,LED TV,Electronics,48348.03
+642,Women Saree,Clothing,46382.84
+643,Knife Set,Kitchen,24139.5
+644,Sofa Set,Home,44291.19
+645,LED TV,Electronics,12973.49
+646,Puzzle,Toys,33905.27
+647,Jacket,Clothing,27535.75
+648,Notebook,Stationery,7091.91
+649,Tennis Racket,Sports,35009.14
+650,Dining Table,Home,43960.81
+651,Dumbbell,Sports,40508.32
+652,Men Kurta,Clothing,15304.99
+653,Football,Sports,11461.18
+654,Sketch Book,Stationery,11614.55
+655,Sketch Book,Stationery,2187.83
+656,Action Figure,Toys,3474.64
+657,Dining Table,Home,33632.74
+658,Story Book,Books,2070.72
+659,Markers,Stationery,10492.08
+660,cTcRCeEnSNi e,Books,22473.37
+661,Doll,Toys,14024.0
+662,Bluetooth Speaker,Electronics,45166.4
+663,Drawing Kit,Stationery,14793.91
+664,Lnxou Bhc,Kitchen,11880.74
+665,Tennis Racket,Sports,24940.18
+666,Cricket Bat,Sports,21946.76
+667,Bluetooth Speaker,Electronics,27541.38
+668,NCERT Science,Books,48760.83
+669,Competitive Guide,Books,12118.42
+670,T-Shirt,Clothing,33947.93
+671,Car Toy,Toys,25848.36
+672,Fiction Novel,Books,25003.57
+673,Smart Watch,Electronics,21450.29
+674,Mathematics Book,,49388.4
+675,mlbulebD,Sports,43453.47
+676,Men Kurta,Clothing,16447.52
+677,Lunch Box,Kitchen,3899.4
+678,Vacuum Cleaner,Home,42196.41
+679,LED TV,Electronics,11374.72
+680,Knife Set,Kitchen,12498.37
+681,Pressure Cooker,Kitchen,24845.38
+682,Story Book,Books,37486.09
+683,Smart Watch,Electronics,21244.37
+684,Sofa Set,,9751.0
+685,Sketch Book,Stationery,45048.03
+686,Pressure Cooker,Kitchen,5967.91
+687,Laptop,Electronics,21720.44
+688,Bluetooth Speaker,Electronics,8495.07
+689,Jacket,Clothing,39753.61
+690,Sofa Set,Home,11751.86
+691,Women Saree,Clothing,25905.85
+692,Competitive Guide,Books,16768.0
+693,T-Shirt,Clothing,45911.62
+694,Drawing Kit,Stationery,8090.94
+695,Yoga Mat,Sports,45141.88
+696,Yoga Mat,Sports,47360.67
+697,Lego Set,Toys,17861.4
+698,Vacuum Cleaner,Home,33820.12
+699,Story Book,Books,41289.78
+700,Smart Watch,Electronics,11891.01
+701,Story Book,Books,44464.24
+702,Water Bottle,Kitchen,12060.77
+703,Dumbbell,Sports,22880.27
+704,Pen Set,Stationery,45891.13
+705,Women Saree,Clothing,38259.4
+706,Notebook,Stationery,45667.78
+707,Laptop,Electronics,25408.23
+708,Competitive Guide,Books,17439.39
+709,Pressure Cooker,Kitchen,43734.96
+710,Fiction Novel,Books,14851.0
+711,Smart Watch,Electronics,35264.3
+712,Smart Watch,Electronics,25314.4
+713,Mobile Phone,Electronics,18320.44
+714,Competitive Guide,Books,18315.25
+715,Laptop,Electronics,48203.55
+716,Dumbbell,,40589.15
+717,Water Bottle,Kitchen,42628.34
+718,Football,Sports,46519.06
+719,Sofa Set,Home,35636.98
+720,Non-stick Pan,Kitchen,32007.01
+721,rerMsak,Stationery,36460.12
+722,Markers,Stationery,20366.12
+723,Jacket,Clothing,35280.47
+724,NCERT Science,Books,31741.63
+725,Markers,Stationery,44960.2
+726,Puzzle,Toys,39684.56
+727,Lego Set,Toys,36681.73
+728,Dining Table,,37999.53
+729,Non-stick Pan,Kitchen,40471.07
+730,Cricket Bat,Sports,7403.46
+731,Bluetooth Speaker,Electronics,48784.42
+732,T-Shirt,Clothing,35392.73
+733,Jeans,,4862.97
+734,T-Shirt,Clothing,8340.14
+735,Notoebok,Stationery,39589.07
+736,Fiction Novel,Books,45892.23
+737,Pen Set,Stationery,49785.01
+738,Lego Set,Toys,36052.21
+739,Competitive Guide,Books,26054.42
+740,Notebook,Stationery,46798.95
+741,Ceiling Fan,Home,104.11
+742,Pressure Cooker,Kitchen,13370.65
+743,Tennis Racket,Sports,16566.59
+744,Lego Set,,37059.6
+745,Pressure Cooker,Kitchen,10308.83
+746,Jeans,Clothing,41473.29
+747,Drawing Kit,Stationery,22554.52
+748,Drawing Kit,Stationery,19289.77
+749,Non-stick Pan,Kitchen,5209.28
+750,Mixer Grinder,Home,1790.76
+751,Competitive Guide,Books,6484.57
+752,Sketch Book,Stationery,39326.69
+753,Vacuum Cleaner,Home,39246.26
+754,Yoga Mat,Sports,37563.75
+755,Women Saree,Clothing,47532.06
+756,Lego Set,Toys,30230.31
+757,Notebook,Stationery,23979.97
+758,Doll,Toys,40459.87
+759,Pressure Cooker,Kitchen,48770.01
+760,Knife Set,Kitchen,14918.5
+761,Jacket,Clothing,29016.33
+762,Cricket Bat,Sports,3466.63
+763,Knife Set,Kitchen,18713.48
+764,Action Figure,Toys,15758.25
+765,LED TV,Electronics,20781.16
+766,Football,Sports,7999.14
+767,Laptop,Electronics,14074.02
+768,Lego Set,Toys,20117.73
+769,Tennis Racket,Sports,49962.41
+770,Mixer Grinder,Home,37566.22
+771,Doll,Toys,7030.69
+772,NCERT Science,Books,22362.46
+773,llDo,Toys,33446.94
+774,Dining Table,Home,43059.56
+775,Jeans,Clothing,28922.44
+776,Smart Watch,Electronics,38245.59
+777,Puzzle,Toys,6633.17
+778,Non-stick Pan,Kitchen,32086.1
+779,Car Toy,Toys,44880.75
+780,TEL DV,Electronics,9835.2
+781,Dumbbell,Sports,13327.82
+782,Drawing Kit,Stationery,12487.34
+783,Mathematics Book,,29398.59
+784,NCERT Science,Books,16549.29
+785,Mobile Phone,Electronics,15278.87
+786,Yoga Mat,Sports,34065.73
+787,Cricket Bat,Sports,17856.77
+788,Water Bottle,Kitchen,45533.82
+789,Competitive Guide,Books,28007.88
+790,Bluetooth Speaker,,15438.35
+791,Vacuum Cleaner,Home,5705.21
+792,Sketch Book,Stationery,30735.61
+793,NCERT Science,Books,43024.51
+794,Pressure Cooker,Kitchen,9353.75
+795,Football,Sports,18052.17
+796,Mobile Phone,Electronics,9414.41
+797,Football,Sports,24049.54
+798,Puzzle,Toys,37472.09
+799,Mixer Grinder,Home,37878.9
+800,Mathematics Book,Books,9670.49
+801,Women Saree,Clothing,12509.23
+802,Smart Watch,Electronics,26468.62
+803,Mixer Grinder,Home,30655.79
+804,Yoga Mat,Sports,5020.5
+805,Laptop,Electronics,31691.76
+806,NCERT Science,Books,24979.9
+807,Sofa Set,Home,16869.69
+808,Action Figure,Toys,80.23
+809,Mixer Grinder,Home,44187.26
+810,Drawing Kit,Stationery,17245.59
+811,Knife Set,Kitchen,41494.29
+812,Jeans,,43775.37
+813,Action Figure,Toys,28816.23
+814,neKe Stfi,Kitchen,37979.93
+815,Cricket Bat,Sports,10822.03
+816,Knife Set,Kitchen,3246.9
+817,Men Kurta,Clothing,6941.46
+818,Jacket,Clothing,5027.43
+819,Laptop,,47259.78
+820,Jeans,Clothing,5918.48
+821,Jeans,Clothing,40701.49
+822,Vacuum Cleaner,Home,26563.91
+823,Competitive Guide,Books,16843.21
+824,Mobile Phone,Electronics,39464.15
+825,Water Bottle,Kitchen,21298.41
+826,Mathematics Book,,27505.21
+827,T-Shirt,Clothing,19137.78
+828,Knife Set,Kitchen,1309.96
+829,Women Saree,Clothing,289.32
+830,Smart Watch,Electronics,13712.6
+831,Football,Sports,46417.03
+832,Puzzle,Toys,9871.12
+833,Story Book,Books,7189.57
+834,bbelmDul,Sports,46402.51
+835,Mobile Phone,Electronics,32444.47
+836,Vacuum Cleaner,,27318.42
+837,Lunch Box,Kitchen,32674.08
+838,Dining Table,Home,25479.77
+839,Laptop,Electronics,41049.51
+840,Women Saree,Clothing,7549.1
+841,Smart Watch,Electronics,5143.54
+842,Men Kurta,Clothing,14400.71
+843,Yoga Mat,,9769.97
+844,Puzzle,Toys,3847.17
+845,Fiction Novel,Books,25522.74
+846,Ceiling Fan,Home,8893.53
+847,Jeans,Clothing,28059.99
+848,Water Bottle,Kitchen,6122.69
+849,Puzzle,Toys,40328.21
+850,Doll,Toys,49430.53
+851,Cricket Bat,Sports,742.65
+852,Notebook,Stationery,22223.02
+853,Jacket,Clothing,1422.26
+854,Vacuum Cleaner,Home,27732.04
+855,Puzzle,,7696.97
+856,Cricket Bat,Sports,9042.52
+857,Dumbbell,Sports,1397.49
+858,Women Saree,Clothing,45921.41
+859,Doll,Toys,3944.71
+860,Competitive Guide,Books,21569.83
+861,Sofa Set,Home,24108.09
+862,Smart Watch,Electronics,47483.75
+863,Dumbbell,Sports,45080.95
+864,Action Figure,Toys,21420.2
+865,Cricket Bat,,35826.43
+866,Non-stick Pan,Kitchen,38194.99
+867,Dining Table,Home,49191.36
+868,Lego Set,Toys,2090.96
+869,Water Bottle,Kitchen,36125.79
+870,Men Kurta,Clothing,49583.03
+871,Puzzle,,30034.88
+872,Knife Set,Kitchen,13625.28
+873,Action Figure,Toys,891.3
+874,Yoga Mat,Sports,26717.49
+875,Vacuum Cleaner,Home,46199.33
+876,Drawing Kit,Stationery,26451.35
+877,Football,Sports,32255.78
+878,Water Bottle,,32074.52
+879,Jacket,Clothing,20960.89
+880,Competitive Guide,Books,1597.17
+881,Smart Watch,Electronics,14004.74
+882,Ceiling Fan,Home,8531.02
+883,Football,Sports,661.1
+884,LED TV,Electronics,25924.05
+885,Football,Sports,11719.45
+886,Lego Set,Toys,34843.47
+887,Cricket Bat,Sports,2543.86
+888,Bluetooth Speaker,Electronics,1253.1
+889, rierxdGnMeir,Home,42792.01
+890,Women Saree,Clothing,40009.91
+891,Puzzle,Toys,36894.12
+892,Dumbbell,Sports,44618.14
+893,Mathematics Book,Books,21085.73
+894,Sofa Set,Home,11606.85
+895,Doll,Toys,45691.23
+896,Lunch Box,Kitchen,27695.69
+897,Dumbbell,Sports,29357.4
+898,T-Shirt,Clothing,19106.6
+899,Jeans,Clothing,18391.92
+900,mDlbuble,Sports,7011.3
+901,Story Book,Books,33688.75
+902,Lego Set,Toys,28916.35
+903,Dining Table,Home,13200.87
+904,Car Toy,Toys,24092.3
+905,Pressure Cooker,Kitchen,12351.29
+906,Cricket Bat,Sports,41276.05
+907,Notebook,Stationery,28055.36
+908,Cricket Bat,Sports,13277.95
+909,Smart Watch,Electronics,904.82
+910,Women Saree,Clothing,25022.66
+911,Tennis Racket,Sports,36887.85
+912,Dumbbell,Sports,23820.08
+913,Competitive Guide,Books,42802.32
+914,Jeans,Clothing,33882.28
+915,Laptop,Electronics,23936.94
+916,Knife Set,Kitchen,4792.63
+917,Jacket,Clothing,37291.47
+918,Story Book,Books,694.44
+919,sCrk Preoroeues,Kitchen,17914.67
+920,Lego Set,Toys,16099.44
+921,Markers,Stationery,6304.3
+922,Football,Sports,28381.63
+923,Markers,Stationery,19766.68
+924,Smart Watch,Electronics,9485.34
+925,Cricket Bat,Sports,16881.35
+926,Cricket Bat,Sports,3648.46
+927,Cricket Bat,Sports,35260.54
+928,Non-stick Pan,Kitchen,30892.07
+929,Story Book,Books,38359.65
+930,Yoga Mat,Sports,25774.53
+931,T-Shirt,Clothing,4828.78
+932,serro uPerCsoke,Kitchen,34766.52
+933,Cricket Bat,Sports,22690.62
+934,Action Figure,Toys,22079.26
+935,Competitive Guide,Books,49596.81
+936,Water Bottle,Kitchen,3060.39
+937,LED TV,Electronics,22880.81
+938,Men Kurta,Clothing,10007.71
+939,Mathematics Book,Books,2854.73
+940,Bluetooth Speaker,Electronics,11486.43
+941,Sketch Book,Stationery,38586.09
+942,Notebook,Stationery,20854.22
+943,Sofa Set,Home,33166.24
+944,Mixer Grinder,Home,19147.54
+945,Knife Set,Kitchen,212.87
+946,Ceiling Fan,Home,4975.61
+947,Lego Set,Toys,11004.12
+948,T-Shirt,Clothing,37858.84
+949,Car Toy,Toys,2757.87
+950,Puzzle,Toys,17781.45
+951,Tennis Racket,Sports,46296.04
+952,Car Toy,Toys,25820.57
+953,Markers,Stationery,18959.54
+954,Jacket,,40572.02
+955,Bluetooth Speaker,Electronics,35374.83
+956,Sofa Set,Home,45711.93
+957,Pressure Cooker,Kitchen,41310.75
+958,Men Kurta,Clothing,2288.71
+959,Lunch Box,Kitchen,14861.5
+960,Sketch Book,Stationery,36503.18
+961,NCERT Science,Books,26782.84
+962,Sofa Set,Home,16005.11
+963,Knife Set,Kitchen,49631.05
+964,Mathematics Book,Books,20678.2
+965,Laptop,Electronics,29268.64
+966,Non-stick Pan,Kitchen,21386.43
+967,Knife Set,Kitchen,41759.39
+968,Football,Sports,49625.57
+969,Pen Set,Stationery,35332.87
+970,Non-stick Pan,,37537.88
+971,Yoga Mat,Sports,9457.24
+972,Water Bottle,Kitchen,30843.02
+973,Yoga Mat,Sports,11220.67
+974,Sketch Book,Stationery,30108.01
+975,Mobile Phone,Electronics,23248.89
+976,Dumbbell,Sports,11880.12
+977,Laptop,Electronics,26123.9
+978,Notebook,Stationery,49458.91
+979,Jacket,Clothing,42822.99
+980,Pen Set,Stationery,30483.67
+981,Fiction Novel,Books,33251.98
+982,Notebook,Stationery,48300.28
+983,Tennis Racket,Sports,31171.61
+984,T-Shirt,Clothing,39838.94
+985,Mobile Phone,Electronics,24044.57
+986,Tennis Racket,Sports,49686.66
+987,Smart Watch,Electronics,2870.47
+988,Non-stick Pan,Kitchen,897.5
+989,Tennis Racket,Sports,7696.62
+990,Smart Watch,Electronics,22884.14
+991,Puzzle,Toys,34242.87
+992,Jeans,Clothing,1134.68
+993,Mobile Phone,Electronics,46294.01
+994,Fiction Novel,Books,44983.61
+995,Water Bottle,Kitchen,12133.51
+996, FgCnelaiin,Home,21108.01
+997,Men Kurta,Clothing,29627.76
+998,Sketch Book,Stationery,37549.14
+999,Competitive Guide,Books,16057.83
+1000,Pen Set,Stationery,5690.57
+1001,Mathematics Book,Books,40296.16
+1002,Cricket Bat,Sports,4236.61
+1003,Football,Sports,49560.43
+1004,Ceiling Fan,Home,35676.14
+1005,Drawing Kit,Stationery,48454.45
+1006,Fiction Novel,Books,33060.26
+1007,Non-stick Pan,Kitchen,1684.77
+1008,rsMeark,Stationery,7304.63
+1009,Bluetooth Speaker,Electronics,17331.07
+1010,Sketch Book,Stationery,29736.2
+1011,LED TV,Electronics,25413.39
+1012,T-Shirt,Clothing,518.71
+1013,Vacuum Cleaner,Home,39597.71
+1014,Markers,Stationery,23440.05
+1015,T-Shirt,Clothing,42266.08
+1016,Jacket,Clothing,41159.53
+1017,NCERT Science,Books,40405.23
+1018,Pressure Cooker,Kitchen,26888.57
+1019,Action Figure,Toys,9986.78
+1020,Dumbbell,Sports,32340.16
+1021,Football,Sports,39087.43
+1022,Pen Set,Stationery,34463.58
+1023,Jeans,Clothing,29684.57
+1024,Ceiling Fan,Home,39561.91
+1025,Jeans,Clothing,16036.81
+1026,Puzzle,Toys,31805.28
+1027,Cricket Bat,Sports,27500.29
+1028,Competitive Guide,,10136.66
+1029,Jacket,Clothing,49114.59
+1030,Yoga Mat,Sports,7316.87
+1031,Competitive Guide,Books,26611.43
+1032,Yoga Mat,Sports,37803.62
+1033,Smart Watch,Electronics,48400.92
+1034,Fiction Novel,Books,9944.72
+1035,Ceiling Fan,Home,38106.54
+1036,Bluetooth Speaker,Electronics,30384.06
+1037,Knife Set,Kitchen,47081.13
+1038,Tennis Racket,Sports,22058.48
+1039,T-Shirt,Clothing,45994.03
+1040,Mobile Phone,Electronics,47489.13
+1041,Mobile Phone,Electronics,27307.21
+1042,Lego Set,Toys,40363.84
+1043,Jeans,Clothing,43181.2
+1044,Smart Watch,Electronics,33690.83
+1045,Water Bottle,Kitchen,48291.63
+1046,Competitive Guide,Books,38400.03
+1047,eet nSP,Stationery,39783.4
+1048,tovetie pidumeCGi,Books,8146.75
+1049,Drawing Kit,Stationery,29082.08
+1050,Markers,Stationery,30334.29
+1051,Action Figure,Toys,22965.83
+1052,Water Bottle,Kitchen,23501.85
+1053,Competitive Guide,Books,39658.81
+1054,Sketch Book,Stationery,16614.53
+1055,Competitive Guide,Books,42766.05
+1056,Fiction Novel,Books,15456.65
+1057,Smart Watch,Electronics,25624.54
+1058,Sofa Set,Home,41245.26
+1059,Dining Table,Home,34481.2
+1060,Mobile Phone,Electronics,23914.34
+1061,Sofa Set,Home,12995.66
+1062,Vacuum Cleaner,Home,21914.79
+1063,Yoga Mat,Sports,8209.01
+1064,Lego Set,Toys,13774.19
+1065,ehnlPobio eM,Electronics,43858.52
+1066,Markers,Stationery,20311.9
+1067,Action Figure,Toys,27356.11
+1068,Women Saree,Clothing,38381.91
+1069,Jeans,Clothing,45181.9
+1070,Dining Table,Home,37880.66
+1071,T-Shirt,Clothing,46577.79
+1072,Car Toy,Toys,19326.55
+1073,Knife Set,Kitchen,29605.71
+1074,Men Kurta,Clothing,19642.49
+1075,Smart Watch,Electronics,35572.91
+1076,Car Toy,Toys,48052.36
+1077,Puzzle,Toys,9775.32
+1078,Markers,Stationery,14178.46
+1079,Vacuum Cleaner,Home,12752.95
+1080,m rnaaeuVcuCle,Home,49165.83
+1081,Story Book,Books,41893.0
+1082,Water Bottle,Kitchen,48627.64
+1083,Water Bottle,Kitchen,44226.86
+1084,Jeans,Clothing,1529.59
+1085,nderiGM xerri,,33988.87
+1086,Markers,Stationery,11782.65
+1087,Fiction Novel,Books,47888.97
+1088,Laptop,Electronics,46681.15
+1089,lttBkoeoSearphu e,Electronics,14150.66
+1090,Smart Watch,Electronics,16810.05
+1091,Lego Set,Toys,44774.43
+1092,Smart Watch,,1117.56
+1093,Competitive Guide,Books,30096.33
+1094,Pressure Cooker,Kitchen,19736.9
+1095,tMgY aao,Sports,7472.45
+1096,Water Bottle,Kitchen,45693.13
+1097,Men Kurta,Clothing,37032.55
+1098,Mathematics Book,Books,17377.67
+1099,Mathematics Book,Books,33682.21
+1100,Car Toy,Toys,5511.79
+1101,Car Toy,Toys,43381.21
+1102,cCi NcRSeTneE,Books,32744.1
+1103,Ceiling Fan,Home,49266.52
+1104,Laptop,,15829.8
+1105,LED TV,Electronics,21376.7
+1106,Lego Set,Toys,25241.82
+1107,Dumbbell,,46583.23
+1108,Mixer Grinder,Home,175.63
+1109,Notebook,Stationery,5573.72
+1110,Knife Set,Kitchen,49619.06
+1111,Notebook,,40455.42
+1112,Non-stick Pan,Kitchen,16796.6
+1113,hBomtoteskaMica ,Books,48929.21
+1114,Tennis Racket,Sports,24637.15
+1115,NCERT Science,Books,21902.14
+1116,Vacuum Cleaner,Home,31691.38
+1117,Pen Set,Stationery,39672.84
+1118,LED TV,Electronics,21339.74
+1119,BateeSerhuolk opt,Electronics,40377.93
+1120,Drawing Kit,Stationery,31025.64
+1121,Ceiling Fan,Home,7992.55
+1122,Ceiling Fan,Home,33852.08
+1123,Ceiling Fan,Home,4011.12
+1124,Vacuum Cleaner,Home,48592.26
+1125,Story Book,Books,10800.5
+1126,T-Shirt,Clothing,11768.68
+1127,LED TV,Electronics,16745.86
+1128,Men Kurta,Clothing,23106.11
+1129,Lego Set,Toys,5916.04
+1130,Non-stick Pan,Kitchen,39551.01
+1131,Mobile Phone,,5831.47
+1132,Cricket Bat,Sports,46395.26
+1133,Football,Sports,38420.51
+1134,Jeans,Clothing,46387.86
+1135,Bluetooth Speaker,Electronics,43317.41
+1136,LED TV,Electronics,43886.17
+1137,Knife Set,Kitchen,26951.51
+1138,Mobile Phone,Electronics,18416.26
+1139,LED TV,Electronics,10282.46
+1140,Markers,Stationery,8561.33
+1141, TyaCor,Toys,3833.37
+1142,Smart Watch,Electronics,4335.68
+1143,Competitive Guide,Books,49516.06
+1144,Pen Set,Stationery,32494.91
+1145,Ceiling Fan,Home,26863.1
+1146,Drawing Kit,Stationery,36241.23
+1147,NCERT Science,Books,40914.88
+1148,Pressure Cooker,Kitchen,22125.37
+1149,Men Kurta,Clothing,8820.83
+1150,Doll,Toys,34444.62
+1151,Tennis Racket,Sports,43957.93
+1152,Dining Table,Home,19993.04
+1153,Drawing Kit,Stationery,31368.27
+1154,Drawing Kit,Stationery,41389.08
+1155,Doll,Toys,22697.16
+1156,Pen Set,Stationery,27998.55
+1157,Notebook,Stationery,21646.52
+1158,Pressure Cooker,Kitchen,1813.54
+1159,Water Bottle,Kitchen,36466.53
+1160,LED TV,Electronics,37735.93
+1161,Mobile Phone,Electronics,19139.49
+1162,Dumbbell,Sports,47177.61
+1163,Football,Sports,44439.45
+1164,NCERT Science,Books,46518.05
+1165,Story Book,Books,9951.37
+1166,Non-stick Pan,Kitchen,21355.61
+1167,T-Shirt,Clothing,31277.08
+1168,Competitive Guide,Books,34335.63
+1169,oLatpp,Electronics,32617.81
+1170,Lego Set,Toys,45741.83
+1171,fentKSei ,Kitchen,24991.25
+1172,Mathematics Book,Books,10273.4
+1173,Sketch Book,Stationery,45255.54
+1174,NCERT Science,Books,46896.35
+1175,Sofa Set,Home,11340.7
+1176,Sofa Set,Home,28146.25
+1177,Action Figure,Toys,5234.36
+1178,Sketch Book,Stationery,25111.54
+1179,Mobile Phone,Electronics,827.34
+1180,Sketch Book,Stationery,3678.87
+1181,Mobile Phone,Electronics,462.56
+1182,T-Shirt,Clothing,23808.66
+1183,Knife Set,Kitchen,13749.41
+1184,Mobile Phone,Electronics,32825.15
+1185,Cricket Bat,Sports,27117.26
+1186,Markers,Stationery,26696.74
+1187,Fiction Novel,Books,2143.91
+1188,Bluetooth Speaker,Electronics,24194.18
+1189,T-Shirt,Clothing,21011.2
+1190,Non-stick Pan,,44918.48
+1191,T-Shirt,Clothing,6690.62
+1192,Water Bottle,Kitchen,22392.62
+1193,NCERT Science,Books,33358.54
+1194,Story Book,Books,6727.63
+1195,Lunch Box,Kitchen,37750.78
+1196,T-Shirt,Clothing,35664.2
+1197,Women Saree,Clothing,48242.12
+1198,Story Book,Books,44487.07
+1199,Mixer Grinder,Home,6597.26
+1200,Cricket Bat,Sports,16214.09
+1201,Laptop,Electronics,41846.87
+1202,Sofa Set,Home,30608.33
+1203,Laptop,Electronics,36130.38
+1204,Markers,Stationery,37058.39
+1205,Car Toy,Toys,418.17
+1206,Markers,Stationery,20162.64
+1207,Mixer Grinder,Home,7679.71
+1208,rMaksre,Stationery,30317.0
+1209,Mobile Phone,Electronics,5593.76
+1210,Drawing Kit,Stationery,10924.89
+1211,Tennis Racket,Sports,19289.14
+1212,NCERT Science,Books,37089.88
+1213,Mixer Grinder,Home,23873.21
+1214,Yoga Mat,Sports,39510.31
+1215,Smart Watch,Electronics,43125.96
+1216,Football,Sports,34222.06
+1217,Dumbbell,Sports,46504.83
+1218,Dumbbell,Sports,49550.45
+1219,Dining Table,Home,14760.99
+1220,Non-stick Pan,Kitchen,1905.45
+1221,tookyS Bro,Books,8462.86
+1222,LED TV,Electronics,33854.4
+1223,Mixer Grinder,Home,21170.5
+1224,T-Shirt,,36261.0
+1225,Mixer Grinder,Home,40480.61
+1226,Women Saree,Clothing,34770.33
+1227,Football,Sports,7631.04
+1228,Action Figure,,27067.99
+1229,Puzzle,Toys,47517.95
+1230,csint-N koPan,Kitchen,39172.56
+1231,Women Saree,Clothing,13285.75
+1232,Mixer Grinder,Home,14645.83
+1233,Drawing Kit,Stationery,34121.86
+1234,Tennis Racket,Sports,12610.51
+1235,Smart Watch,Electronics,8606.66
+1236,Women Saree,Clothing,22048.83
+1237,Puzzle,Toys,212.47
+1238,Tirt-hS,,22979.4
+1239,Action Figure,Toys,21012.8
+1240,Fiction Novel,Books,18819.57
+1241,Drawing Kit,Stationery,9833.88
+1242,Pressure Cooker,Kitchen,4578.93
+1243,Sketch Book,Stationery,11141.01
+1244,Sofa Set,Home,29899.12
+1245, WeBlttrtaeo,Kitchen,20765.4
+1246,Women Saree,,34469.32
+1247,Doll,Toys,8488.19
+1248,Jeans,,13784.14
+1249,Knife Set,Kitchen,38357.85
+1250,Dining Table,Home,15017.54
+1251,Mixer Grinder,Home,6961.49
+1252,Vacuum Cleaner,,11988.17
+1253,Competitive Guide,Books,14393.39
+1254,Yoga Mat,Sports,45390.79
+1255,Vacuum Cleaner,Home,15699.5
+1256,eeo LSgt,Toys,46007.49
+1257,Cricket Bat,Sports,43699.52
+1258,LED TV,Electronics,4928.64
+1259,t rWoBleaett,Kitchen,24037.98
+1260,Laptop,Electronics,28096.44
+1261,Pressure Cooker,Kitchen,24083.63
+1262,Puzzle,Toys,43315.28
+1263,Car Toy,Toys,29011.17
+1264,Cricket Bat,Sports,39842.89
+1265,Men Kurta,Clothing,42166.73
+1266,Mathematics Book,Books,38736.03
+1267,LED TV,Electronics,39646.67
+1268,Mobile Phone,Electronics,25029.32
+1269,Non-stick Pan,Kitchen,29932.27
+1270,Puzzle,Toys,34562.21
+1271,Sofa Set,Home,30251.61
+1272,Competitive Guide,Books,11922.79
+1273,Lego Set,Toys,12171.89
+1274,Drawing Kit,Stationery,43556.22
+1275,T-Shirt,Clothing,24917.99
+1276,Fiction Novel,Books,36352.33
+1277,Jeans,Clothing,27883.01
+1278,Bluetooth Speaker,Electronics,37832.32
+1279,Co ryTa,Toys,27942.42
+1280,Car Toy,Toys,25118.81
+1281,Competitive Guide,Books,8257.94
+1282,Mobile Phone,Electronics,3099.47
+1283,Pen Set,Stationery,10948.4
+1284,LED TV,Electronics,9148.78
+1285,T-Shirt,Clothing,29209.88
+1286,Sofa Set,Home,44282.92
+1287,Yoga Mat,Sports,6066.5
+1288,Yoga Mat,,46270.66
+1289,Mixer Grinder,Home,20196.4
+1290,Action Figure,Toys,7384.24
+1291,Yoga Mat,Sports,49671.4
+1292,Dining Table,Home,15373.7
+1293,Doll,Toys,40832.16
+1294,Lunch Box,Kitchen,44301.2
+1295,Competitive Guide,Books,18020.99
+1296,Tennis Racket,Sports,17942.35
+1297,Action Figure,Toys,4755.93
+1298,Knife Set,Kitchen,5039.23
+1299,Dining Table,Home,25806.36
+1300,caketJ,Clothing,14553.54
+1301,Pen Set,Stationery,44913.76
+1302,NCERT Science,Books,39414.88
+1303,Ceiling Fan,Home,15724.56
+1304,Pen Set,Stationery,14151.51
+1305,Smart Watch,Electronics,12834.17
+1306,Tennis Racket,,38369.23
+1307,Ceiling Fan,Home,21647.81
+1308,Sofa Set,Home,27596.81
+1309,Markers,Stationery,39554.12
+1310,Competitive Guide,,15391.7
+1311,Action Figure,Toys,46652.06
+1312,NCERT Science,,43566.01
+1313,T-Shirt,Clothing,42927.16
+1314,Story Book,Books,39489.1
+1315,Drawing Kit,Stationery,42143.11
+1316,Men Kurta,Clothing,24246.76
+1317,Women Saree,Clothing,41259.1
+1318,Mobile Phone,Electronics,27125.81
+1319,Sketch Book,Stationery,49659.42
+1320,Dumbbell,Sports,29089.86
+1321,Dumbbell,Sports,47847.44
+1322,Competitive Guide,Books,24122.48
+1323,NCERT Science,Books,10791.87
+1324,LED TV,Electronics,6149.62
+1325,Puzzle,Toys,41498.32
+1326,Lego Set,Toys,5295.71
+1327,Lego Set,Toys,45552.9
+1328,Puzzle,Toys,37749.69
+1329,Markers,,43965.68
+1330,LED TV,Electronics,38518.92
+1331,Car Toy,Toys,27959.62
+1332,T-Shirt,Clothing,38301.45
+1333,Dining Table,Home,7548.59
+1334,Lego Set,Toys,47124.46
+1335,Competitive Guide,Books,44747.35
+1336,Lego Set,Toys,39446.12
+1337,LED TV,Electronics,16202.44
+1338,Lunch Box,Kitchen,9925.22
+1339,LED TV,Electronics,47168.39
+1340,Mobile Phone,Electronics,7265.6
+1341,Cricket Bat,Sports,2503.65
+1342,Lunch Box,Kitchen,13469.45
+1343,Action Figure,Toys,22127.58
+1344,Jeans,Clothing,32927.02
+1345,Sofa Set,Home,5602.63
+1346,Knife Set,,15030.1
+1347,Non-stick Pan,Kitchen,17665.07
+1348,Doll,Toys,34326.91
+1349,Non-stick Pan,Kitchen,9645.35
+1350,Water Bottle,Kitchen,35117.8
+1351,Pen Set,,23584.03
+1352,Dumbbell,Sports,8117.74
+1353,Competitive Guide,Books,33749.11
+1354,Competitive Guide,Books,34308.39
+1355,Cricket Bat,Sports,45130.29
+1356,Non-stick Pan,Kitchen,14560.76
+1357,Mobile Phone,Electronics,7709.41
+1358,Sketch Book,Stationery,16952.9
+1359,Fiction Novel,Books,42294.67
+1360,LED TV,Electronics,23159.09
+1361,Mobile Phone,Electronics,6353.69
+1362,Doll,Toys,2115.47
+1363,Action Figure,Toys,25087.71
+1364,Notebook,,19957.99
+1365,Women Saree,Clothing,27902.4
+1366,Dumbbell,Sports,4878.7
+1367,Jeans,Clothing,7724.97
+1368,Men Kurta,Clothing,35067.24
+1369,Sketch Book,Stationery,16876.17
+1370,Smart Watch,Electronics,4363.13
+1371,Lunch Box,Kitchen,39244.09
+1372,Lunch Box,Kitchen,1790.09
+1373,Pen Set,Stationery,38026.4
+1374,Puzzle,Toys,23136.95
+1375,NCERT Science,Books,12329.4
+1376,Puzzle,Toys,43349.54
+1377,Cricket Bat,Sports,34315.05
+1378,Pen Set,Stationery,16397.63
+1379, ibneaTginDl,Home,8468.11
+1380,Doll,,18443.14
+1381,Lego Set,Toys,22919.02
+1382,Yoga Mat,Sports,33278.91
+1383,Notebook,Stationery,42005.81
+1384,NCERT Science,,1456.55
+1385,Vacuum Cleaner,,8887.61
+1386,Markers,Stationery,48420.03
+1387,Dumbbell,Sports,14990.69
+1388,T-Shirt,Clothing,15880.18
+1389,Dumbbell,Sports,31450.64
+1390,Markers,Stationery,17787.01
+1391,Competitive Guide,Books,35703.17
+1392,Doll,Toys,32354.92
+1393,T-Shirt,Clothing,28573.66
+1394,Jacket,Clothing,18040.94
+1395,NCERT Science,Books,39550.39
+1396,Tennis Racket,Sports,31801.34
+1397,Mathematics Book,Books,3645.81
+1398,Jacket,Clothing,3702.3
+1399,Water Bottle,Kitchen,21949.32
+1400,Lunch Box,Kitchen,33127.58
+1401,T-Shirt,Clothing,46062.63
+1402,Non-stick Pan,Kitchen,49862.32
+1403,Puzzle,,43193.39
+1404,Dumbbell,Sports,2237.23
+1405,Cricket Bat,Sports,42303.88
+1406,Markers,,33604.87
+1407,Non-stick Pan,Kitchen,3665.85
+1408,Fiction Novel,Books,49368.07
+1409,Bluetooth Speaker,Electronics,39800.45
+1410,Non-stick Pan,Kitchen,8349.91
+1411,Laptop,Electronics,20627.7
+1412,Football,Sports,26359.85
+1413,Mobile Phone,Electronics,22288.66
+1414,Tennis Racket,Sports,30393.45
+1415,Water Bottle,Kitchen,46277.41
+1416,Sketch Book,Stationery,31820.08
+1417,Notebook,Stationery,18722.86
+1418,Markers,Stationery,28150.33
+1419,Vacuum Cleaner,Home,26725.39
+1420,Yoga Mat,Sports,33294.53
+1421,Mixer Grinder,Home,34016.99
+1422,Football,Sports,626.21
+1423,Notebook,Stationery,35933.99
+1424,Action Figure,Toys,11765.6
+1425,Smart Watch,Electronics,36177.98
+1426,NCERT Science,Books,45713.17
+1427,Markers,Stationery,9211.38
+1428,aer mneSWeo,Clothing,31803.36
+1429,Story Book,,15521.74
+1430,Yoga Mat,Sports,24107.14
+1431,Laptop,Electronics,10751.94
+1432,Mixer Grinder,Home,41573.15
+1433,Drawing Kit,Stationery,26850.25
+1434,Mixer Grinder,Home,35658.43
+1435,Mobile Phone,Electronics,44835.65
+1436,Notebook,Stationery,26671.56
+1437,Doll,Toys,12816.91
+1438,Action Figure,Toys,26321.23
+1439,Doll,Toys,19974.85
+1440,Notebook,,43445.5
+1441,Tennis Racket,Sports,7133.51
+1442,T-Shirt,Clothing,43102.39
+1443,Laptop,Electronics,19024.82
+1444,Lego Set,Toys,32620.9
+1445,Dumbbell,Sports,21411.27
+1446,Mobile Phone,Electronics,9449.02
+1447,Car Toy,Toys,39696.51
+1448,Bluetooth Speaker,Electronics,35832.14
+1449,Sofa Set,Home,49192.39
+1450,Doll,Toys,26610.74
+1451,Lunch Box,Kitchen,3045.61
+1452,Bluetooth Speaker,Electronics,2729.94
+1453,Dining Table,Home,25810.65
+1454,Bluetooth Speaker,Electronics,6000.65
+1455,Drawing Kit,Stationery,13990.27
+1456,Doll,Toys,42174.28
+1457,yoTraC ,Toys,7314.34
+1458,Water Bottle,Kitchen,49954.74
+1459,Ceiling Fan,Home,28313.05
+1460,Mixer Grinder,Home,1458.97
+1461,Men Kurta,Clothing,29134.61
+1462,Puzzle,Toys,39628.32
+1463,Vacuum Cleaner,Home,49659.48
+1464,Smart Watch,Electronics,633.27
+1465,mlulbDeb,Sports,8046.06
+1466, DebiianlgnT,Home,11950.61
+1467,Vacuum Cleaner,Home,21208.99
+1468,Competitive Guide,Books,38226.33
+1469,Markers,Stationery,37758.17
+1470,Jeans,Clothing,49421.29
+1471,Laptop,Electronics,15063.89
+1472,Knife Set,Kitchen,5153.39
+1473,LED TV,Electronics,27686.72
+1474,gArFnceti uoi,Toys,49746.56
+1475,Puzzle,Toys,12344.65
+1476,Competitive Guide,Books,35480.24
+1477,Smart Watch,Electronics,49953.34
+1478,bmbDulle,Sports,31110.53
+1479,Drawing Kit,Stationery,10653.7
+1480,Mixer Grinder,Home,43715.39
+1481,Markers,Stationery,636.69
+1482,Puzzle,Toys,9308.39
+1483,Jacket,Clothing,17314.9
+1484,ksrraMe,Stationery,29334.04
+1485,Laptop,Electronics,10946.07
+1486,Ceiling Fan,Home,28260.49
+1487,Drawing Kit,Stationery,26613.51
+1488,Notebook,Stationery,47019.24
+1489,NCERT Science,Books,7016.72
+1490,Doll,Toys,9070.32
+1491,Bluetooth Speaker,Electronics,22977.74
+1492,Yoga Mat,Sports,42513.93
+1493,Notebook,Stationery,16944.88
+1494,Smart Watch,Electronics,40823.34
+1495,Smart Watch,Electronics,8232.02
+1496,Markers,Stationery,10051.3
+1497,Competitive Guide,Books,26586.02
+1498,Drawing Kit,Stationery,17388.57
+1499,Mixer Grinder,Home,42850.61
+1500,Notebook,Stationery,19162.86
+1501,Mathematics Book,Books,22742.83
+1502,Story Book,Books,41012.65
+1503,Smart Watch,Electronics,31127.17
+1504,Knife Set,Kitchen,23936.31
+1505,LED TV,Electronics,37688.61
+1506,Mixer Grinder,Home,48499.3
+1507,Puzzle,Toys,39865.25
+1508,Action Figure,Toys,10243.13
+1509,Sketch Book,Stationery,440.11
+1510,Pen Set,Stationery,39587.93
+1511,Puzzle,Toys,22820.82
+1512,oiinvcN Flote,Books,2254.33
+1513,Dumbbell,Sports,37490.53
+1514,Water Bottle,Kitchen,39996.26
+1515,Dining Table,Home,49189.52
+1516,Yoga Mat,Sports,1514.18
+1517,Bluetooth Speaker,Electronics,37549.6
+1518,Markers,Stationery,6340.01
+1519,Water Bottle,Kitchen,1412.0
+1520,Pen Set,Stationery,18193.16
+1521,Jeans,,43080.14
+1522,Tennis Racket,Sports,29465.86
+1523,Notebook,Stationery,42070.15
+1524,Jacket,Clothing,35121.51
+1525,Notebook,Stationery,32059.57
+1526,Lunch Box,Kitchen,10768.38
+1527,Women Saree,Clothing,41174.44
+1528,T-Shirt,Clothing,13262.66
+1529,Dumbbell,Sports,45984.53
+1530,Fiction Novel,Books,35434.36
+1531,Fiction Novel,Books,48103.57
+1532,Lunch Box,Kitchen,25207.76
+1533,Women Saree,Clothing,22103.62
+1534,Water Bottle,Kitchen,28523.83
+1535,Fiction Novel,Books,7169.03
+1536,Doll,Toys,34520.65
+1537,looPhei beMn,Electronics,40218.52
+1538,Dumbbell,Sports,9160.83
+1539,Lunch Box,Kitchen,34191.88
+1540,NCERT Science,Books,4230.49
+1541,Doll,Toys,12295.55
+1542,oobtoNke,Stationery,49148.43
+1543,Men Kurta,Clothing,27832.02
+1544,Notebook,Stationery,31015.77
+1545,Non-stick Pan,Kitchen,14462.32
+1546,Doll,Toys,14948.93
+1547,Smart Watch,Electronics,37049.16
+1548,Smart Watch,Electronics,195.11
+1549,Smart Watch,Electronics,14947.71
+1550,Competitive Guide,Books,27644.29
+1551,Competitive Guide,Books,24902.34
+1552,Ceiling Fan,Home,9658.62
+1553,Competitive Guide,Books,28014.8
+1554,Laptop,Electronics,23894.92
+1555,Car Toy,Toys,28442.67
+1556,Lego Set,Toys,27702.88
+1557,Sketch Book,Stationery,25700.43
+1558,Football,Sports,43244.76
+1559,Tennis Racket,Sports,17074.61
+1560,Knife Set,Kitchen,13126.91
+1561,Smart Watch,Electronics,1023.22
+1562,Markers,Stationery,1419.12
+1563,Mobile Phone,Electronics,38497.51
+1564,Action Figure,Toys,14021.32
+1565,Vacuum Cleaner,Home,24564.48
+1566,Smart Watch,Electronics,7003.88
+1567,Action Figure,Toys,32082.98
+1568,Lego Set,Toys,33080.04
+1569,Lego Set,Toys,7685.49
+1570,Tennis Racket,Sports,41378.44
+1571,NCERT Science,Books,49155.86
+1572,Mixer Grinder,Home,19336.82
+1573,Lego Set,Toys,26988.33
+1574,T-Shirt,Clothing,36989.45
+1575,Drawing Kit,Stationery,47100.31
+1576,Mixer Grinder,Home,7029.3
+1577,Dining Table,Home,23805.2
+1578,Action Figure,Toys,6894.51
+1579,Puzzle,Toys,9707.39
+1580,Dumbbell,Sports,7162.4
+1581,Notebook,Stationery,41694.54
+1582,LDVE T,Electronics,19509.21
+1583,Lego Set,Toys,39649.12
+1584,NCERT Science,Books,36400.87
+1585,Competitive Guide,Books,13570.56
+1586,Drawing Kit,Stationery,41837.84
+1587,Car Toy,Toys,44616.87
+1588,Non-stick Pan,Kitchen,47614.76
+1589,Mixer Grinder,Home,9726.75
+1590,Men Kurta,Clothing,29376.66
+1591,Laptop,Electronics,5809.72
+1592,Puzzle,Toys,8304.25
+1593,Women Saree,Clothing,21157.12
+1594,Car Toy,Toys,6892.23
+1595,Doll,,29596.45
+1596,Mixer Grinder,Home,11296.94
+1597,Mathematics Book,Books,32380.61
+1598,Mixer Grinder,Home,31426.46
+1599,Markers,Stationery,9482.76
+1600,Knife Set,Kitchen,4142.62
+1601,Lunch Box,Kitchen,29301.83
+1602,Laptop,Electronics,22570.71
+1603,Fiction Novel,Books,31317.03
+1604,Markers,Stationery,47336.1
+1605,T-Shirt,,11396.15
+1606, aMoatYg,Sports,46368.46
+1607,Competitive Guide,Books,25325.61
+1608,P -nitcskanNo,Kitchen,30002.43
+1609,Laptop,Electronics,4369.25
+1610,NCERT Science,Books,14692.06
+1611,Notebook,Stationery,42038.39
+1612,Doll,Toys,6191.54
+1613,Non-stick Pan,Kitchen,33989.68
+1614,Dining Table,Home,15849.45
+1615,Dining Table,Home,25150.12
+1616,Tennis Racket,Sports,24286.78
+1617,li invtocNoFe,Books,37651.96
+1618,Pen Set,Stationery,22162.75
+1619,Laptop,Electronics,32984.57
+1620,Mathematics Book,Books,17174.69
+1621,Doll,Toys,10811.23
+1622,Sofa Set,Home,42892.22
+1623,Story Book,Books,7266.93
+1624,LED TV,Electronics,16808.4
+1625,Smart Watch,Electronics,35875.1
+1626,Mixer Grinder,Home,46057.06
+1627,Jacket,Clothing,4254.28
+1628,D witgiKarn,Stationery,31120.24
+1629,Puzzle,Toys,47685.09
+1630,Lunch Box,Kitchen,40270.2
+1631,T-Shirt,,24965.94
+1632,Story Book,Books,16194.91
+1633,Vacuum Cleaner,Home,1492.2
+1634,Vacuum Cleaner,Home,47078.5
+1635,Football,Sports,27943.45
+1636,Women Saree,Clothing,41994.83
+1637,Football,Sports,24193.82
+1638,Dumbbell,Sports,30133.91
+1639,Sketch Book,Stationery,43114.2
+1640,Markers,Stationery,28442.78
+1641,Women Saree,Clothing,13571.99
+1642,Dumbbell,Sports,18987.83
+1643,Lego Set,Toys,34817.58
+1644,Car Toy,Toys,42333.82
+1645,Bluetooth Speaker,Electronics,37513.49
+1646,Dining Table,Home,26956.83
+1647,Dumbbell,Sports,15680.26
+1648,Fiction Novel,Books,3116.89
+1649,Pen Set,Stationery,37855.75
+1650,Drawing Kit,Stationery,3498.13
+1651,Sofa Set,Home,29056.1
+1652,Smart Watch,Electronics,8919.79
+1653,Sofa Set,Home,15895.86
+1654,Puzzle,Toys,22326.45
+1655,Mobile Phone,Electronics,13046.36
+1656,Women Saree,Clothing,31630.08
+1657,Smart Watch,Electronics,39656.89
+1658,Vacuum Cleaner,Home,12175.82
+1659,Bluetooth Speaker,Electronics,24265.09
+1660,Mobile Phone,Electronics,45278.96
+1661,Puzzle,Toys,46119.53
+1662,Jeans,Clothing,6653.24
+1663,LED TV,Electronics,8354.19
+1664,Competitive Guide,Books,24176.68
+1665,Yga atMo,Sports,648.06
+1666,Car Toy,Toys,23234.76
+1667,Dumbbell,Sports,5100.43
+1668,Ceiling Fan,Home,21399.28
+1669,Jacket,Clothing,42321.67
+1670,Notebook,Stationery,29416.96
+1671,Mathematics Book,Books,10999.44
+1672,iceeSNcnRE TC,,1511.1
+1673,Story Book,Books,47812.61
+1674,Non-stick Pan,Kitchen,5312.65
+1675,Dining Table,Home,6001.39
+1676,NCERT Science,Books,44421.2
+1677,Sofa Set,Home,20148.75
+1678,Jacket,Clothing,2593.2
+1679,Sofa Set,Home,24706.76
+1680,Sofa Set,Home,5876.93
+1681,Sketch Book,Stationery,43859.41
+1682,Dumbbell,Sports,21025.59
+1683,Men Kurta,Clothing,45495.96
+1684,NCERT Science,Books,1529.79
+1685,Competitive Guide,Books,29522.48
+1686,Cricket Bat,Sports,29486.2
+1687,Car Toy,Toys,31178.07
+1688,Dumbbell,Sports,20683.31
+1689,oleWBa rttte,Kitchen,16206.2
+1690,Women Saree,Clothing,14696.95
+1691,Sofa Set,Home,21885.03
+1692,LED TV,Electronics,1999.9
+1693,Pen Set,Stationery,38684.7
+1694,Action Figure,Toys,19557.81
+1695,Sofa Set,Home,15566.52
+1696,Action Figure,Toys,19112.74
+1697,Knife Set,Kitchen,26706.42
+1698,Pressure Cooker,Kitchen,15470.9
+1699,Markers,Stationery,18914.06
+1700,Fiction Novel,Books,40579.79
+1701,Notebook,,43507.78
+1702,Men Kurta,Clothing,6153.54
+1703,Pressure Cooker,Kitchen,48781.58
+1704,Competitive Guide,Books,30210.71
+1705,Competitive Guide,Books,3025.27
+1706,Laptop,Electronics,31838.73
+1707,Men Kurta,Clothing,41386.19
+1708,LED TV,Electronics,4550.21
+1709,Competitive Guide,Books,1885.35
+1710,Knife Set,Kitchen,38826.84
+1711,Sketch Book,Stationery,4737.53
+1712,Ceiling Fan,Home,46203.98
+1713,Notebook,Stationery,43539.64
+1714,Women Saree,Clothing,30178.23
+1715,inin TDagleb,Home,12525.63
+1716,Sofa Set,Home,2663.62
+1717,Lego Set,Toys,41431.05
+1718,Cricket Bat,Sports,27880.84
+1719,Tennis Racket,Sports,22443.36
+1720,NCERT Science,,6930.83
+1721,Bluetooth Speaker,Electronics,43132.13
+1722,Cricket Bat,Sports,18590.86
+1723,T-Shirt,Clothing,28573.83
+1724,Mathematics Book,Books,22566.93
+1725,T-Shirt,Clothing,37361.83
+1726,Ceiling Fan,Home,9712.18
+1727,Ceiling Fan,Home,11746.49
+1728,Smart Watch,Electronics,8874.07
+1729,Puzzle,Toys,41589.34
+1730,Sofa Set,Home,41828.22
+1731,Story Book,Books,20014.67
+1732,Bluetooth Speaker,Electronics,36079.02
+1733,Smart Watch,Electronics,4328.58
+1734,T-Shirt,,15764.2
+1735,Mobile Phone,Electronics,8895.17
+1736,Mobile Phone,Electronics,44398.1
+1737,a SSofet,Home,33652.6
+1738,Vacuum Cleaner,Home,42293.96
+1739,Jsane,Clothing,13451.11
+1740,Bluetooth Speaker,Electronics,542.49
+1741,NCERT Science,Books,5936.88
+1742,NCERT Science,Books,44299.16
+1743,Cricket Bat,Sports,45341.55
+1744,li voNeoFcitn,Books,13517.91
+1745,Lego Set,Toys,936.12
+1746,Doll,Toys,34522.76
+1747,Markers,Stationery,36378.54
+1748,Smart Watch,Electronics,39759.19
+1749,Jacket,Clothing,46378.72
+1750,NCERT Science,Books,33217.59
+1751,Cricket Bat,Sports,18155.34
+1752,Sketch Book,Stationery,30023.33
+1753,Sketch Book,Stationery,21496.06
+1754,Lunch Box,Kitchen,27620.32
+1755,LED TV,Electronics,39041.26
+1756,Smart Watch,Electronics,45657.07
+1757,Puzzle,Toys,23299.32
+1758,Ceiling Fan,Home,3389.9
+1759,Tennis Racket,Sports,35343.52
+1760,LED TV,Electronics,42724.78
+1761,NktaPn scin-o,Kitchen,3282.32
+1762,Jacket,Clothing,21096.09
+1763,Mathematics Book,Books,18513.35
+1764,inTgilbea Dn,Home,31052.83
+1765,Jacket,Clothing,35343.44
+1766,Vacuum Cleaner,Home,33591.85
+1767,LED TV,Electronics,27163.91
+1768,Jacket,Clothing,27126.84
+1769,Pressure Cooker,Kitchen,7012.68
+1770,Puzzle,Toys,5625.59
+1771,Bluetooth Speaker,Electronics,3813.62
+1772,NCERT Science,,15854.33
+1773,Story Book,,31608.49
+1774,TCao yr,Toys,39838.7
+1775,Drawing Kit,Stationery,6464.49
+1776,Football,Sports,18976.17
+1777,Dumbbell,Sports,18205.99
+1778,Ceiling Fan,Home,25996.3
+1779,T-Shirt,Clothing,48034.14
+1780,Lego Set,Toys,19672.41
+1781,NCERT Science,Books,18820.88
+1782,toWreBt tlea,Kitchen,46362.29
+1783,Jacket,Clothing,8720.17
+1784,Mobile Phone,Electronics,4844.06
+1785,Competitive Guide,Books,5941.7
+1786,Tennis Racket,Sports,45511.63
+1787,Non-stick Pan,Kitchen,4004.05
+1788,Sketch Book,Stationery,45106.5
+1789,Ceiling Fan,Home,575.84
+1790,Drawing Kit,Stationery,18058.89
+1791,Tennis Racket,Sports,27710.15
+1792,Cricket Bat,,25004.69
+1793,NCERT Science,Books,36574.79
+1794,Sofa Set,Home,14305.3
+1795,e nSPet,Stationery,30273.54
+1796,Fiction Novel,Books,42566.87
+1797,Tennis Racket,Sports,10599.38
+1798,Notebook,Stationery,21867.38
+1799,Lunch Box,Kitchen,34385.59
+1800,Cricket Bat,Sports,1027.42
+1801,Knife Set,Kitchen,21366.17
+1802,Pen Set,Stationery,23351.7
+1803,Lego Set,Toys,38378.46
+1804,Non-stick Pan,,26018.09
+1805,Action Figure,,15969.63
+1806,Mobile Phone,Electronics,24399.66
+1807,Tennis Racket,Sports,33327.19
+1808,Sofa Set,Home,7352.47
+1809,Puzzle,Toys,34913.39
+1810,Car Toy,Toys,21443.39
+1811,Mixer Grinder,Home,13272.11
+1812,Knife Set,Kitchen,19831.08
+1813,Dining Table,,27002.95
+1814,Drawing Kit,Stationery,15716.6
+1815,Doll,Toys,34640.51
+1816,Drawing Kit,Stationery,3007.42
+1817,Pen Set,Stationery,4636.32
+1818,Non-stick Pan,Kitchen,19243.93
+1819,Lunch Box,Kitchen,31287.15
+1820,Lunch Box,Kitchen,27837.63
+1821,Vacuum Cleaner,Home,19662.36
+1822,Competitive Guide,Books,1741.97
+1823,T-Shirt,Clothing,23476.26
+1824,NCERT Science,Books,17857.26
+1825,Doll,Toys,29722.38
+1826,Ceiling Fan,Home,5025.62
+1827,Non-stick Pan,Kitchen,9993.11
+1828,Cricket Bat,Sports,45654.38
+1829,Puzzle,Toys,38676.58
+1830,Vacuum Cleaner,Home,27055.77
+1831,Women Saree,Clothing,23887.88
+1832,Tennis Racket,Sports,20014.99
+1833,Dumbbell,Sports,41147.23
+1834,Sofa Set,Home,11790.3
+1835,Dumbbell,Sports,31164.09
+1836,Car Toy,Toys,26519.54
+1837,NCERT Science,Books,21810.2
+1838,Story Book,Books,7074.72
+1839,Lunch Box,Kitchen,20841.07
+1840,itKag Dwirn,Stationery,9568.04
+1841,Water Bottle,Kitchen,491.0
+1842,Pressure Cooker,Kitchen,43043.59
+1843,Notebook,Stationery,41798.16
+1844,Ceiling Fan,Home,38478.32
+1845,Pen Set,Stationery,40095.66
+1846,onolPeeb ihM,Electronics,7113.85
+1847,Men Kurta,Clothing,24518.08
+1848,Lunch Box,Kitchen,15782.55
+1849,Lego Set,Toys,47585.14
+1850,Action Figure,Toys,13372.47
+1851,Puzzle,Toys,36157.99
+1852,Mixer Grinder,Home,33917.44
+1853,Laptop,Electronics,42151.67
+1854,Yoga Mat,Sports,20958.13
+1855,Sofa Set,Home,15451.07
+1856,Jacket,Clothing,16941.2
+1857,Ceiling Fan,Home,15152.7
+1858,Mathematics Book,Books,20317.5
+1859,Story Book,Books,23195.55
+1860,Jacket,Clothing,43594.17
+1861,Pressure Cooker,Kitchen,5153.88
+1862,Lunch Box,Kitchen,11251.79
+1863,Water Bottle,Kitchen,2204.74
+1864,Sofa Set,Home,43756.61
+1865,Tennis Racket,,16652.27
+1866,Story Book,Books,43079.74
+1867,Jacket,,48951.47
+1868,VL TED,Electronics,2593.19
+1869,Ceiling Fan,,4913.32
+1870,Sofa Set,Home,8895.52
+1871,Lunch Box,Kitchen,10085.41
+1872,Sketch Book,,29916.29
+1873,Bluetooth Speaker,Electronics,20525.91
+1874,aurVmaC necelu,,11294.41
+1875,Pressure Cooker,Kitchen,27130.79
+1876,Ceiling Fan,,29421.36
+1877,Fiction Novel,Books,17226.97
+1878,Car Toy,Toys,18106.49
+1879,NCERT Science,Books,46616.96
+1880,Men Kurta,Clothing,28215.25
+1881,Bluetooth Speaker,Electronics,45056.69
+1882,Pressure Cooker,Kitchen,41006.65
+1883,Doll,Toys,46129.43
+1884,Mobile Phone,Electronics,3283.32
+1885,Non-stick Pan,Kitchen,23231.05
+1886,Fiction Novel,Books,1151.0
+1887,Knife Set,Kitchen,46486.74
+1888,Tennis Racket,,37043.51
+1889,Sofa Set,Home,7526.42
+1890,Fiction Novel,Books,14294.26
+1891,Action Figure,Toys,7079.49
+1892,Dining Table,Home,13387.43
+1893,Pressure Cooker,Kitchen,20562.1
+1894,Action Figure,Toys,6727.85
+1895,Vacuum Cleaner,Home,14790.45
+1896,Notebook,Stationery,10918.36
+1897,Water Bottle,Kitchen,25798.71
+1898,Mobile Phone,Electronics,48991.33
+1899,Sofa Set,Home,9653.19
+1900,Ceiling Fan,Home,2150.46
+1901,Men Kurta,Clothing,31180.93
+1902,Yoga Mat,Sports,19518.26
+1903,Jacket,,18291.1
+1904,Puzzle,Toys,9083.86
+1905,Lunch Box,Kitchen,47877.66
+1906,Drawing Kit,Stationery,23258.44
+1907,Smart Watch,Electronics,5612.89
+1908,Drawing Kit,Stationery,19484.89
+1909,Drawing Kit,Stationery,30562.19
+1910,Mathematics Book,Books,17439.23
+1911,Sofa Set,Home,30897.64
+1912,Sofa Set,Home,32331.15
+1913,Pressure Cooker,Kitchen,35574.74
+1914,Women Saree,Clothing,44221.25
+1915,og aMYta,Sports,31736.03
+1916,Drawing Kit,Stationery,48140.02
+1917,Dining Table,Home,38305.0
+1918,Men Kurta,Clothing,40150.77
+1919,Jeans,Clothing,4088.85
+1920,Fiction Novel,Books,41219.65
+1921,Notebook,Stationery,23831.52
+1922,Jeans,Clothing,44364.6
+1923,Pen Set,Stationery,25755.73
+1924,Story Book,Books,31774.1
+1925,Cricket Bat,Sports,9949.05
+1926,pLatpo,Electronics,27045.55
+1927,Laptop,Electronics,14468.87
+1928,Mobile Phone,Electronics,37891.46
+1929,Dumbbell,Sports,13182.43
+1930,Women Saree,Clothing,16027.66
+1931,Football,Sports,33335.7
+1932,Dumbbell,Sports,36665.52
+1933,Water Bottle,Kitchen,11722.26
+1934,Men Kurta,,28334.87
+1935,Yoga Mat,,16559.27
+1936,Lunch Box,Kitchen,2801.17
+1937,Smart Watch,Electronics,44053.85
+1938,Pen Set,Stationery,35937.8
+1939,Women Saree,Clothing,30436.46
+1940,Puzzle,Toys,11245.46
+1941,Jeans,Clothing,34113.75
+1942,LED TV,Electronics,20342.56
+1943,Bluetooth Speaker,,2697.75
+1944,LED TV,Electronics,37242.49
+1945,Women Saree,Clothing,35193.91
+1946,Mixer Grinder,Home,7048.06
+1947,Knife Set,Kitchen,49578.86
+1948,Women Saree,Clothing,30077.19
+1949,Car Toy,Toys,4268.03
+1950,Men Kurta,Clothing,35307.17
+1951,Water Bottle,Kitchen,6539.44
+1952,Markers,Stationery,38538.79
+1953,Dumbbell,Sports,14421.72
+1954,Story Book,Books,20539.46
+1955,Tennis Racket,Sports,17110.32
+1956,Dumbbell,Sports,546.19
+1957,Sofa Set,Home,48404.48
+1958,Jacket,Clothing,13772.85
+1959,Sketch Book,Stationery,44730.35
+1960,Water Bottle,Kitchen,23894.24
+1961,Mobile Phone,,27960.72
+1962,Markers,Stationery,45370.17
+1963,Pressure Cooker,Kitchen,40487.9
+1964,Vacuum Cleaner,Home,11338.03
+1965,Markers,Stationery,37415.91
+1966,Pen Set,Stationery,23923.54
+1967,Sofa Set,Home,49559.04
+1968,Football,Sports,45353.56
+1969,Sofa Set,Home,39745.75
+1970,Puzzle,Toys,27604.53
+1971,Mixer Grinder,Home,48524.84
+1972,Water Bottle,,16969.5
+1973,Mobile Phone,Electronics,37731.67
+1974,Action Figure,Toys,5378.64
+1975,rhTSit-,Clothing,21398.99
+1976,Notebook,Stationery,48863.07
+1977,Notebook,,4788.21
+1978,Bluetooth Speaker,Electronics,23013.71
+1979,Pen Set,Stationery,31752.33
+1980,Jacket,Clothing,29305.96
+1981,o tLegSe,Toys,47683.04
+1982,Dining Table,Home,22730.64
+1983,Dining Table,Home,15984.92
+1984,Pressure Cooker,Kitchen,34117.12
+1985,biPeo ohelnM,Electronics,38949.41
+1986,Puzzle,Toys,2499.47
+1987,paoptL,Electronics,21481.97
+1988,Puzzle,Toys,38005.29
+1989,Mathematics Book,Books,9070.32
+1990,Action Figure,Toys,17939.91
+1991,Doll,Toys,32578.64
+1992,Smart Watch,Electronics,45918.79
+1993,Mobile Phone,Electronics,28216.65
+1994,Water Bottle,Kitchen,46194.31
+1995,Car Toy,Toys,16606.85
+1996,LED TV,Electronics,47191.2
+1997,Men Kurta,,16993.7
+1998,Football,Sports,10100.76
+1999,Vacuum Cleaner,Home,46012.93
+2000,Mixer Grinder,Home,44225.83
+2001,Doll,Toys,889.76
+2002,Cricket Bat,Sports,48448.21
+2003,LED TV,Electronics,44601.82
+2004,Story Book,Books,28140.03
+2005,Jeans,Clothing,5039.99
+2006,Laptop,Electronics,25793.32
+2007,Car Toy,Toys,48992.32
+2008,Sofa Set,Home,33359.81
+2009,Tennis Racket,Sports,12130.17
+2010,Men Kurta,Clothing,18303.69
+2011,Mixer Grinder,Home,45427.77
+2012,Laptop,Electronics,8523.97
+2013,Laptop,Electronics,26225.81
+2014,Dining Table,Home,5664.35
+2015,Competitive Guide,Books,39019.76
+2016,Mixer Grinder,Home,3840.5
+2017,Lppota,Electronics,27074.96
+2018,Drawing Kit,Stationery,19767.96
+2019,Ceiling Fan,Home,34570.98
+2020,Bluetooth Speaker,Electronics,43496.03
+2021,Lego Set,Toys,28161.14
+2022,Non-stick Pan,Kitchen,29174.34
+2023,Women Saree,Clothing,30446.57
+2024,Puzzle,Toys,37876.77
+2025,Women Saree,Clothing,2242.21
+2026,Ceiling Fan,Home,28886.26
+2027,Ceiling Fan,Home,26942.6
+2028,Jeans,Clothing,7052.6
+2029,LED TV,Electronics,1665.05
+2030,Bluetooth Speaker,Electronics,32185.96
+2031,Water Bottle,Kitchen,39612.88
+2032,Drawing Kit,Stationery,36718.75
+2033,Mobile Phone,Electronics,14902.17
+2034,T-Shirt,Clothing,368.09
+2035,T-Shirt,Clothing,15741.09
+2036,Sofa Set,Home,38512.1
+2037,Laptop,Electronics,33120.76
+2038,Lunch Box,Kitchen,29113.85
+2039,Sofa Set,Home,32083.98
+2040,Cricket Bat,Sports,4294.92
+2041,Competitive Guide,Books,42857.28
+2042,Fiction Novel,Books,26663.76
+2043,Doll,Toys,35515.53
+2044,Jeans,Clothing,32960.47
+2045,Dining Table,Home,2541.73
+2046,Football,Sports,6521.39
+2047,Laptop,Electronics,28715.88
+2048,Story Book,Books,42937.38
+2049,Dining Table,Home,28200.15
+2050,Dumbbell,Sports,12232.77
+2051,Lunch Box,Kitchen,31098.97
+2052,Men Kurta,Clothing,32409.95
+2053,Mixer Grinder,Home,30848.3
+2054,Laptop,Electronics,12582.38
+2055,T-Shirt,Clothing,40618.88
+2056,Puzzle,Toys,33066.69
+2057,Tennis Racket,Sports,17466.53
+2058,Knife Set,Kitchen,38579.29
+2059,Pressure Cooker,Kitchen,24855.28
+2060,Bluetooth Speaker,Electronics,27731.84
+2061,Fiction Novel,Books,35806.53
+2062,Doll,Toys,33569.36
+2063,Competitive Guide,Books,14706.88
+2064,Competitive Guide,Books,8150.44
+2065,T-Shirt,Clothing,49695.51
+2066,Non-stick Pan,Kitchen,13776.08
+2067,Competitive Guide,Books,30798.13
+2068,Football,Sports,6938.33
+2069,Laptop,Electronics,448.22
+2070,Water Bottle,Kitchen,48704.35
+2071,Dumbbell,Sports,17225.13
+2072,Men Kurta,Clothing,5422.46
+2073,Mixer Grinder,Home,39427.75
+2074,Yoga Mat,,42125.83
+2075,Sofa Set,Home,9874.09
+2076,Mixer Grinder,Home,32133.5
+2077,Knife Set,Kitchen,15937.47
+2078,Smart Watch,Electronics,32318.76
+2079,Cricket Bat,Sports,14770.54
+2080,Ceiling Fan,Home,42121.95
+2081,Dining Table,Home,6534.95
+2082,Football,Sports,15557.72
+2083,LED TV,Electronics,29878.58
+2084,Jacket,,41734.96
+2085,Water Bottle,Kitchen,48998.73
+2086,Markers,Stationery,43704.4
+2087,Lunch Box,Kitchen,20525.74
+2088,Action Figure,Toys,27800.34
+2089,Pen Set,Stationery,41640.56
+2090,Jacket,Clothing,33956.41
+2091,Mathematics Book,Books,15948.32
+2092,T-Shirt,Clothing,36391.82
+2093,Women Saree,Clothing,22157.33
+2094,Fiction Novel,Books,40426.79
+2095, LEDVT,Electronics,41001.0
+2096,Mathematics Book,,32827.21
+2097,Lunch Box,,45365.03
+2098,Smart Watch,Electronics,14465.89
+2099,cotkhek oBS,Stationery,21096.94
+2100,Dining Table,Home,22079.15
+2101,Vacuum Cleaner,Home,28223.41
+2102,Women Saree,Clothing,36399.99
+2103,LED TV,Electronics,6004.73
+2104,Story Book,Books,37423.12
+2105,Water Bottle,Kitchen,9437.18
+2106,Laptop,Electronics,42218.73
+2107,tlbolaoF,Sports,46741.08
+2108,Pressure Cooker,Kitchen,9648.31
+2109,Puzzle,Toys,8732.22
+2110,Doll,Toys,19946.14
+2111,Jeans,Clothing,1755.7
+2112,Yoga Mat,Sports,22055.83
+2113,Markers,Stationery,5330.79
+2114,NCERT Science,Books,16180.53
+2115,Puzzle,Toys,43645.18
+2116,Cricket Bat,Sports,47176.37
+2117,Yoga Mat,Sports,30974.92
+2118,Dumbbell,Sports,41437.93
+2119,Tennis Racket,Sports,10527.0
+2120,Bluetooth Speaker,Electronics,44816.34
+2121,Latppo,Electronics,31745.51
+2122,Women Saree,Clothing,31152.12
+2123,Football,Sports,23878.21
+2124,Ceiling Fan,Home,18682.95
+2125,Story Book,Books,37976.72
+2126,Action Figure,Toys,2117.64
+2127,T-Shirt,Clothing,29486.15
+2128,Ceiling Fan,,39350.46
+2129,Competitive Guide,Books,43743.91
+2130,Sketch Book,Stationery,20418.1
+2131,Men Kurta,Clothing,11793.01
+2132,Pressure Cooker,Kitchen,20162.59
+2133,Mathematics Book,Books,12049.76
+2134,Lunch Box,Kitchen,32545.18
+2135,Football,Sports,18500.79
+2136,Drawing Kit,Stationery,49598.77
+2137,Mathematics Book,Books,21897.85
+2138,Sofa Set,Home,41709.86
+2139,Sketch Book,Stationery,33718.74
+2140,Competitive Guide,Books,26198.25
+2141,Laptop,Electronics,18724.34
+2142,Pressure Cooker,Kitchen,13871.66
+2143,Jeans,Clothing,18521.95
+2144,Pressure Cooker,Kitchen,28462.55
+2145,Car Toy,Toys,8176.71
+2146,Action Figure,Toys,17729.0
+2147,Markers,Stationery,30729.94
+2148,Fiction Novel,Books,15355.54
+2149,Pressure Cooker,Kitchen,5301.91
+2150,Lunch Box,Kitchen,28838.75
+2151,Lunch Box,,23186.36
+2152,Jeans,Clothing,39540.01
+2153,Dining Table,Home,21891.76
+2154,Mobile Phone,Electronics,4027.91
+2155,Competitive Guide,Books,14435.04
+2156,Dining Table,,30939.39
+2157,Smart Watch,Electronics,18584.7
+2158,Jeans,Clothing,27044.63
+2159,Ce eutGemdiitovip,Books,472.83
+2160,Action Figure,Toys,3554.19
+2161,Laptop,Electronics,19453.6
+2162,LED TV,Electronics,21190.81
+2163,Water Bottle,Kitchen,10900.71
+2164,Football,Sports,45244.95
+2165,Dining Table,Home,3398.07
+2166,Mobile Phone,,29104.66
+2167,Jacket,Clothing,36193.78
+2168,Action Figure,Toys,48375.61
+2169,NCERT Science,Books,17939.91
+2170,Laptop,Electronics,36238.06
+2171,Football,Sports,18943.56
+2172,eBklhpaeooStre ut,Electronics,25458.67
+2173,Puzzle,Toys,10375.86
+2174,Story Book,Books,39506.25
+2175,Mathematics Book,Books,4514.56
+2176,Football,Sports,18379.48
+2177,Tennis Racket,Sports,29544.12
+2178,Sofa Set,Home,5776.9
+2179,Laptop,Electronics,13929.5
+2180,Smart Watch,Electronics,13187.36
+2181,Yoga Mat,Sports,19969.88
+2182,NCERT Science,Books,18408.56
+2183,Pressure Cooker,Kitchen,10765.76
+2184,Notebook,Stationery,20719.56
+2185,Jeans,Clothing,35340.85
+2186,Dumbbell,Sports,19057.97
+2187,Fiction Novel,Books,44466.02
+2188,Water Bottle,Kitchen,47311.83
+2189,Football,Sports,3869.25
+2190,Sketch Book,Stationery,33796.16
+2191,Fiction Novel,Books,2904.03
+2192,Sketch Book,Stationery,12608.79
+2193,Men Kurta,Clothing,19675.05
+2194,Pressure Cooker,Kitchen,46102.73
+2195,Non-stick Pan,Kitchen,25716.2
+2196,Mixer Grinder,Home,49894.4
+2197,Cricket Bat,Sports,2956.79
+2198,Ceiling Fan,Home,49765.25
+2199,Mixer Grinder,Home,46047.58
+2200,Mixer Grinder,Home,39128.71
+2201,Competitive Guide,Books,2407.74
+2202,Mathematics Book,Books,29502.67
+2203,Smart Watch,Electronics,30048.73
+2204,Knife Set,Kitchen,28049.63
+2205,Non-stick Pan,Kitchen,27031.33
+2206,Sofa Set,Home,24653.63
+2207,Smart Watch,Electronics,4971.43
+2208,Mobile Phone,Electronics,32980.69
+2209,Water Bottle,,40109.31
+2210,Water Bottle,Kitchen,33040.96
+2211,Men Kurta,Clothing,33957.58
+2212,Sofa Set,Home,47100.14
+2213,Bluetooth Speaker,,14621.89
+2214,Smart Watch,,8154.04
+2215,Competitive Guide,Books,33585.95
+2216,Lunch Box,Kitchen,15221.62
+2217,Car Toy,Toys,36260.96
+2218,Dining Table,Home,31062.24
+2219,Puzzle,Toys,31747.5
+2220,Competitive Guide,Books,32290.52
+2221,Action Figure,Toys,44051.0
+2222,Pressure Cooker,Kitchen,35208.88
+2223,Ceiling Fan,Home,16554.27
+2224,Lego Set,Toys,23494.92
+2225,Puzzle,Toys,3502.51
+2226,Sofa Set,Home,3404.18
+2227,Pen Set,Stationery,11548.28
+2228,Fiction Novel,Books,12605.1
+2229,Markers,Stationery,1590.44
+2230,Action Figure,Toys,1121.24
+2231,Vacuum Cleaner,Home,428.89
+2232,Sketch Book,Stationery,44660.48
+2233,Jacket,Clothing,31783.37
+2234,Jacket,Clothing,23039.77
+2235,Mixer Grinder,Home,16319.84
+2236,Jacket,Clothing,4305.61
+2237,Water Bottle,Kitchen,46929.75
+2238,Dumbbell,Sports,20313.03
+2239,Smart Watch,Electronics,12018.85
+2240,Jekcta,Clothing,4573.07
+2241,Water Bottle,Kitchen,11104.99
+2242,Knife Set,Kitchen,27931.08
+2243,Football,Sports,20038.66
+2244,Markers,Stationery,26903.09
+2245,Laptop,Electronics,43535.06
+2246,Knife Set,Kitchen,47472.81
+2247,Car Toy,Toys,5285.61
+2248,Yoga Mat,Sports,9893.17
+2249,Notebook,Stationery,16189.37
+2250,Women Saree,Clothing,18748.95
+2251,Women Saree,Clothing,31919.56
+2252,Yoga Mat,Sports,9094.09
+2253,T-Shirt,Clothing,45959.56
+2254,Ceiling Fan,Home,23264.1
+2255,Car Toy,,6215.4
+2256,Drawing Kit,Stationery,45195.86
+2257,Jacket,Clothing,49980.91
+2258,Jeans,Clothing,17012.73
+2259,Mixer Grinder,Home,14795.06
+2260,LED TV,Electronics,26358.2
+2261,Doll,,30838.39
+2262,Smart Watch,Electronics,1411.42
+2263,Lunch Box,Kitchen,11343.32
+2264,Women Saree,Clothing,23070.1
+2265,Lpptoa,Electronics,21710.18
+2266,Pen Set,Stationery,12876.85
+2267,Pen Set,Stationery,8931.44
+2268,Pressure Cooker,Kitchen,4102.54
+2269,Smart Watch,Electronics,32930.76
+2270,Yoga Mat,Sports,38273.75
+2271,T-Shirt,Clothing,34722.23
+2272,Story Book,Books,18749.34
+2273,Lunch Box,Kitchen,47014.34
+2274,Laptop,Electronics,12880.26
+2275,Men Kurta,Clothing,48731.12
+2276,Men Kurta,Clothing,30047.25
+2277,Football,Sports,22596.2
+2278,Cricket Bat,Sports,49379.35
+2279,Puzzle,Toys,43958.26
+2280,Sofa Set,Home,31493.21
+2281,Mixer Grinder,Home,18390.7
+2282,Water Bottle,Kitchen,47760.67
+2283,Women Saree,Clothing,13368.61
+2284,Pressure Cooker,Kitchen,34229.13
+2285,Women Saree,Clothing,48073.89
+2286,Smart Watch,Electronics,44232.0
+2287,Car Toy,Toys,46986.84
+2288,Women Saree,Clothing,19391.53
+2289,Story Book,Books,14925.37
+2290,oleWtttBra e,Kitchen,48641.8
+2291,Water Bottle,,29114.12
+2292,Sofa Set,Home,13827.54
+2293,Competitive Guide,Books,27759.18
+2294,Tennis Racket,Sports,34478.68
+2295,Smart Watch,Electronics,49154.29
+2296,atin cnekTeRs,Sports,38803.25
+2297,Bluetooth Speaker,Electronics,43083.37
+2298,Women Saree,Clothing,36898.06
+2299,Knife Set,Kitchen,4616.46
+2300,Women Saree,Clothing,19114.89
+2301,Jacket,Clothing,44539.06
+2302,Dumbbell,,48802.14
+2303,Vacuum Cleaner,Home,10907.35
+2304,koahaMe ctitoBms,Books,47791.43
+2305,eaeurCnVlu amc,Home,31018.84
+2306,Non-stick Pan,Kitchen,42345.55
+2307,Mixer Grinder,Home,28176.17
+2308,Car Toy,Toys,40462.19
+2309,Jeans,Clothing,8237.11
+2310,Cricket Bat,Sports,39446.71
+2311,lDol,Toys,23305.73
+2312,Football,Sports,45885.59
+2313,NCERT Science,Books,11801.08
+2314,Ceiling Fan,Home,9101.1
+2315,Notebook,Stationery,403.45
+2316,Notebook,Stationery,22677.6
+2317,Mathematics Book,Books,41052.16
+2318,Bluetooth Speaker,Electronics,25528.53
+2319,Jeans,Clothing,27191.94
+2320,LED TV,Electronics,29631.09
+2321,NCERT Science,Books,26989.84
+2322,T-Shirt,Clothing,23997.14
+2323,Puzzle,Toys,8769.11
+2324,Notebook,Stationery,12693.47
+2325,Laptop,Electronics,13186.41
+2326,Pressure Cooker,Kitchen,11642.6
+2327,Laptop,Electronics,2866.64
+2328,Kearn tMu,Clothing,24693.64
+2329,Competitive Guide,Books,13533.94
+2330,LED TV,Electronics,876.92
+2331,Drawing Kit,Stationery,18007.15
+2332,Non-stick Pan,Kitchen,5943.3
+2333,Pressure Cooker,Kitchen,26207.21
+2334,Water Bottle,Kitchen,14991.72
+2335,Drawing Kit,Stationery,29940.36
+2336,Lego Set,Toys,15933.31
+2337,Non-stick Pan,Kitchen,49235.19
+2338,Jacket,Clothing,9155.86
+2339,Notebook,Stationery,35150.03
+2340,Lego Set,Toys,7950.41
+2341,Lunch Box,Kitchen,31215.11
+2342,Knife Set,Kitchen,24772.78
+2343,Drawing Kit,Stationery,34826.43
+2344,Car Toy,Toys,22966.23
+2345,Mobile Phone,Electronics,6264.5
+2346,Action Figure,Toys,16718.68
+2347,zezuPl,Toys,32612.84
+2348,Dumbbell,Sports,23240.59
+2349,Jacket,Clothing,30471.99
+2350,T-Shirt,Clothing,42536.88
+2351,Mobile Phone,Electronics,44477.17
+2352,Jacket,Clothing,40690.77
+2353,Puzzle,Toys,17678.32
+2354,Drawing Kit,Stationery,5412.67
+2355,LED TV,Electronics,44400.12
+2356,Tennis Racket,Sports,40148.22
+2357,Mixer Grinder,Home,26255.2
+2358,Action Figure,Toys,8098.96
+2359,Lego Set,Toys,35847.06
+2360,Laptop,Electronics,39428.49
+2361,Women Saree,Clothing,28559.56
+2362,Puzzle,Toys,5216.87
+2363,Mathematics Book,Books,27034.06
+2364,Bluetooth Speaker,Electronics,38762.91
+2365,Jacket,Clothing,13934.33
+2366,Lego Set,Toys,38535.95
+2367,Dining Table,Home,37004.89
+2368,Markers,Stationery,35377.32
+2369,T-Shirt,Clothing,38894.51
+2370,Markers,Stationery,19804.33
+2371,Knife Set,Kitchen,11112.05
+2372,Non-stick Pan,Kitchen,39222.67
+2373,Drawing Kit,,20291.58
+2374,Vacuum Cleaner,Home,48965.33
+2375,Puzzle,Toys,29395.17
+2376,Sofa Set,Home,36005.3
+2377,Competitive Guide,,43356.33
+2378,NCERT Science,Books,40362.91
+2379,Knife Set,Kitchen,4605.3
+2380,Knife Set,Kitchen,49533.41
+2381,Lunch Box,Kitchen,22618.18
+2382, tekrtpBoSuaelhoe,,46459.44
+2383,Ceiling Fan,Home,33282.71
+2384,Markers,Stationery,48826.35
+2385,Men Kurta,Clothing,38240.3
+2386,Men Kurta,Clothing,2773.15
+2387,Lunch Box,Kitchen,35273.3
+2388,Yoga Mat,Sports,41302.0
+2389,Cricket Bat,Sports,35764.71
+2390,Car Toy,Toys,13980.39
+2391,hkctekoSBo ,Stationery,45892.66
+2392,Notebook,,25512.8
+2393,Notebook,Stationery,21524.87
+2394,Women Saree,Clothing,14714.39
+2395,T-Shirt,Clothing,17072.41
+2396,Water Bottle,Kitchen,19354.23
+2397,Women Saree,Clothing,16817.33
+2398,Pressure Cooker,Kitchen,34971.42
+2399,NCERT Science,Books,3630.46
+2400,Tennis Racket,Sports,8985.09
+2401,Tennis Racket,Sports,20189.75
+2402,Non-stick Pan,Kitchen,38188.08
+2403,Lunch Box,Kitchen,18534.91
+2404,Sofa Set,,23574.24
+2405,Lego Set,Toys,42911.52
+2406,T-Shirt,Clothing,357.7
+2407,Women Saree,Clothing,10014.03
+2408,Mathematics Book,Books,8893.81
+2409,T-Shirt,Clothing,14430.03
+2410,Mixer Grinder,Home,35205.15
+2411,Ceiling Fan,Home,48085.55
+2412,Yoga Mat,Sports,25671.81
+2413,Peen St,Stationery,1125.33
+2414,Bluetooth Speaker,Electronics,22022.3
+2415,LED TV,Electronics,33756.46
+2416,Sofa Set,Home,1068.2
+2417,NCERT Science,Books,9301.51
+2418,Doll,Toys,48216.65
+2419,Competitive Guide,,33576.33
+2420,Pen Set,Stationery,29101.67
+2421,Jacket,Clothing,27367.56
+2422,Markers,Stationery,17535.19
+2423,Mathematics Book,,40262.52
+2424,Jeans,Clothing,28948.86
+2425,Mobile Phone,Electronics,12983.46
+2426,Mobile Phone,Electronics,36195.3
+2427,Women Saree,Clothing,11194.5
+2428,Fiction Novel,Books,42280.5
+2429,Lego Set,Toys,27129.33
+2430,Women Saree,Clothing,31984.17
+2431,NCERT Science,,49333.13
+2432,Lego Set,Toys,27612.0
+2433,Dining Table,Home,3727.81
+2434,Car Toy,Toys,29448.46
+2435,Jacket,Clothing,20777.7
+2436,Jacket,Clothing,7289.42
+2437,Pressure Cooker,Kitchen,46206.68
+2438,Ceiling Fan,Home,33184.32
+2439,Mathematics Book,Books,38263.62
+2440,Cricket Bat,,27980.98
+2441,NCERT Science,Books,20106.91
+2442,Mathematics Book,Books,32972.35
+2443,Bluetooth Speaker,Electronics,34677.18
+2444,Lego Set,Toys,27911.1
+2445,Smart Watch,Electronics,40660.56
+2446,Lunch Box,Kitchen,10715.14
+2447,Men Kurta,Clothing,33187.22
+2448,Competitive Guide,Books,27975.11
+2449,Mathematics Book,Books,31951.26
+2450,Competitive Guide,Books,17535.82
+2451,Notebook,Stationery,6845.52
+2452,Action Figure,Toys,44508.42
+2453,Lego Set,Toys,45327.81
+2454,NCERT Science,Books,11155.49
+2455,LED TV,Electronics,32678.78
+2456,Vacuum Cleaner,Home,4806.25
+2457,Dumbbell,Sports,38777.43
+2458,Fiction Novel,,39726.52
+2459,Mixer Grinder,Home,30445.78
+2460,Action Figure,Toys,45763.86
+2461,Non-stick Pan,Kitchen,36300.51
+2462,Puzzle,Toys,35046.55
+2463,Bluetooth Speaker,Electronics,44667.61
+2464,Action Figure,Toys,6609.82
+2465,Non-stick Pan,Kitchen,14019.76
+2466,Action Figure,Toys,32878.15
+2467,Bluetooth Speaker,,4259.62
+2468,Water Bottle,,7220.64
+2469,Yoga Mat,Sports,17634.12
+2470,Non-stick Pan,Kitchen,4169.46
+2471,Vacuum Cleaner,,17981.03
+2472,Pen Set,Stationery,13902.11
+2473,Drawing Kit,Stationery,21767.97
+2474,LED TV,Electronics,26230.2
+2475,Smart Watch,Electronics,28008.85
+2476,Sketch Book,Stationery,19480.75
+2477,Dumbbell,,23648.79
+2478,Jacket,Clothing,6826.52
+2479,Dumbbell,Sports,21224.8
+2480,Laptop,Electronics,10457.66
+2481,Yoga Mat,Sports,40295.39
+2482,NCERT Science,Books,11676.1
+2483,Women Saree,Clothing,19705.56
+2484,Women Saree,Clothing,29335.93
+2485,Mixer Grinder,Home,40130.92
+2486,Mathematics Book,Books,22040.15
+2487,Competitive Guide,Books,26006.04
+2488,Non-stick Pan,Kitchen,4366.16
+2489,Yoga Mat,,17605.99
+2490,Cricket Bat,Sports,35426.3
+2491,NCERT Science,Books,7946.37
+2492,Cricket Bat,Sports,1767.9
+2493,Cricket Bat,Sports,37108.85
+2494,Bluetooth Speaker,Electronics,26671.51
+2495,Notebook,Stationery,3221.75
+2496,Bluetooth Speaker,Electronics,6596.05
+2497,tBt oaeetrWl,Kitchen,14782.22
+2498,Ceiling Fan,Home,37547.55
+2499,Jeans,Clothing,39856.6
+2500,i ketnneasTcR,Sports,17124.08
+2501,Pressure Cooker,Kitchen,12388.51
+2502,Sketch Book,Stationery,15643.9
+2503,Competitive Guide,Books,37180.09
+2504,Jeans,Clothing,7432.29
+2505,LED TV,Electronics,48876.77
+2506,Puzzle,Toys,35669.05
+2507,Jeans,Clothing,19086.44
+2508,Pen Set,Stationery,21156.7
+2509,Knife Set,Kitchen,21226.53
+2510,Markers,Stationery,11118.97
+2511,Non-stick Pan,Kitchen,32538.19
+2512,Cricket Bat,Sports,3255.63
+2513,Markers,Stationery,24932.04
+2514,Men Kurta,Clothing,18053.79
+2515,Mathematics Book,Books,36709.46
+2516,Bluetooth Speaker,Electronics,40601.99
+2517,Smart Watch,Electronics,2054.35
+2518,Action Figure,Toys,870.28
+2519,Action Figure,Toys,25466.01
+2520,Laptop,Electronics,12612.05
+2521,Lunch Box,,28104.12
+2522,Vacuum Cleaner,Home,48914.12
+2523,Jeans,Clothing,46267.36
+2524,NCERT Science,Books,21025.0
+2525,Competitive Guide,Books,34573.52
+2526,Women Saree,Clothing,7725.29
+2527,Women Saree,Clothing,42770.41
+2528,Pressure Cooker,Kitchen,8178.22
+2529,Women Saree,Clothing,18755.2
+2530,Women Saree,Clothing,14730.68
+2531,T-Shirt,Clothing,2952.89
+2532,Tennis Racket,Sports,44350.96
+2533,Lunch Box,Kitchen,44517.48
+2534,iwKtni argD,Stationery,29362.62
+2535,Football,Sports,4220.69
+2536,Car Toy,Toys,19441.56
+2537,Football,Sports,7213.77
+2538,Dumbbell,Sports,45286.83
+2539,Puzzle,Toys,2633.2
+2540,Football,Sports,4749.08
+2541,Bluetooth Speaker,Electronics,28439.47
+2542,Puzzle,Toys,423.35
+2543,Yoga Mat,Sports,17644.35
+2544,Ceiling Fan,Home,45383.52
+2545,Doll,Toys,15286.47
+2546,Lego Set,Toys,32162.15
+2547,Men Kurta,Clothing,48905.86
+2548,Knife Set,Kitchen,4147.08
+2549,Sofa Set,Home,41726.79
+2550,Mobile Phone,Electronics,32818.72
+2551,Vacuum Cleaner,Home,40871.63
+2552,Bluetooth Speaker,Electronics,1543.31
+2553,Knife Set,Kitchen,14896.8
+2554,Notebook,Stationery,36783.61
+2555,nit aDrKgiw,Stationery,28281.71
+2556,Ceiling Fan,,43627.4
+2557,NCERT Science,Books,11715.93
+2558,Mathematics Book,Books,42961.83
+2559,Yoga Mat,,43079.5
+2560,Puzzle,Toys,26906.78
+2561,Knife Set,Kitchen,5044.32
+2562,Puzzle,Toys,27844.19
+2563,Knife Set,Kitchen,28242.16
+2564,Tennis Racket,Sports,5377.44
+2565,Puzzle,Toys,19930.3
+2566,Laptop,Electronics,44294.16
+2567,Vacuum Cleaner,Home,21997.52
+2568,Drawing Kit,Stationery,6440.89
+2569,Laptop,Electronics,40201.81
+2570,Tennis Racket,Sports,21602.87
+2571,Mobile Phone,Electronics,11151.02
+2572,Jacket,Clothing,49415.01
+2573,rakesMr,Stationery,10421.43
+2574,Smart Watch,Electronics,19649.21
+2575,Smart Watch,Electronics,11537.38
+2576,Notebook,Stationery,14825.07
+2577,Vacuum Cleaner,Home,7949.31
+2578,Smart Watch,Electronics,14163.56
+2579,Tennis Racket,Sports,22523.87
+2580,Non-stick Pan,Kitchen,13565.51
+2581,Vacuum Cleaner,Home,34933.14
+2582,Knife Set,Kitchen,37291.28
+2583,Mobile Phone,Electronics,20864.66
+2584,Bluetooth Speaker,Electronics,14405.98
+2585,Water Bottle,Kitchen,44286.93
+2586,Markers,Stationery,15828.69
+2587,Sketch Book,Stationery,21494.44
+2588,Cricket Bat,Sports,43210.62
+2589,Dumbbell,Sports,19574.97
+2590,Pressure Cooker,Kitchen,26198.31
+2591,Bluetooth Speaker,Electronics,38093.02
+2592,Car Toy,Toys,8352.95
+2593,Vacuum Cleaner,Home,22349.46
+2594,Puzzle,Toys,4097.77
+2595,Women Saree,Clothing,16221.17
+2596,Jeans,,27865.82
+2597,Football,Sports,13933.1
+2598,Football,,22489.26
+2599,Car Toy,Toys,29443.9
+2600,Smart Watch,Electronics,32326.18
+2601,Notebook,Stationery,12686.56
+2602,Notebook,Stationery,11664.43
+2603,Vacuum Cleaner,Home,12048.4
+2604,Jeans,Clothing,49044.14
+2605,Dumbbell,Sports,6780.12
+2606,Bluetooth Speaker,Electronics,37176.42
+2607,Competitive Guide,Books,24894.92
+2608,Ceiling Fan,Home,27648.92
+2609,Pen Set,Stationery,42517.29
+2610,Men Kurta,,29608.83
+2611,Mixer Grinder,Home,18523.32
+2612,Ceiling Fan,Home,29117.94
+2613,LED TV,Electronics,45749.43
+2614,Jeans,,45344.09
+2615,Fiction Novel,Books,10322.51
+2616,SafSoe t,Home,26080.14
+2617,Markers,Stationery,49062.19
+2618,Lego Set,Toys,21750.86
+2619,Puzzle,Toys,36035.24
+2620,Puzzle,Toys,45288.07
+2621,Mobile Phone,Electronics,43271.02
+2622,Tennis Racket,Sports,21710.39
+2623,Lego Set,Toys,13009.72
+2624,Non-stick Pan,Kitchen,8238.17
+2625,Sketch Book,Stationery,29742.85
+2626,Story Book,Books,43697.22
+2627,Drawing Kit,Stationery,42522.87
+2628,Smart Watch,Electronics,10969.93
+2629,Mixer Grinder,Home,7274.85
+2630,Mixer Grinder,Home,35973.41
+2631,Smart Watch,Electronics,44860.86
+2632,Notebook,Stationery,48895.79
+2633,Car Toy,Toys,13995.1
+2634,Mathematics Book,Books,42348.46
+2635,Fiction Novel,Books,44263.34
+2636,Yoga Mat,Sports,18632.06
+2637,Mobile Phone,Electronics,40381.16
+2638,Sketch Book,Stationery,17118.24
+2639,LED TV,Electronics,39378.15
+2640,Action Figure,Toys,16114.55
+2641,Sketch Book,Stationery,14028.41
+2642,Lego Set,Toys,21866.47
+2643,Jacket,Clothing,24580.17
+2644,rdrienxG Mier,Home,21173.5
+2645,Action Figure,Toys,38157.91
+2646,Pen Set,Stationery,33553.91
+2647,Vacuum Cleaner,Home,43295.78
+2648,Ceiling Fan,Home,47970.92
+2649,Pressure Cooker,Kitchen,47600.5
+2650,Lunch Box,Kitchen,35062.94
+2651,Notebook,Stationery,46963.49
+2652,Doll,Toys,17400.8
+2653,Jacket,Clothing,14395.36
+2654,Lego Set,Toys,16826.45
+2655,Car Toy,Toys,13629.78
+2656,Drawing Kit,Stationery,21047.12
+2657,LED TV,Electronics,49949.2
+2658,Yoga Mat,Sports,18276.79
+2659,Bluetooth Speaker,Electronics,36943.47
+2660,Tennis Racket,Sports,6545.99
+2661,Car Toy,Toys,12064.22
+2662,Tennis Racket,Sports,15924.8
+2663,Ceiling Fan,Home,49638.04
+2664,Non-stick Pan,Kitchen,27348.14
+2665,Jacket,Clothing,34764.71
+2666,galDnbniT ei,Home,44976.94
+2667,Puzzle,Toys,34885.32
+2668,Sketch Book,Stationery,48107.37
+2669,Water Bottle,Kitchen,17809.2
+2670,Story Book,Books,18630.0
+2671,Lunch Box,Kitchen,2057.34
+2672,Dumbbell,Sports,28226.13
+2673,Mixer Grinder,Home,32458.61
+2674,Jacket,Clothing,23384.3
+2675,Lego Set,,12983.54
+2676,Men Kurta,Clothing,10719.5
+2677,Women Saree,Clothing,24240.97
+2678,Fiction Novel,Books,2591.86
+2679,Fiction Novel,Books,11429.5
+2680,ePSe tn,Stationery,29593.23
+2681,Ceiling Fan,Home,29763.86
+2682,Bluetooth Speaker,Electronics,5121.12
+2683,Laptop,Electronics,38518.36
+2684,cnP-nasNoi tk,Kitchen,15123.91
+2685,Notebook,Stationery,44558.19
+2686,Vacuum Cleaner,Home,19192.67
+2687,Sketch Book,Stationery,22984.09
+2688,Doll,Toys,17852.28
+2689,Markers,Stationery,13014.84
+2690,Mixer Grinder,Home,32105.62
+2691,Doll,Toys,5548.02
+2692,Notebook,Stationery,7512.9
+2693,Sketch Book,Stationery,48728.56
+2694,Water Bottle,Kitchen,39029.16
+2695,Car Toy,Toys,13813.4
+2696,Doll,Toys,30840.94
+2697,Yoga Mat,Sports,18448.1
+2698,Pressure Cooker,Kitchen,12483.69
+2699,Story Book,Books,4360.42
+2700,Sketch Book,Stationery,14608.2
+2701,Lego Set,Toys,5073.0
+2702,Puzzle,Toys,5447.3
+2703,Markers,Stationery,1346.65
+2704,LED TV,Electronics,9170.88
+2705,Doll,Toys,27321.81
+2706,Pen Set,Stationery,25621.1
+2707,Puzzle,Toys,10543.24
+2708,Vacuum Cleaner,Home,21336.07
+2709,Men Kurta,Clothing,39974.1
+2710,Smart Watch,Electronics,15723.4
+2711,Yoga Mat,Sports,49261.89
+2712,Competitive Guide,Books,36429.12
+2713,Laptop,Electronics,49040.41
+2714,Markers,Stationery,28386.27
+2715,Women Saree,Clothing,33962.52
+2716,Knife Set,Kitchen,46839.26
+2717,Cricket Bat,Sports,23668.48
+2718,Women Saree,Clothing,18345.29
+2719,Pressure Cooker,Kitchen,46319.47
+2720,Water Bottle,Kitchen,7567.74
+2721,Sketch Book,Stationery,36026.55
+2722,Puzzle,Toys,15978.45
+2723,Fiction Novel,Books,4476.3
+2724,Lunch Box,Kitchen,29749.32
+2725,Lunch Box,Kitchen,8560.1
+2726,Knife Set,Kitchen,49724.14
+2727,Doll,Toys,22299.94
+2728,Men Kurta,Clothing,10762.92
+2729,Bluetooth Speaker,Electronics,27027.57
+2730,Sofa Set,Home,32759.54
+2731,Action Figure,Toys,28109.45
+2732,Mobile Phone,Electronics,15697.4
+2733,Lunch Box,Kitchen,16272.15
+2734,biTng elaniD,Home,28005.25
+2735,NCERT Science,Books,25429.03
+2736,Laptop,Electronics,7435.44
+2737,Action Figure,Toys,31823.44
+2738,Lunch Box,Kitchen,19714.12
+2739,Water Bottle,Kitchen,21861.38
+2740,Ceiling Fan,Home,33920.75
+2741,Pen Set,Stationery,33849.64
+2742,Puzzle,Toys,24273.81
+2743,Yoga Mat,Sports,25415.31
+2744,Fiction Novel,Books,4293.12
+2745,Jeans,Clothing,19193.68
+2746,Fiction Novel,,46454.67
+2747,T-Shirt,Clothing,4102.96
+2748,Laptop,Electronics,11620.73
+2749,Puzzle,Toys,46330.0
+2750,Jeans,Clothing,46225.36
+2751,Men Kurta,Clothing,33972.77
+2752,Vacuum Cleaner,,37942.6
+2753,Dining Table,Home,2006.73
+2754,Knife Set,Kitchen,16507.42
+2755,Puzzle,,36905.18
+2756,Jeans,Clothing,47055.77
+2757,Car Toy,Toys,11374.61
+2758,Jacket,Clothing,43961.53
+2759,Story Book,Books,40555.35
+2760,Vacuum Cleaner,Home,25047.1
+2761,Jeans,Clothing,2922.5
+2762,orPss euorkereC,Kitchen,12370.26
+2763,eorS naemeW,Clothing,19682.98
+2764, FeunrtAcioig,Toys,42894.97
+2765,Sofa Set,Home,23793.75
+2766,Mixer Grinder,Home,46993.96
+2767,Football,Sports,49424.71
+2768,Mathematics Book,Books,43367.01
+2769,Non-stick Pan,Kitchen,705.45
+2770,LED TV,Electronics,27017.29
+2771,Dumbbell,Sports,37188.27
+2772,Mathematics Book,Books,27805.85
+2773,Sofa Set,Home,13416.64
+2774,Action Figure,Toys,10558.08
+2775,Action Figure,Toys,30633.47
+2776,Mixer Grinder,Home,47195.97
+2777,Competitive Guide,Books,21930.84
+2778,Men Kurta,Clothing,27789.94
+2779,Mixer Grinder,Home,2951.93
+2780,Water Bottle,Kitchen,45402.06
+2781,Lunch Box,Kitchen,24639.41
+2782,Jacket,Clothing,1367.17
+2783,Fiction Novel,Books,13527.45
+2784,Bluetooth Speaker,Electronics,41046.11
+2785,Football,Sports,43303.51
+2786,Smart Watch,Electronics,41497.13
+2787,Vacuum Cleaner,Home,41310.11
+2788,Ceiling Fan,,11260.44
+2789,Knife Set,Kitchen,41252.68
+2790,Pressure Cooker,Kitchen,19455.47
+2791,Water Bottle,,44007.85
+2792,Mathematics Book,Books,22802.73
+2793,Action Figure,Toys,8698.23
+2794,Men Kurta,Clothing,31490.24
+2795,T-Shirt,Clothing,47026.97
+2796,Laptop,Electronics,33034.66
+2797,Markers,Stationery,45604.24
+2798,Sofa Set,Home,7942.8
+2799,Ceiling Fan,,30748.16
+2800,Sketch Book,,20534.26
+2801,Cricket Bat,Sports,6208.38
+2802,T-Shirt,Clothing,24445.95
+2803,Jacket,Clothing,2351.51
+2804,Football,Sports,38780.84
+2805,Puzzle,Toys,24328.41
+2806,Women Saree,Clothing,29623.25
+2807,Action Figure,Toys,13237.97
+2808,Ceiling Fan,Home,39089.23
+2809,Fiction Novel,Books,32883.58
+2810,Knife Set,Kitchen,16618.08
+2811,oa gYMta,Sports,29626.77
+2812,Smart Watch,Electronics,36104.1
+2813,NCERT Science,Books,36341.02
+2814,Drawing Kit,Stationery,9125.49
+2815,Fiction Novel,Books,18661.4
+2816,o koSytoBr,Books,42946.75
+2817,Sketch Book,Stationery,44679.06
+2818,Sketch Book,Stationery,5056.95
+2819,Dining Table,Home,31570.66
+2820,Story Book,Books,2140.07
+2821,Car Toy,Toys,8245.69
+2822,Fiction Novel,Books,5174.31
+2823,Story Book,Books,15796.84
+2824,Mobile Phone,Electronics,34125.38
+2825,Knife Set,Kitchen,45162.53
+2826,Mathematics Book,Books,23652.46
+2827,Yoga Mat,Sports,37658.54
+2828,ogAci tneruFi,Toys,17437.41
+2829,Water Bottle,Kitchen,43622.05
+2830,Jacket,Clothing,17322.09
+2831,Cricket Bat,Sports,27214.81
+2832,Football,Sports,6211.83
+2833,T-Shirt,Clothing,15867.28
+2834,LED TV,Electronics,8958.4
+2835,Dining Table,Home,35106.3
+2836,Markers,Stationery,17638.88
+2837,Mobile Phone,,38934.85
+2838,Lego Set,Toys,11303.91
+2839,Dining Table,Home,6074.3
+2840,Jacket,Clothing,28702.83
+2841,Notebook,Stationery,29817.43
+2842,Yoga Mat,Sports,11569.36
+2843,Dining Table,Home,25679.88
+2844,Tennis Racket,Sports,41659.79
+2845,Mathematics Book,Books,1094.05
+2846,Sketch Book,Stationery,27715.75
+2847,Notebook,Stationery,38385.79
+2848,Non-stick Pan,Kitchen,18123.3
+2849,Dumbbell,Sports,5876.81
+2850,Women Saree,Clothing,1678.35
+2851,ernemWaSoe ,Clothing,41295.44
+2852,Women Saree,Clothing,18371.05
+2853,Jeans,Clothing,31664.82
+2854,Story Book,Books,41444.87
+2855,Lunch Box,Kitchen,32755.76
+2856,LED TV,Electronics,363.83
+2857,Sofa Set,Home,24888.41
+2858,Drawing Kit,Stationery,2529.83
+2859,Pen Set,Stationery,15546.6
+2860,Sketch Book,Stationery,22431.9
+2861,T-Shirt,Clothing,11636.59
+2862,Pressure Cooker,Kitchen,27838.93
+2863,Pen Set,,49245.75
+2864,lzzPue,Toys,1896.21
+2865,Smart Watch,Electronics,44134.12
+2866,Story Book,Books,41667.16
+2867,Cricket Bat,Sports,648.82
+2868,Women Saree,Clothing,43118.19
+2869,Tennis Racket,Sports,45348.38
+2870,Fiction Novel,Books,22404.71
+2871,Notebook,Stationery,34612.16
+2872,Ceiling Fan,Home,9394.67
+2873,Cricket Bat,Sports,6368.72
+2874,Jeans,Clothing,21367.31
+2875,Mixer Grinder,Home,28451.7
+2876,Mixer Grinder,Home,44269.56
+2877,Sketch Book,Stationery,18327.34
+2878,Dining Table,,33855.53
+2879,Sketch Book,Stationery,4735.53
+2880,Sofa Set,Home,2188.21
+2881,Dumbbell,Sports,43115.64
+2882,Puzzle,Toys,13295.37
+2883,Notebook,Stationery,23524.8
+2884,Action Figure,Toys,47362.05
+2885,Non-stick Pan,Kitchen,49734.07
+2886,NCERT Science,Books,14719.36
+2887,Dining Table,Home,7919.2
+2888,Markers,Stationery,18226.5
+2889,Dining Table,Home,49023.08
+2890,Dumbbell,Sports,46514.21
+2891,Action Figure,Toys,9305.42
+2892,Story Book,Books,3022.63
+2893,Bluetooth Speaker,,4578.35
+2894,LED TV,Electronics,31231.6
+2895,Knife Set,Kitchen,22012.79
+2896,Football,Sports,40553.53
+2897,Doll,Toys,37607.75
+2898,Yoga Mat,Sports,27880.88
+2899,Jeans,Clothing,35337.78
+2900,Action Figure,Toys,9271.45
+2901,Pen Set,,24858.01
+2902,Competitive Guide,Books,27441.5
+2903,Women Saree,Clothing,37821.61
+2904,T-Shirt,Clothing,16205.25
+2905,o nhuxcBL,Kitchen,36621.09
+2906,Jacket,Clothing,689.04
+2907,Knife Set,Kitchen,6376.58
+2908,Sofa Set,Home,7757.2
+2909, TVDEL,Electronics,17235.2
+2910,LED TV,Electronics,15022.88
+2911,Mixer Grinder,Home,25606.72
+2912,Smart Watch,Electronics,37388.26
+2913,Dining Table,Home,47581.46
+2914,Fiction Novel,Books,31373.71
+2915,LED TV,Electronics,17934.93
+2916,Jeans,Clothing,45682.13
+2917,Pressure Cooker,Kitchen,24319.33
+2918,Smart Watch,Electronics,15387.39
+2919,Bluetooth Speaker,Electronics,48550.26
+2920,Mixer Grinder,Home,16451.6
+2921,Knife Set,Kitchen,7261.96
+2922,Mathematics Book,Books,27100.12
+2923,Smart Watch,Electronics,42550.14
+2924,nlVCercuamaeu ,Home,42614.87
+2925,Mixer Grinder,Home,5804.68
+2926,rWm eeaenoS,Clothing,26894.03
+2927,atctaWrhm S,Electronics,43431.06
+2928,Dining Table,Home,49789.6
+2929,Dining Table,Home,33215.53
+2930,Water Bottle,Kitchen,35470.92
+2931,Markers,Stationery,17247.1
+2932,Ceiling Fan,Home,42964.67
+2933,Markers,Stationery,43208.84
+2934,ooeFn licvNti,Books,5545.88
+2935,Smart Watch,Electronics,41585.89
+2936,Men Kurta,Clothing,39492.92
+2937,Puzzle,Toys,4188.69
+2938,ioGeup dtCeveitmi,Books,7919.8
+2939,Ceiling Fan,Home,34801.52
+2940,Jeans,,34534.98
+2941,Women Saree,,9944.48
+2942,Pen Set,Stationery,27656.04
+2943,Knife Set,Kitchen,25083.2
+2944,Mixer Grinder,Home,35523.74
+2945,Pressure Cooker,Kitchen,33237.69
+2946,Smart Watch,Electronics,6275.45
+2947,Jacket,Clothing,12554.16
+2948,LED TV,Electronics,46795.09
+2949,Dumbbell,Sports,25778.72
+2950,Dining Table,Home,27117.83
+2951,hoBe cSkotk,Stationery,19031.39
+2952,Dining Table,,9079.58
+2953,Mathematics Book,Books,16372.56
+2954,Knife Set,Kitchen,30024.22
+2955,murec CVneaual,Home,38824.63
+2956,Lego Set,Toys,30247.9
+2957,LED TV,Electronics,40946.37
+2958,Dumbbell,Sports,2316.33
+2959,Car Toy,Toys,34720.35
+2960,Story Book,Books,34455.02
+2961,T-Shirt,Clothing,7135.54
+2962,Sofa Set,Home,45081.85
+2963,T-Shirt,Clothing,20282.85
+2964,Women Saree,,32126.05
+2965,Story Book,Books,7831.47
+2966,Puzzle,Toys,41541.71
+2967,Men Kurta,Clothing,10758.32
+2968,Laptop,Electronics,1943.17
+2969,Cricket Bat,Sports,8313.93
+2970,Vacuum Cleaner,Home,3996.87
+2971,Story Book,Books,19363.3
+2972,Tennis Racket,Sports,17532.27
+2973,Bluetooth Speaker,Electronics,45332.29
+2974,Competitive Guide,Books,10331.57
+2975,Men Kurta,Clothing,48642.08
+2976,Mixer Grinder,Home,7023.72
+2977,Mixer Grinder,Home,40639.46
+2978,Pressure Cooker,Kitchen,20141.02
+2979,nsJea,Clothing,42001.82
+2980,T-Shirt,Clothing,35568.94
+2981,Tennis Racket,,12922.52
+2982,Lego Set,Toys,30115.6
+2983,Mobile Phone,Electronics,29278.63
+2984,Non-stick Pan,Kitchen,35961.04
+2985,Lego Set,Toys,25441.78
+2986,egto SeL,,15491.41
+2987,Tennis Racket,Sports,39709.58
+2988,uDlmbleb,Sports,31568.49
+2989,Mobile Phone,Electronics,31889.25
+2990,CFnginel ai,Home,1112.69
+2991,Tennis Racket,Sports,32973.82
+2992,ncseetiTak Rn,Sports,33516.92
+2993,Dumbbell,Sports,38186.71
+2994,NCERT Science,Books,31349.82
+2995,Doll,Toys,26595.88
+2996,Ceiling Fan,Home,4525.17
+2997,Water Bottle,Kitchen,48184.09
+2998,Sofa Set,Home,11545.29
+2999,Car Toy,Toys,29374.52
+3000,Story Book,Books,10174.98
+3001,Car Toy,Toys,3094.84
+3002,Mobile Phone,Electronics,1409.35
+3003,Smart Watch,Electronics,2249.01
+3004,Sketch Book,Stationery,40388.38
+3005,Laptop,Electronics,48707.81
+3006,Action Figure,Toys,6301.94
+3007,LED TV,Electronics,21887.09
+3008,Nt skninacP-o,Kitchen,44606.39
+3009,Jacket,Clothing,27332.38
+3010,Markers,,66.5
+3011,Mathematics Book,Books,13534.38
+3012,Markers,Stationery,45613.61
+3013,Pressure Cooker,Kitchen,278.81
+3014,Knife Set,Kitchen,12769.62
+3015,LED TV,Electronics,42797.37
+3016,Notebook,Stationery,8892.84
+3017,Men Kurta,Clothing,29454.86
+3018,LED TV,Electronics,22287.6
+3019,T-Shirt,Clothing,18015.4
+3020,Men Kurta,Clothing,38781.46
+3021,Non-stick Pan,Kitchen,34459.74
+3022,Doll,Toys,1237.58
+3023,Non-stick Pan,Kitchen,28845.3
+3024,Lunch Box,Kitchen,24988.71
+3025,Puzzle,Toys,15158.5
+3026,Non-stick Pan,Kitchen,23132.47
+3027,LED TV,Electronics,9807.16
+3028,Doll,Toys,38873.48
+3029,Pen Set,Stationery,30537.64
+3030,Water Bottle,Kitchen,27383.8
+3031,Football,Sports,9014.38
+3032,Markers,Stationery,11141.59
+3033,Vacuum Cleaner,Home,35268.77
+3034,Ceiling Fan,Home,5058.67
+3035,Ceiling Fan,,22443.83
+3036,Action Figure,Toys,23489.6
+3037,Pen Set,Stationery,31466.09
+3038,Bluetooth Speaker,Electronics,3554.72
+3039,ete SnP,Stationery,5497.56
+3040,Mixer Grinder,Home,33355.71
+3041,Lego Set,Toys,46184.12
+3042,Knife Set,Kitchen,40675.13
+3043,Story Book,Books,17380.37
+3044,Sketch Book,Stationery,6230.09
+3045,Lego Set,Toys,4675.32
+3046,Sketch Book,Stationery,32927.0
+3047,Vacuum Cleaner,Home,35601.99
+3048,Mixer Grinder,Home,1728.43
+3049,Car Toy,Toys,42438.47
+3050,Dining Table,Home,14846.62
+3051,Mathematics Book,Books,30415.25
+3052,Pen Set,Stationery,26026.72
+3053,Doll,Toys,13486.23
+3054,Markers,Stationery,17636.45
+3055,Car Toy,Toys,29061.97
+3056,Football,Sports,15212.6
+3057,Doll,Toys,47626.77
+3058,Mathematics Book,Books,36397.39
+3059,Doll,Toys,34602.29
+3060,Pressure Cooker,Kitchen,17460.61
+3061,Action Figure,Toys,21137.53
+3062,Water Bottle,Kitchen,49717.2
+3063,Lunch Box,Kitchen,9229.58
+3064,Mobile Phone,Electronics,36843.71
+3065,NCERT Science,Books,31469.42
+3066,Competitive Guide,Books,24591.02
+3067,Sofa Set,,36777.34
+3068,Dining Table,Home,38143.66
+3069,Pen Set,Stationery,8365.09
+3070,Tennis Racket,Sports,22592.18
+3071,NCERT Science,,8344.83
+3072,Lego Set,Toys,1300.54
+3073,Laptop,Electronics,39242.99
+3074,Car Toy,Toys,31002.5
+3075,Bluetooth Speaker,,10408.48
+3076,Sofa Set,Home,7661.38
+3077,Yoga Mat,Sports,21112.83
+3078,Competitive Guide,Books,1824.34
+3079,Non-stick Pan,Kitchen,46802.67
+3080,NCERT Science,Books,17519.45
+3081,Dumbbell,Sports,17997.93
+3082,aBpleSehoroett uk,Electronics,45416.25
+3083,Dining Table,Home,18447.65
+3084,Jeans,Clothing,44362.05
+3085,Puzzle,Toys,17249.23
+3086,Markers,Stationery,2618.8
+3087,Doll,Toys,44215.9
+3088,Mathematics Book,Books,43489.08
+3089,Drawing Kit,Stationery,45756.19
+3090,Vacuum Cleaner,Home,28063.91
+3091,Dumbbell,Sports,21665.1
+3092,Mobile Phone,Electronics,22921.52
+3093,Non-stick Pan,Kitchen,15275.13
+3094, aeomeenWSr,Clothing,33220.91
+3095,Jeans,Clothing,45021.68
+3096,Drawing Kit,Stationery,1114.74
+3097,Jacket,Clothing,6831.09
+3098,Ceiling Fan,Home,2463.71
+3099,T-Shirt,,45175.16
+3100,Women Saree,Clothing,13765.48
+3101,Knife Set,Kitchen,12269.98
+3102,Mobile Phone,Electronics,44450.98
+3103,NCERT Science,Books,1026.62
+3104,Smart Watch,Electronics,40954.41
+3105,Drawing Kit,Stationery,1257.61
+3106,Vacuum Cleaner,Home,533.18
+3107,Mobile Phone,Electronics,9826.34
+3108,Jacket,Clothing,5758.41
+3109,Pen Set,Stationery,22324.16
+3110,Drawing Kit,Stationery,17515.09
+3111,Laptop,Electronics,20864.49
+3112,Jeans,Clothing,22727.12
+3113,Lego Set,Toys,21034.21
+3114,Cricket Bat,Sports,29615.68
+3115,Cricket Bat,Sports,38598.2
+3116,Sofa Set,Home,49111.35
+3117,Sofa Set,Home,26898.28
+3118,Dining Table,,41892.85
+3119,Pen Set,Stationery,1241.08
+3120,Competitive Guide,Books,40684.5
+3121,Sketch Book,Stationery,20415.55
+3122,Dining Table,Home,29534.96
+3123,Vacuum Cleaner,Home,5258.92
+3124,Men Kurta,,29035.87
+3125,Car Toy,Toys,15875.5
+3126,Women Saree,Clothing,44609.59
+3127,Sketch Book,Stationery,26949.27
+3128,Pressure Cooker,Kitchen,38175.05
+3129,Mixer Grinder,Home,17214.46
+3130,Car Toy,Toys,43842.55
+3131,Pen Set,Stationery,18933.13
+3132,Dumbbell,Sports,27661.47
+3133,Women Saree,Clothing,38485.68
+3134,Non-stick Pan,Kitchen,5717.73
+3135,Dumbbell,Sports,21942.03
+3136,Non-stick Pan,Kitchen,38723.39
+3137,Lunch Box,Kitchen,31578.55
+3138,Doll,Toys,34086.1
+3139,Laptop,Electronics,31951.05
+3140,Jeans,Clothing,12160.05
+3141,Notebook,Stationery,6612.29
+3142,Knife Set,Kitchen,5162.5
+3143,Pen Set,Stationery,44891.21
+3144,Markers,Stationery,30486.5
+3145,Car Toy,Toys,41020.7
+3146,Laptop,Electronics,18006.02
+3147,Football,Sports,1064.65
+3148,Vacuum Cleaner,Home,2543.21
+3149, foaeSSt,Home,37421.3
+3150,Dining Table,Home,18442.6
+3151,Vacuum Cleaner,Home,7170.18
+3152,Mobile Phone,Electronics,4055.62
+3153,Sketch Book,Stationery,36107.18
+3154,Puzzle,Toys,1633.63
+3155,Story Book,Books,47868.85
+3156,Vacuum Cleaner,Home,2252.85
+3157,Non-stick Pan,Kitchen,12376.18
+3158,Football,Sports,7151.78
+3159,Football,Sports,4093.96
+3160,Laptop,Electronics,49172.81
+3161,Jeans,Clothing,37883.39
+3162,Action Figure,Toys,19191.14
+3163,Lego Set,Toys,39010.88
+3164,Dining Table,Home,24665.04
+3165,Ceiling Fan,Home,46004.41
+3166,Action Figure,Toys,3948.72
+3167,Action Figure,Toys,42041.08
+3168,Dumbbell,Sports,15939.31
+3169,Sofa Set,Home,44700.0
+3170,Drawing Kit,Stationery,8061.26
+3171,Cricket Bat,Sports,40678.24
+3172,Mobile Phone,Electronics,5510.74
+3173,Jacket,Clothing,43408.18
+3174,Laptop,Electronics,36410.96
+3175,Doll,Toys,30740.37
+3176,Mixer Grinder,Home,3447.39
+3177,Water Bottle,Kitchen,48742.87
+3178,Jeans,Clothing,13056.55
+3179,Jeans,Clothing,12688.03
+3180,Yoga Mat,Sports,4090.6
+3181,Tennis Racket,Sports,9984.47
+3182,Ceiling Fan,Home,7882.3
+3183,Jacket,Clothing,44258.1
+3184,Notebook,Stationery,13960.8
+3185,Pressure Cooker,Kitchen,14571.42
+3186,Story Book,Books,10003.56
+3187,Jacket,Clothing,12009.33
+3188,Mixer Grinder,Home,31122.12
+3189,Action Figure,Toys,45111.73
+3190,Football,Sports,26068.65
+3191,Tennis Racket,,42886.24
+3192,Mobile Phone,Electronics,15556.48
+3193,Jeans,Clothing,24473.66
+3194,Knife Set,Kitchen,35530.43
+3195,Cricket Bat,Sports,17210.74
+3196,Women Saree,Clothing,36925.61
+3197,Jacket,Clothing,28856.35
+3198,Sofa Set,Home,40703.49
+3199,Lunch Box,Kitchen,8106.07
+3200,Drawing Kit,Stationery,38031.97
+3201,Jacket,Clothing,43750.02
+3202,Sofa Set,Home,41946.97
+3203,Knife Set,Kitchen,26465.39
+3204,Markers,Stationery,10092.01
+3205,Dumbbell,Sports,33639.44
+3206,Story Book,Books,18430.36
+3207,Knife Set,Kitchen,46673.27
+3208,Tennis Racket,Sports,33466.08
+3209,LED TV,Electronics,1483.86
+3210,Pen Set,Stationery,3701.17
+3211,Laptop,Electronics,22322.34
+3212,Lego Set,Toys,24783.32
+3213,Men Kurta,Clothing,42495.18
+3214,NCERT Science,Books,26548.75
+3215,Lunch Box,Kitchen,34414.27
+3216,at gaMYo,Sports,48178.33
+3217,LED TV,Electronics,11688.27
+3218,Pressure Cooker,Kitchen,18056.26
+3219,Markers,Stationery,47833.13
+3220,Women Saree,Clothing,4741.53
+3221,Mobile Phone,Electronics,19723.1
+3222,LED TV,,41457.95
+3223,Jacket,Clothing,14145.11
+3224,Mathematics Book,Books,5290.89
+3225,Dumbbell,Sports,26908.12
+3226,Vacuum Cleaner,Home,20395.37
+3227,Smart Watch,Electronics,23214.51
+3228,Competitive Guide,Books,9490.36
+3229,Mixer Grinder,Home,18085.19
+3230,Markers,,3673.35
+3231,Vacuum Cleaner,Home,33945.69
+3232,Story Book,Books,3992.07
+3233,T-Shirt,Clothing,6629.2
+3234,Story Book,Books,4131.3
+3235,Sketch Book,Stationery,36263.15
+3236,Lunch Box,Kitchen,62.99
+3237,Drawing Kit,Stationery,45835.33
+3238,Mixer Grinder,Home,16097.6
+3239,NCERT Science,Books,37652.64
+3240,Mobile Phone,,1320.38
+3241,LED TV,Electronics,15650.03
+3242,Sketch Book,Stationery,16372.72
+3243,Tennis Racket,Sports,6064.78
+3244,Notebook,Stationery,4201.5
+3245,Men Kurta,Clothing,29031.24
+3246, TicnSecCREeN,Books,36477.84
+3247,Men Kurta,Clothing,21833.93
+3248,Water Bottle,Kitchen,48400.7
+3249,T-Shirt,Clothing,12618.89
+3250,Men Kurta,Clothing,23386.97
+3251,efnSKei t,Kitchen,40451.22
+3252,Pressure Cooker,Kitchen,11358.51
+3253,Jacket,Clothing,40633.11
+3254,Women Saree,Clothing,28174.73
+3255,Car Toy,Toys,47920.62
+3256,Jeans,Clothing,27782.38
+3257,Cricket Bat,Sports,9183.28
+3258,Story Book,Books,19516.13
+3259,T-Shirt,Clothing,40719.21
+3260,Vacuum Cleaner,Home,34713.78
+3261,Jeans,,24854.25
+3262,Jacket,Clothing,47309.78
+3263,Sofa Set,Home,20072.56
+3264,Car Toy,Toys,25889.0
+3265,LED TV,Electronics,6250.03
+3266,Bluetooth Speaker,Electronics,22863.52
+3267,Knife Set,,49182.69
+3268,Knife Set,Kitchen,14538.58
+3269,LED TV,Electronics,12574.51
+3270,Vacuum Cleaner,Home,14451.78
+3271,T-Shirt,Clothing,38902.56
+3272,Mathematics Book,Books,45015.13
+3273,Mathematics Book,,25162.7
+3274,iteCovepi meuiGtd,Books,7762.64
+3275,Knife Set,Kitchen,38862.47
+3276,Pen Set,Stationery,16011.05
+3277,Mobile Phone,Electronics,10514.27
+3278,Mathematics Book,Books,44583.47
+3279,Sofa Set,Home,33395.63
+3280,Football,Sports,41545.85
+3281,Women Saree,Clothing,31328.48
+3282,Lunch Box,Kitchen,40409.74
+3283,Jacket,Clothing,5202.24
+3284,Non-stick Pan,Kitchen,11131.89
+3285,Non-stick Pan,Kitchen,10048.29
+3286,Lego Set,Toys,19827.37
+3287,Water Bottle,Kitchen,7457.66
+3288,Football,Sports,24738.23
+3289,Ceiling Fan,Home,8950.65
+3290,Sketch Book,Stationery,13037.13
+3291,Mixer Grinder,Home,36253.86
+3292,LED TV,Electronics,680.59
+3293,Notebook,Stationery,19234.81
+3294,Vacuum Cleaner,Home,33271.18
+3295,Action Figure,Toys,39668.15
+3296,Jeans,Clothing,48381.94
+3297,Dumbbell,Sports,5862.09
+3298,Competitive Guide,Books,19541.43
+3299,Yoga Mat,Sports,27609.72
+3300,Tennis Racket,Sports,18676.83
+3301,r tnKuMea,Clothing,35242.97
+3302,Fiction Novel,Books,4297.59
+3303,Puzzle,Toys,32446.12
+3304,Car Toy,Toys,44210.81
+3305,Dining Table,Home,46214.8
+3306,Lunch Box,,31357.49
+3307,Knife Set,Kitchen,37053.54
+3308,LED TV,Electronics,20205.37
+3309,Water Bottle,Kitchen,47956.57
+3310,Yoga Mat,Sports,46462.29
+3311,Jeans,Clothing,30737.86
+3312,Cricket Bat,Sports,12820.34
+3313,Jacket,Clothing,36474.6
+3314,Women Saree,Clothing,6730.22
+3315,Lunch Box,Kitchen,49655.85
+3316,lDol,Toys,14438.17
+3317,Action Figure,Toys,31983.51
+3318,Ceiling Fan,Home,4622.37
+3319,Jeans,Clothing,2380.75
+3320,Pressure Cooker,Kitchen,23279.13
+3321,Sofa Set,Home,11600.67
+3322,Notebook,Stationery,17222.61
+3323,Competitive Guide,Books,45924.83
+3324,C miidteietpoeGvu,Books,46882.64
+3325,Car Toy,Toys,27910.6
+3326,Puzzle,Toys,35516.21
+3327,Drawing Kit,Stationery,48584.95
+3328,Dining Table,Home,32181.61
+3329,Sketch Book,Stationery,25378.64
+3330,Knife Set,Kitchen,28898.9
+3331,Pressure Cooker,,48659.01
+3332,Cricket Bat,Sports,196.04
+3333,Jeans,Clothing,24376.16
+3334,Story Book,Books,29503.41
+3335,Pen Set,Stationery,8024.95
+3336,Mixer Grinder,Home,40845.3
+3337,Water Bottle,Kitchen,10943.47
+3338,Smart Watch,Electronics,16602.41
+3339,Lunch Box,Kitchen,40185.93
+3340,Lunch Box,Kitchen,45228.39
+3341,Fiction Novel,Books,13531.48
+3342,Mobile Phone,Electronics,8253.98
+3343,Women Saree,Clothing,31249.31
+3344,Jeans,Clothing,35946.79
+3345,NCERT Science,Books,7177.73
+3346,Dumbbell,Sports,7869.89
+3347,Women Saree,Clothing,26275.97
+3348,Tennis Racket,Sports,19707.82
+3349,Women Saree,Clothing,44328.32
+3350,Non-stick Pan,Kitchen,49170.57
+3351,Markers,Stationery,36116.83
+3352,Story Book,Books,7240.45
+3353,Dumbbell,Sports,3212.26
+3354,Sketch Book,,48251.7
+3355, ngFilCaeni,Home,13291.0
+3356,Ceiling Fan,Home,24774.6
+3357,Ceiling Fan,Home,11877.32
+3358,T-Shirt,Clothing,19462.94
+3359,Dining Table,Home,11252.41
+3360, SetfiKen,Kitchen,34633.59
+3361,NCERT Science,Books,40029.2
+3362,Knife Set,Kitchen,15781.61
+3363,Jeans,Clothing,6439.63
+3364,Smart Watch,,2545.83
+3365,Tennis Racket,Sports,13118.86
+3366,NCERT Science,Books,49310.87
+3367,Vacuum Cleaner,Home,21594.26
+3368,Story Book,Books,14368.92
+3369,Knife Set,Kitchen,6140.26
+3370,Women Saree,Clothing,21065.64
+3371,Puzzle,Toys,41210.18
+3372,Pen Set,Stationery,26366.37
+3373,Puzzle,Toys,31134.43
+3374,Doll,Toys,48589.34
+3375,Yoga Mat,Sports,40736.18
+3376,Sketch Book,Stationery,4035.76
+3377,LED TV,Electronics,32307.11
+3378,Smart Watch,Electronics,41258.51
+3379,Vacuum Cleaner,,20010.82
+3380,Mixer Grinder,Home,5731.7
+3381,Dumbbell,Sports,12998.18
+3382,Story Book,Books,7672.9
+3383,NCERT Science,Books,49357.89
+3384,Jeans,Clothing,3874.51
+3385,Pen Set,Stationery,10523.39
+3386,Markers,Stationery,34540.36
+3387,Dining Table,Home,16682.78
+3388,NCERT Science,Books,1624.99
+3389,Yoga Mat,Sports,2285.27
+3390,Men Kurta,Clothing,15100.05
+3391,Dumbbell,Sports,17320.29
+3392,NCERT Science,Books,42171.09
+3393,Ceiling Fan,Home,35950.19
+3394,Dumbbell,Sports,25216.32
+3395,Dumbbell,Sports,42104.23
+3396,Yoga Mat,Sports,20411.78
+3397,Yoga Mat,Sports,4628.84
+3398,LED TV,Electronics,30287.86
+3399,Markers,Stationery,37917.55
+3400,Tennis Racket,Sports,29945.0
+3401,Yoga Mat,Sports,26214.36
+3402,Action Figure,Toys,36680.74
+3403,Pen Set,Stationery,47280.28
+3404,Women Saree,Clothing,36164.65
+3405,Markers,Stationery,18453.46
+3406,Laptop,Electronics,26129.98
+3407,Smart Watch,Electronics,17974.09
+3408,Jacket,Clothing,18915.66
+3409,Sketch Book,Stationery,7633.63
+3410,NCERT Science,Books,44509.75
+3411,Action Figure,Toys,30205.84
+3412,tSK finee,Kitchen,5946.35
+3413,Action Figure,Toys,36109.48
+3414,Notebook,Stationery,5143.8
+3415,Cricket Bat,Sports,25453.58
+3416,Ceiling Fan,Home,15238.75
+3417,Vacuum Cleaner,Home,46483.64
+3418,T-Shirt,Clothing,3609.13
+3419,eTCScNREnci e,Books,24203.49
+3420,Lunch Box,Kitchen,14814.61
+3421,Notebook,Stationery,33200.48
+3422,Lunch Box,Kitchen,4608.03
+3423,Pen Set,Stationery,38121.33
+3424,Competitive Guide,Books,43378.29
+3425,Bluetooth Speaker,Electronics,42018.18
+3426,Dumbbell,Sports,45958.15
+3427,Mixer Grinder,Home,276.07
+3428,Puzzle,,47933.73
+3429,Notebook,Stationery,8299.12
+3430,Vacuum Cleaner,Home,44873.09
+3431,Sketch Book,Stationery,14134.86
+3432,Mobile Phone,Electronics,33445.27
+3433,Yoga Mat,Sports,3943.14
+3434,Notebook,,31136.64
+3435,Pen Set,Stationery,7570.81
+3436,NCERT Science,Books,8911.0
+3437,Yoga Mat,Sports,33731.07
+3438,Non-stick Pan,Kitchen,32888.78
+3439,Doll,Toys,27333.51
+3440,Sofa Set,Home,9666.55
+3441,Markers,,36552.36
+3442,Mathematics Book,Books,42814.31
+3443,Men Kurta,Clothing,32413.62
+3444,Non-stick Pan,Kitchen,24171.85
+3445,Pen Set,Stationery,2107.82
+3446,Fiction Novel,,30639.1
+3447,Lunch Box,Kitchen,38510.51
+3448,Mathematics Book,Books,42686.83
+3449,Sketch Book,Stationery,10462.15
+3450,DiTbnalge ni,Home,39004.36
+3451,Dumbbell,Sports,22844.1
+3452,Knife Set,Kitchen,25470.09
+3453,Non-stick Pan,Kitchen,6661.78
+3454,Lego Set,Toys,39885.35
+3455,Bluetooth Speaker,Electronics,44768.24
+3456,Tennis Racket,Sports,44844.07
+3457,KMnre uta,Clothing,39323.58
+3458,Men Kurta,Clothing,2386.59
+3459,Laptop,Electronics,46690.51
+3460,Bluetooth Speaker,Electronics,16054.31
+3461,Puzzle,Toys,13655.21
+3462,Lunch Box,Kitchen,2757.36
+3463,reoorkserPCuse ,Kitchen,17896.5
+3464,Dumbbell,Sports,47626.75
+3465,Sketch Book,Stationery,48095.59
+3466,Tennis Racket,Sports,6364.66
+3467,Mathematics Book,Books,41604.44
+3468,Tennis Racket,Sports,20250.11
+3469,Car Toy,Toys,18499.07
+3470,Mixer Grinder,Home,49873.09
+3471,Doll,Toys,4972.99
+3472,Football,Sports,18601.11
+3473,Water Bottle,Kitchen,8944.1
+3474,Knife Set,Kitchen,24780.71
+3475,Car Toy,Toys,44165.5
+3476,Non-stick Pan,Kitchen,4945.9
+3477,Lego Set,Toys,15430.67
+3478,Smart Watch,Electronics,22034.51
+3479,Dining Table,Home,49871.36
+3480,Puzzle,Toys,15948.09
+3481,Competitive Guide,Books,21944.71
+3482,Water Bottle,Kitchen,34942.18
+3483,Lunch Box,Kitchen,48420.8
+3484,Dumbbell,Sports,19316.43
+3485,Puzzle,Toys,35720.32
+3486,Mathematics Book,Books,39699.6
+3487,Water Bottle,Kitchen,31450.47
+3488,Jeans,Clothing,30446.95
+3489,Car Toy,Toys,43339.0
+3490,Sketch Book,Stationery,44146.76
+3491,Mobile Phone,Electronics,45531.71
+3492,T-Shirt,Clothing,12305.66
+3493,Lunch Box,Kitchen,12335.79
+3494,Mixer Grinder,Home,18760.48
+3495,Action Figure,Toys,42349.7
+3496,Laptop,Electronics,18058.38
+3497,LED TV,Electronics,27556.72
+3498,Pen Set,Stationery,39273.52
+3499,rayC To,Toys,21523.52
+3500,Non-stick Pan,Kitchen,9455.26
+3501,Action Figure,Toys,23929.83
+3502,Jacket,Clothing,41599.48
+3503,Yoga Mat,Sports,42740.08
+3504,Men Kurta,Clothing,10699.48
+3505,-hiSrtT,Clothing,35140.06
+3506,Sketch Book,Stationery,34443.51
+3507,Competitive Guide,Books,40486.41
+3508,Drawing Kit,Stationery,28554.24
+3509,Sketch Book,Stationery,2351.44
+3510,Dining Table,Home,21418.01
+3511,ulzzeP,Toys,3804.01
+3512,Sofa Set,Home,27835.98
+3513,Pressure Cooker,Kitchen,24834.03
+3514,Men Kurta,Clothing,20344.79
+3515,Car Toy,Toys,11001.17
+3516,Water Bottle,Kitchen,9784.64
+3517,Men Kurta,Clothing,31367.59
+3518,Ceiling Fan,Home,28594.83
+3519,Markers,Stationery,490.25
+3520,Women Saree,Clothing,25203.31
+3521,Mobile Phone,Electronics,11203.52
+3522,Drawing Kit,Stationery,716.53
+3523,Pen Set,Stationery,22182.38
+3524,Fiction Novel,Books,2576.5
+3525,SkBrty ooo,Books,20841.45
+3526,Laptop,,13381.93
+3527,Mixer Grinder,Home,25522.1
+3528,Drawing Kit,Stationery,4270.98
+3529,Non-stick Pan,Kitchen,31310.4
+3530,Notebook,Stationery,33175.27
+3531,Story Book,Books,24873.58
+3532,Pen Set,Stationery,20228.9
+3533,Yoga Mat,Sports,41421.26
+3534,Mobile Phone,Electronics,32299.71
+3535,Tennis Racket,Sports,18100.42
+3536,lDol,Toys,31944.7
+3537,Fiction Novel,Books,30048.8
+3538,Pen Set,Stationery,24634.75
+3539,Mathematics Book,Books,23865.24
+3540,Water Bottle,Kitchen,28585.71
+3541,iT bnDanelgi,Home,14493.91
+3542,Tennis Racket,Sports,5877.32
+3543,Sketch Book,Stationery,19787.6
+3544,Dumbbell,Sports,26312.37
+3545,Pressure Cooker,Kitchen,46323.16
+3546,Puzzle,Toys,31584.16
+3547,Vacuum Cleaner,Home,22856.96
+3548,Lunch Box,Kitchen,17162.7
+3549,Puzzle,Toys,44156.25
+3550,Pressure Cooker,Kitchen,22079.19
+3551,Dining Table,Home,9712.14
+3552,NCERT Science,Books,21444.17
+3553,Mreaksr,Stationery,43939.67
+3554,Action Figure,Toys,10031.72
+3555,Pressure Cooker,Kitchen,21684.05
+3556,Car Toy,Toys,46511.8
+3557,LED TV,Electronics,20636.71
+3558,Drawing Kit,Stationery,2680.36
+3559,Drawing Kit,,17190.34
+3560,Ceiling Fan,Home,32284.38
+3561,Drawing Kit,Stationery,29471.17
+3562,Mobile Phone,Electronics,40461.59
+3563,Competitive Guide,,35199.22
+3564,Vacuum Cleaner,Home,24455.16
+3565,Lunch Box,Kitchen,31813.38
+3566,Lunch Box,Kitchen,46924.95
+3567,Lunch Box,Kitchen,34357.07
+3568,Markers,Stationery,871.35
+3569,Mixer Grinder,Home,44152.77
+3570,Laptop,,22782.77
+3571,T-Shirt,Clothing,40465.98
+3572,Mobile Phone,Electronics,7261.26
+3573,Competitive Guide,Books,4007.91
+3574,Sofa Set,Home,36662.99
+3575,Mathematics Book,Books,4349.0
+3576,Football,Sports,13262.08
+3577,Jacket,Clothing,45259.74
+3578,Pen Set,Stationery,17252.27
+3579,Markers,Stationery,33769.23
+3580,NCERT Science,Books,30709.59
+3581,Sofa Set,Home,42367.17
+3582,Vacuum Cleaner,Home,1385.14
+3583,Jeans,Clothing,1301.89
+3584,tei dvueCimpoeGti,Books,27854.41
+3585,Puzzle,Toys,2465.87
+3586,Story Book,Books,3436.71
+3587,Laptop,Electronics,28813.32
+3588,Jacket,Clothing,1506.88
+3589,Action Figure,Toys,16817.46
+3590,Lunch Box,Kitchen,17523.11
+3591,Jacket,Clothing,33476.33
+3592,Puzzle,Toys,33494.37
+3593,Men Kurta,Clothing,39289.77
+3594,Lego Set,Toys,48240.54
+3595,Mathematics Book,Books,45046.07
+3596,Action Figure,Toys,49659.27
+3597,Competitive Guide,Books,36287.1
+3598,Car Toy,Toys,43708.1
+3599,Story Book,Books,41098.04
+3600,Fiction Novel,Books,15936.13
+3601,togMa Ya,Sports,10611.97
+3602,Cricket Bat,Sports,33296.86
+3603,Lego Set,Toys,20744.93
+3604,T-Shirt,Clothing,18351.19
+3605,Lunch Box,Kitchen,48955.71
+3606,Tennis Racket,Sports,41447.75
+3607,Football,Sports,38932.93
+3608,Football,Sports,27811.21
+3609,Drawing Kit,Stationery,16015.69
+3610,Yoga Mat,Sports,7139.55
+3611,Mathematics Book,Books,17687.02
+3612,Ceiling Fan,Home,38750.66
+3613,aneJs,Clothing,33092.57
+3614,Competitive Guide,Books,2980.69
+3615,Notebook,Stationery,39071.64
+3616,hokiMBtamstceoa ,Books,39111.9
+3617,Drawing Kit,Stationery,25841.39
+3618,Ceiling Fan,Home,12190.31
+3619,Women Saree,Clothing,45501.37
+3620,Mixer Grinder,Home,24582.27
+3621,Lunch Box,Kitchen,44619.06
+3622,Ceiling Fan,Home,25208.51
+3623,Lunch Box,Kitchen,43795.14
+3624,Fiction Novel,Books,27485.88
+3625,Dining Table,Home,17022.27
+3626,Water Bottle,Kitchen,25505.1
+3627,Sofa Set,Home,49313.77
+3628,Tennis Racket,Sports,40118.44
+3629,Puzzle,Toys,7075.4
+3630,Water Bottle,Kitchen,18726.96
+3631,Lunch Box,Kitchen,33165.21
+3632,Tennis Racket,Sports,19296.61
+3633,T-Shirt,Clothing,31078.3
+3634,Doll,Toys,9575.12
+3635,Sofa Set,Home,41810.8
+3636,Tennis Racket,Sports,25003.67
+3637,Smart Watch,Electronics,46489.35
+3638,Story Book,Books,5192.95
+3639,Mixer Grinder,Home,18269.76
+3640,Mobile Phone,Electronics,33620.99
+3641,Laptop,Electronics,47843.61
+3642,Markers,Stationery,10530.92
+3643,Football,Sports,47596.62
+3644,Knife Set,Kitchen,29022.15
+3645,Non-stick Pan,Kitchen,5794.89
+3646,Dining Table,Home,6122.83
+3647,Dumbbell,Sports,27000.49
+3648,uvtoCidie peietmG,Books,43709.82
+3649,Car Toy,Toys,13098.25
+3650,Pressure Cooker,Kitchen,13515.03
+3651,Knife Set,Kitchen,7429.99
+3652,Dumbbell,Sports,20076.16
+3653,Story Book,Books,30603.47
+3654,Car Toy,Toys,42392.34
+3655,Sketch Book,Stationery,24511.26
+3656,dMirinrreG xe,Home,10585.93
+3657,Cricket Bat,Sports,31069.95
+3658,Sketch Book,Stationery,12234.27
+3659,Doll,Toys,28044.68
+3660,Doll,Toys,25717.25
+3661,Laptop,Electronics,11102.28
+3662,Ceiling Fan,Home,47108.47
+3663,Notebook,Stationery,2637.37
+3664,Story Book,Books,27875.85
+3665,Lunch Box,Kitchen,35400.43
+3666,Mathematics Book,Books,39476.71
+3667,Cricket Bat,Sports,44622.68
+3668,Vacuum Cleaner,Home,30404.14
+3669,Doll,Toys,8387.03
+3670,Smart Watch,Electronics,47136.97
+3671,Tennis Racket,Sports,25781.3
+3672,Dumbbell,Sports,21651.43
+3673,Water Bottle,Kitchen,9503.6
+3674,Women Saree,Clothing,29963.55
+3675,Markers,Stationery,41489.81
+3676,Non-stick Pan,Kitchen,45007.75
+3677,Men Kurta,Clothing,45121.34
+3678,Puzzle,Toys,31164.1
+3679,Notebook,Stationery,25640.91
+3680,NCERT Science,Books,22150.96
+3681,othe BkcokS,Stationery,26570.42
+3682,Story Book,Books,4871.16
+3683,Mixer Grinder,Home,48438.66
+3684,ooetlukaBre Shpet,Electronics,11624.8
+3685,Notebook,Stationery,43561.7
+3686,Laptop,Electronics,36424.45
+3687,Mathematics Book,Books,47741.48
+3688,T-Shirt,Clothing,43545.46
+3689,Ceiling Fan,Home,35903.72
+3690,Notebook,Stationery,35170.54
+3691,Knife Set,Kitchen,42386.1
+3692,Pen Set,Stationery,47213.75
+3693,Action Figure,Toys,43760.65
+3694,Puzzle,Toys,35091.93
+3695,NCERT Science,Books,6199.11
+3696,Dining Table,Home,37515.12
+3697,Action Figure,Toys,22827.64
+3698,Laptop,,45547.83
+3699,NCERT Science,Books,34186.98
+3700,Vacuum Cleaner,Home,17306.0
+3701,NCERT Science,Books,11745.3
+3702,Markers,Stationery,17576.56
+3703,Doll,Toys,35815.83
+3704,Tennis Racket,Sports,9634.7
+3705,Football,Sports,37369.9
+3706,Knife Set,Kitchen,6451.22
+3707,Men Kurta,Clothing,46627.85
+3708,Jacket,Clothing,9895.12
+3709,Notebook,Stationery,5512.86
+3710,lblbuemD,Sports,14675.03
+3711,Sketch Book,Stationery,27992.66
+3712,Doll,Toys,39285.21
+3713,NCERT Science,Books,42406.55
+3714,Action Figure,Toys,42140.44
+3715,Lego Set,Toys,17049.66
+3716,Smart Watch,Electronics,45428.64
+3717,Water Bottle,,12022.61
+3718,Jacket,Clothing,46376.02
+3719,Ceiling Fan,Home,12777.3
+3720,Football,Sports,29069.99
+3721,Drawing Kit,Stationery,10667.86
+3722,Laptop,Electronics,48254.33
+3723,Jacket,Clothing,1002.19
+3724,Jeans,Clothing,21636.81
+3725,Story Book,Books,34168.34
+3726,Men Kurta,Clothing,2221.39
+3727,Football,Sports,46408.88
+3728,Jeans,Clothing,30298.89
+3729,Ceiling Fan,Home,32564.25
+3730,Mathematics Book,Books,49160.95
+3731,Dumbbell,Sports,46581.61
+3732,T-Shirt,Clothing,37154.83
+3733,Puzzle,Toys,26018.74
+3734,etgeL So,Toys,18469.78
+3735,Non-stick Pan,Kitchen,32836.59
+3736,Knife Set,Kitchen,20498.86
+3737,Dumbbell,Sports,18802.73
+3738,Pressure Cooker,Kitchen,22343.99
+3739,Notebook,Stationery,30845.11
+3740,Laptop,Electronics,43311.11
+3741,LED TV,Electronics,47546.33
+3742,Mobile Phone,Electronics,16268.22
+3743,Notebook,Stationery,40796.78
+3744,SermnaWoee ,Clothing,11357.69
+3745,Dining Table,Home,31372.62
+3746,Lego Set,Toys,5341.71
+3747,Puzzle,Toys,36398.15
+3748,Story Book,Books,42429.24
+3749,Dumbbell,Sports,5130.3
+3750,Non-stick Pan,Kitchen,39372.68
+3751,Bluetooth Speaker,Electronics,11056.78
+3752,Mathematics Book,,18624.62
+3753,Sketch Book,Stationery,48447.11
+3754,Puzzle,,5458.62
+3755,Doll,Toys,14654.6
+3756,Dining Table,,45044.99
+3757,Non-stick Pan,Kitchen,37192.35
+3758,Fiction Novel,,40982.82
+3759,Sofa Set,Home,696.4
+3760,Bluetooth Speaker,Electronics,494.78
+3761, enSePt,Stationery,2875.22
+3762,Smart Watch,Electronics,41782.82
+3763,Bluetooth Speaker,Electronics,28452.59
+3764,Car Toy,Toys,31254.09
+3765,Pressure Cooker,Kitchen,22404.85
+3766,Dining Table,Home,46099.07
+3767,Laptop,Electronics,13504.66
+3768,Laptop,Electronics,13433.94
+3769,Lego Set,Toys,29563.54
+3770,Mathematics Book,Books,49605.92
+3771,LED TV,Electronics,47677.26
+3772,Puzzle,Toys,18195.47
+3773,Men Kurta,Clothing,6224.66
+3774,Mathematics Book,,18089.41
+3775,Sofa Set,Home,41384.41
+3776,Lunch Box,Kitchen,26820.5
+3777,Tennis Racket,Sports,6631.15
+3778,Competitive Guide,Books,41063.19
+3779,Sofa Set,Home,21678.72
+3780,Sketch Book,Stationery,48179.46
+3781,Lego Set,Toys,41739.05
+3782,Sofa Set,Home,424.04
+3783,LED TV,Electronics,30324.36
+3784,Football,Sports,48014.65
+3785,NCERT Science,Books,3035.92
+3786,Story Book,,42398.3
+3787,Car Toy,Toys,48540.6
+3788,Knife Set,Kitchen,16314.85
+3789,Doll,,7870.2
+3790,Sofa Set,Home,16510.75
+3791,Men Kurta,Clothing,37806.15
+3792,T-Shirt,,36230.26
+3793,Drawing Kit,Stationery,10720.99
+3794,Women Saree,Clothing,28198.9
+3795,Notebook,Stationery,26562.76
+3796,Story Book,Books,38965.34
+3797,Bluetooth Speaker,Electronics,29919.71
+3798,Men Kurta,Clothing,32232.28
+3799,Yoga Mat,,5263.84
+3800,Mixer Grinder,Home,42812.67
+3801,Doll,Toys,13445.96
+3802,Notebook,Stationery,48145.11
+3803,Smart Watch,,3087.11
+3804,Tennis Racket,Sports,289.39
+3805,Bluetooth Speaker,Electronics,24032.8
+3806,Sketch Book,Stationery,301.35
+3807,Yoga Mat,Sports,3757.94
+3808,rekuseo rrsCPoe,Kitchen,2391.49
+3809,Pressure Cooker,Kitchen,20288.62
+3810,Story Book,Books,21062.58
+3811,Mixer Grinder,Home,23557.42
+3812,Lego Set,Toys,36984.22
+3813,Story Book,Books,9082.47
+3814,Pen Set,Stationery,26606.35
+3815,Fiction Novel,Books,14180.37
+3816,Women Saree,Clothing,43341.49
+3817,Tennis Racket,Sports,45474.07
+3818,Drawing Kit,,38890.68
+3819,Jeans,Clothing,42451.75
+3820,Tennis Racket,Sports,35430.44
+3821,Mixer Grinder,Home,8622.13
+3822,Drawing Kit,Stationery,36082.67
+3823,Puzzle,Toys,9528.82
+3824,Fiction Novel,Books,3680.85
+3825,Lunch Box,Kitchen,3172.49
+3826,Non-stick Pan,Kitchen,4778.28
+3827,Lego Set,Toys,35804.49
+3828,Markers,Stationery,1797.37
+3829,Smart Watch,Electronics,43912.07
+3830, TEVLD,Electronics,49195.18
+3831,Story Book,Books,38064.33
+3832,Mobile Phone,Electronics,33826.28
+3833,Women Saree,Clothing,41329.56
+3834,T-Shirt,Clothing,25961.46
+3835,Mathematics Book,Books,7726.79
+3836,Non-stick Pan,Kitchen,26977.73
+3837,T-Shirt,Clothing,42869.3
+3838,Dining Table,Home,5415.92
+3839,Pressure Cooker,Kitchen,48765.25
+3840,Smart Watch,Electronics,10125.89
+3841,Cricket Bat,Sports,46119.62
+3842,Vacuum Cleaner,Home,21487.0
+3843,Bluetooth Speaker,Electronics,36533.88
+3844,Car Toy,Toys,32177.28
+3845,Ceiling Fan,Home,44651.93
+3846,Lego Set,Toys,5615.23
+3847,Markers,Stationery,30859.89
+3848,Non-stick Pan,,27375.48
+3849,NCERT Science,Books,42259.12
+3850,Women Saree,Clothing,48622.21
+3851,Lego Set,Toys,34769.62
+3852,Lunch Box,Kitchen,44487.8
+3853,Vacuum Cleaner,Home,37845.29
+3854, Pnoc-tnNsaki,Kitchen,21529.59
+3855,Pen Set,Stationery,46521.19
+3856,Men Kurta,Clothing,37883.44
+3857,Pen Set,Stationery,696.06
+3858,ene meSaorW,Clothing,9784.42
+3859,Lunch Box,Kitchen,44972.33
+3860,Dumbbell,Sports,20877.05
+3861,Drawing Kit,Stationery,19086.6
+3862,Notebook,Stationery,40474.12
+3863,Non-stick Pan,Kitchen,18851.73
+3864,Jeans,Clothing,9974.4
+3865,Water Bottle,Kitchen,48848.24
+3866,tCrikaBtec ,Sports,28383.71
+3867,Mobile Phone,,33169.88
+3868,Non-stick Pan,Kitchen,45793.08
+3869,NCERT Science,Books,18336.74
+3870,Ceiling Fan,Home,35659.63
+3871,Sketch Book,Stationery,33079.64
+3872,Competitive Guide,Books,30094.74
+3873,Jeans,Clothing,38822.71
+3874,Pressure Cooker,Kitchen,10123.9
+3875,Women Saree,Clothing,4036.44
+3876,LED TV,Electronics,44288.08
+3877,Football,Sports,37780.77
+3878,Action Figure,Toys,17513.38
+3879,Vacuum Cleaner,Home,42830.23
+3880,Vacuum Cleaner,Home,45205.13
+3881,Smart Watch,Electronics,9646.03
+3882,T-Shirt,Clothing,36097.64
+3883,Men Kurta,Clothing,12560.09
+3884,Doll,Toys,15603.79
+3885,Pen Set,Stationery,19041.74
+3886,Doll,Toys,22522.68
+3887,Football,Sports,42633.68
+3888,Water Bottle,Kitchen,39096.11
+3889,Cricket Bat,Sports,39193.04
+3890,Fiction Novel,Books,27581.03
+3891,Dumbbell,Sports,39228.64
+3892,Doll,Toys,25444.42
+3893,Smart Watch,Electronics,44399.97
+3894,Water Bottle,Kitchen,21048.33
+3895,Puzzle,Toys,4109.95
+3896,NCERT Science,Books,49069.21
+3897,Bluetooth Speaker,Electronics,13494.97
+3898,Car Toy,Toys,16298.21
+3899,Football,Sports,2988.05
+3900,Drawing Kit,Stationery,3344.01
+3901,Water Bottle,Kitchen,28101.88
+3902,Smart Watch,Electronics,1810.5
+3903,Doll,Toys,45461.8
+3904,Jeans,Clothing,5730.32
+3905,Dumbbell,Sports,13905.27
+3906,Mobile Phone,Electronics,33008.22
+3907,NCERT Science,Books,15743.28
+3908,Doll,Toys,42199.32
+3909,Sketch Book,Stationery,44135.6
+3910,Jeans,Clothing,18105.49
+3911,Tennis Racket,Sports,20471.85
+3912,Car Toy,Toys,13037.66
+3913,Markers,Stationery,26540.82
+3914,Car Toy,Toys,42843.7
+3915,Jeans,Clothing,40781.0
+3916,Competitive Guide,Books,18319.08
+3917,NCERT Science,Books,48157.36
+3918,Ceiling Fan,Home,24066.29
+3919,Competitive Guide,Books,43799.42
+3920,Notebook,Stationery,1137.77
+3921,Knife Set,Kitchen,6993.23
+3922,Non-stick Pan,Kitchen,34979.08
+3923,Knife Set,Kitchen,11189.47
+3924,Water Bottle,Kitchen,19183.01
+3925,ttamar cWSh,Electronics,44314.34
+3926,Laptop,Electronics,16870.92
+3927,Sofa Set,Home,27167.26
+3928,Story Book,Books,23847.53
+3929,Smart Watch,Electronics,36832.29
+3930,Smart Watch,Electronics,29671.82
+3931,Knife Set,Kitchen,40427.35
+3932,Dining Table,Home,28047.11
+3933,Lego Set,Toys,512.7
+3934,Pressure Cooker,Kitchen,22387.99
+3935,Mobile Phone,Electronics,48340.29
+3936,Pen Set,,16844.85
+3937,Lunch Box,Kitchen,26301.0
+3938,Fiction Novel,Books,27857.36
+3939,Cricket Bat,Sports,34724.71
+3940,Notebook,Stationery,27061.66
+3941,Story Book,Books,39525.12
+3942,Tennis Racket,Sports,19828.82
+3943,Bluetooth Speaker,Electronics,46138.69
+3944,Pressure Cooker,Kitchen,23914.22
+3945,Dumbbell,Sports,11035.87
+3946,Tainbneil gD,Home,25369.98
+3947,Pressure Cooker,Kitchen,2919.37
+3948,Pressure Cooker,,24739.44
+3949,Women Saree,Clothing,433.9
+3950,NCERT Science,Books,16520.29
+3951,Dumbbell,Sports,45743.77
+3952,Mobile Phone,Electronics,26986.15
+3953,Pressure Cooker,Kitchen,34559.61
+3954,Competitive Guide,Books,47132.52
+3955,Competitive Guide,Books,17049.11
+3956,Pen Set,,347.72
+3957,Sofa Set,,11986.98
+3958,Doll,Toys,41498.77
+3959,Puzzle,Toys,21150.25
+3960,Sketch Book,,22739.09
+3961,Story Book,Books,22288.96
+3962,T-Shirt,Clothing,16799.03
+3963,Bluetooth Speaker,Electronics,21181.57
+3964,LED TV,Electronics,29237.64
+3965,Smart Watch,Electronics,48166.13
+3966,Pressure Cooker,Kitchen,12434.77
+3967,Cricket Bat,Sports,8263.3
+3968,Women Saree,,20869.15
+3969,Bluetooth Speaker,Electronics,767.01
+3970,Puzzle,Toys,14976.98
+3971,Jeans,Clothing,10457.49
+3972,Dining Table,Home,5762.46
+3973,T-Shirt,Clothing,5230.3
+3974,Knife Set,Kitchen,23883.03
+3975,Car Toy,Toys,45961.41
+3976,Football,Sports,3749.74
+3977,Drawing Kit,Stationery,1763.29
+3978,Lego Set,Toys,3898.55
+3979,Knife Set,Kitchen,41660.19
+3980,Puzzle,Toys,47861.82
+3981,LED TV,Electronics,37593.31
+3982,Doll,Toys,28218.49
+3983,Pressure Cooker,Kitchen,6710.64
+3984,NCERT Science,Books,30740.52
+3985,Fiction Novel,Books,37806.49
+3986,Doll,Toys,13773.55
+3987,Mobile Phone,Electronics,42157.88
+3988,Lunch Box,Kitchen,41812.71
+3989,Knife Set,Kitchen,30348.84
+3990,Competitive Guide,Books,10279.86
+3991,Non-stick Pan,Kitchen,12110.19
+3992,Jeans,Clothing,36302.45
+3993,Action Figure,Toys,15860.12
+3994,Vacuum Cleaner,Home,44270.83
+3995,Markers,Stationery,6142.52
+3996,Competitive Guide,Books,20104.87
+3997,Markers,Stationery,13270.88
+3998,Mathematics Book,Books,2304.98
+3999,Dumbbell,Sports,29967.74
+4000,Notebook,Stationery,46189.22
+4001,Vacuum Cleaner,Home,40405.48
+4002,Water Bottle,Kitchen,43428.96
+4003,Mobile Phone,Electronics,45965.72
+4004,Cricket Bat,,27276.82
+4005,LED TV,Electronics,15683.46
+4006,Puzzle,Toys,49922.08
+4007,Women Saree,Clothing,19226.55
+4008,Knife Set,Kitchen,35373.24
+4009,Bluetooth Speaker,Electronics,45895.93
+4010,LED TV,Electronics,44380.14
+4011,LED TV,Electronics,25830.56
+4012,GeeedvCtiuipo mti,Books,7415.67
+4013,Pressure Cooker,Kitchen,48336.07
+4014,aseJn,Clothing,20096.48
+4015,Jeans,Clothing,31118.07
+4016,Doll,Toys,32758.18
+4017,Lunch Box,Kitchen,22327.82
+4018,Jeans,Clothing,34674.27
+4019,Smart Watch,Electronics,42396.72
+4020,aneTsiRe tnck,Sports,19382.86
+4021,Jacket,Clothing,49036.71
+4022,LED TV,Electronics,34748.45
+4023,Story Book,Books,14455.45
+4024,Markers,Stationery,8923.61
+4025,Cricket Bat,Sports,47569.07
+4026,Smart Watch,Electronics,9121.26
+4027,Competitive Guide,Books,44859.05
+4028,T-Shirt,Clothing,32133.65
+4029,Drawing Kit,Stationery,23306.6
+4030,T-Shirt,Clothing,10001.38
+4031,Notebook,Stationery,18457.06
+4032,Mixer Grinder,Home,42593.09
+4033,Cricket Bat,Sports,16733.97
+4034,Bluetooth Speaker,,36568.63
+4035,Dining Table,Home,49639.36
+4036,Knife Set,Kitchen,8357.67
+4037,lolD,Toys,16589.81
+4038,Knife Set,Kitchen,28267.46
+4039,Lego Set,Toys,34321.39
+4040,NCERT Science,,23358.67
+4041,Women Saree,Clothing,8567.37
+4042,Competitive Guide,Books,25454.72
+4043,Cricket Bat,Sports,45388.58
+4044,Bluetooth Speaker,Electronics,16674.17
+4045,Jeans,Clothing,32682.6
+4046,Competitive Guide,Books,24457.22
+4047,Lunch Box,Kitchen,22988.4
+4048,Lunch Box,Kitchen,22186.37
+4049,Pressure Cooker,Kitchen,7121.2
+4050,Yoga Mat,Sports,8155.3
+4051,Doll,Toys,22980.42
+4052,Sofa Set,Home,396.97
+4053,Story Book,Books,11497.19
+4054,Notebook,Stationery,20277.73
+4055,Drawing Kit,Stationery,29680.73
+4056,Sofa Set,Home,35736.61
+4057,Ceiling Fan,Home,43433.9
+4058,Dumbbell,Sports,10370.09
+4059,T-Shirt,Clothing,18940.8
+4060,Vacuum Cleaner,Home,48865.51
+4061,Smart Watch,Electronics,15108.97
+4062,LED TV,Electronics,45159.03
+4063,Car Toy,Toys,647.82
+4064,Dumbbell,Sports,7530.42
+4065,Competitive Guide,,34670.98
+4066,Jeans,Clothing,23248.16
+4067,Puzzle,Toys,17376.29
+4068,Pressure Cooker,Kitchen,43755.27
+4069,Action Figure,Toys,24863.5
+4070,Markers,Stationery,26073.87
+4071,Knife Set,Kitchen,27570.97
+4072,Vacuum Cleaner,Home,34090.77
+4073,T-Shirt,Clothing,5793.8
+4074,Mobile Phone,Electronics,34678.82
+4075,Drawing Kit,Stationery,38155.75
+4076,Bluetooth Speaker,Electronics,27631.07
+4077,Puzzle,Toys,38970.53
+4078,Women Saree,Clothing,49909.27
+4079,Puzzle,Toys,39714.9
+4080,Puzzle,Toys,12004.73
+4081,tCiar kBcet,Sports,18960.81
+4082,Dining Table,Home,39845.56
+4083,Ceiling Fan,Home,41754.62
+4084,Tennis Racket,Sports,13508.63
+4085,Pressure Cooker,Kitchen,41358.75
+4086,Tennis Racket,Sports,34758.38
+4087,Yoga Mat,Sports,20967.33
+4088,Yoga Mat,Sports,35683.62
+4089,Tennis Racket,Sports,3911.03
+4090,Water Bottle,Kitchen,36632.02
+4091,Mobile Phone,Electronics,37491.06
+4092,Jacket,Clothing,34655.58
+4093,Competitive Guide,Books,44915.12
+4094,Sketch Book,Stationery,14695.57
+4095,Car Toy,Toys,42997.03
+4096,Mathematics Book,Books,28703.59
+4097,Pressure Cooker,Kitchen,35512.66
+4098,Smart Watch,Electronics,20871.6
+4099,Pressure Cooker,Kitchen,49170.56
+4100,LED TV,Electronics,38039.1
+4101,Lego Set,Toys,3818.84
+4102,Sofa Set,Home,32323.52
+4103,Jeans,Clothing,24508.33
+4104,Jeans,Clothing,25909.1
+4105,Competitive Guide,Books,47324.72
+4106,Dumbbell,Sports,41954.64
+4107,Mixer Grinder,Home,1409.53
+4108,NCERT Science,Books,23272.56
+4109,Football,Sports,35564.0
+4110,Car Toy,,3449.33
+4111,T-Shirt,,5702.99
+4112,Notebook,Stationery,36699.95
+4113,Smart Watch,Electronics,45619.98
+4114,Car Toy,Toys,33949.82
+4115,Women Saree,Clothing,25351.0
+4116,Knife Set,Kitchen,15696.91
+4117,Jeans,Clothing,16979.63
+4118,Men Kurta,Clothing,47829.51
+4119,Jeans,Clothing,33494.03
+4120,Action Figure,Toys,32469.0
+4121,Mobile Phone,Electronics,14528.95
+4122,Laptop,Electronics,14903.09
+4123,Story Book,Books,48096.67
+4124,Competitive Guide,Books,2786.01
+4125,NCERT Science,Books,47848.25
+4126,Mathematics Book,Books,9552.71
+4127,Fiction Novel,Books,42989.63
+4128,Story Book,Books,6136.59
+4129,Story Book,Books,27212.51
+4130,Puzzle,Toys,6026.73
+4131,Drawing Kit,Stationery,18881.16
+4132,Laptop,Electronics,28876.38
+4133,Non-stick Pan,Kitchen,43826.66
+4134,Jacket,Clothing,14906.53
+4135,Football,Sports,40875.56
+4136,Water Bottle,Kitchen,27920.95
+4137,Drawing Kit,Stationery,21647.63
+4138,Non-stick Pan,,38867.21
+4139,NCERT Science,Books,16744.81
+4140,Jeans,Clothing,5312.82
+4141,T-Shirt,Clothing,37183.31
+4142,LED TV,Electronics,25819.81
+4143,Cricket Bat,Sports,42982.93
+4144,Lego Set,Toys,3919.13
+4145,NCERT Science,Books,22870.61
+4146,Drawing Kit,Stationery,25516.82
+4147,Lunch Box,Kitchen,13580.52
+4148,Dining Table,Home,12591.88
+4149,elCVua mrnacue,Home,31768.02
+4150,Markers,Stationery,44820.26
+4151,Cricket Bat,Sports,12246.32
+4152,Men Kurta,Clothing,43011.04
+4153,LED TV,Electronics,29205.09
+4154,Bluetooth Speaker,Electronics,6955.1
+4155,begainiTnD l,Home,28420.5
+4156,Dining Table,Home,12120.35
+4157,Mixer Grinder,Home,14006.41
+4158,Vacuum Cleaner,Home,37979.1
+4159,Yoga Mat,Sports,48112.43
+4160,Action Figure,Toys,38278.81
+4161,Knife Set,Kitchen,32588.9
+4162,Cricket Bat,Sports,20270.25
+4163,Yoga Mat,Sports,16746.47
+4164,Men Kurta,Clothing,7047.22
+4165,Yoga Mat,Sports,12053.67
+4166,Car Toy,Toys,39128.9
+4167,Drawing Kit,,25654.17
+4168,Laptop,Electronics,10864.1
+4169,Markers,Stationery,12431.61
+4170,Markers,Stationery,18464.8
+4171,Mixer Grinder,Home,17264.37
+4172,MolbPehino e,Electronics,49279.52
+4173,Dining Table,Home,44827.32
+4174,Yoga Mat,,39355.07
+4175,Pressure Cooker,Kitchen,19019.15
+4176,Vacuum Cleaner,Home,30192.84
+4177,Action Figure,Toys,30236.55
+4178,Tennis Racket,Sports,25898.62
+4179,Non-stick Pan,Kitchen,20932.8
+4180,Fiction Novel,Books,32778.22
+4181,Jeans,Clothing,14955.4
+4182,Mobile Phone,Electronics,36291.15
+4183,Puzzle,Toys,34647.25
+4184,T-Shirt,Clothing,35863.67
+4185,Vacuum Cleaner,Home,17372.48
+4186,WtraSmca ht,Electronics,24661.5
+4187,Story Book,Books,36255.91
+4188,Doll,Toys,4923.6
+4189,Notebook,Stationery,16950.54
+4190,Competitive Guide,Books,11058.58
+4191,Bluetooth Speaker,Electronics,26933.2
+4192,Non-stick Pan,,45252.7
+4193,Lego Set,,38372.49
+4194,Cricket Bat,,7181.91
+4195,Pen Set,Stationery,10041.7
+4196,Notebook,Stationery,35724.39
+4197,Story Book,Books,40057.15
+4198,Dumbbell,Sports,20512.21
+4199,Mixer Grinder,Home,23371.87
+4200,Markers,Stationery,15473.07
+4201,nFCian lige,Home,3955.49
+4202,Pressure Cooker,Kitchen,44412.65
+4203,Smart Watch,Electronics,47052.82
+4204,oaeWnre mSe,Clothing,2446.33
+4205,Dining Table,Home,6600.94
+4206,T-Shirt,Clothing,39424.35
+4207,Pressure Cooker,Kitchen,17963.26
+4208,Bluetooth Speaker,Electronics,6753.92
+4209,NCERT Science,Books,31798.56
+4210,Markers,,9926.27
+4211,Jeans,Clothing,48763.63
+4212,Smart Watch,Electronics,4155.52
+4213,aatYMog ,Sports,2966.63
+4214,roaT yC,Toys,19866.74
+4215,Smart Watch,Electronics,27664.2
+4216,Cricket Bat,Sports,26964.59
+4217,T-Shirt,Clothing,35144.34
+4218,Mixer Grinder,Home,16969.05
+4219,Markers,Stationery,8257.54
+4220,Knife Set,Kitchen,6117.75
+4221,Pen Set,Stationery,6490.56
+4222,Jeans,Clothing,21688.41
+4223,Water Bottle,Kitchen,329.37
+4224,Smart Watch,Electronics,33352.01
+4225,Pressure Cooker,Kitchen,42821.47
+4226,Men Kurta,Clothing,1342.36
+4227,Lego Set,Toys,7590.4
+4228,Non-stick Pan,Kitchen,39020.22
+4229,Dumbbell,Sports,37150.79
+4230,T-Shirt,Clothing,36287.63
+4231,T-Shirt,Clothing,35477.12
+4232,LED TV,Electronics,47211.48
+4233,Sketch Book,Stationery,20176.41
+4234,Laptop,Electronics,32145.5
+4235,Lego Set,Toys,49379.51
+4236,Lunch Box,Kitchen,14099.2
+4237,Water Bottle,Kitchen,33798.44
+4238,Smart Watch,Electronics,11049.02
+4239,Vacuum Cleaner,Home,26569.34
+4240,NCERT Science,Books,7753.4
+4241,eaWeeo Srnm,Clothing,14606.31
+4242,Men Kurta,Clothing,46536.08
+4243,Mathematics Book,Books,48395.86
+4244,Dumbbell,Sports,30866.26
+4245,Cricket Bat,Sports,30367.51
+4246,Lego Set,Toys,3123.56
+4247,T-Shirt,Clothing,6832.27
+4248,Drawing Kit,Stationery,15752.29
+4249,Action Figure,Toys,13162.43
+4250,LED TV,Electronics,9016.92
+4251,Tennis Racket,Sports,38567.73
+4252,Jeans,Clothing,41567.33
+4253,T-Shirt,Clothing,20715.8
+4254,Yoga Mat,Sports,23299.87
+4255,Dumbbell,Sports,49240.79
+4256,T-Shirt,Clothing,32118.79
+4257,Lego Set,Toys,4895.29
+4258,Cricket Bat,Sports,12330.95
+4259,Football,Sports,38404.16
+4260,Lego Set,Toys,39091.34
+4261,Knife Set,Kitchen,28470.35
+4262,Lunch Box,Kitchen,45636.73
+4263,Non-stick Pan,Kitchen,28518.08
+4264,Dumbbell,Sports,16511.11
+4265,Doll,Toys,48040.75
+4266,Fiction Novel,Books,31004.45
+4267,tnwgKriDai ,Stationery,24748.5
+4268,LED TV,Electronics,27030.09
+4269,Sofa Set,Home,49515.92
+4270,Laptop,Electronics,22962.05
+4271,Sketch Book,Stationery,8383.73
+4272,Mixer Grinder,Home,24009.25
+4273,Competitive Guide,Books,22457.19
+4274,Dumbbell,Sports,42423.87
+4275,Fiction Novel,Books,19679.77
+4276,en SfteiK,Kitchen,10707.85
+4277,Cricket Bat,Sports,19660.63
+4278,Mathematics Book,Books,25828.39
+4279,Knife Set,Kitchen,34807.57
+4280,Vacuum Cleaner,Home,39512.89
+4281,Smart Watch,Electronics,21524.46
+4282,Car Toy,Toys,34795.64
+4283,CrayoT ,Toys,36285.77
+4284,Knife Set,Kitchen,19757.25
+4285,Football,Sports,6359.99
+4286,Non-stick Pan,Kitchen,4948.84
+4287,Sofa Set,Home,10150.83
+4288,NCERT Science,Books,27697.66
+4289,Markers,Stationery,18117.56
+4290,Lego Set,Toys,8478.84
+4291,Tennis Racket,Sports,73.99
+4292,Water Bottle,Kitchen,4515.79
+4293,Women Saree,Clothing,42788.53
+4294,Drawing Kit,Stationery,22870.54
+4295,Men Kurta,Clothing,20470.45
+4296,Sketch Book,Stationery,32456.81
+4297,Car Toy,Toys,12990.45
+4298,Lunch Box,Kitchen,35132.93
+4299,NCERT Science,,6152.94
+4300,Lego Set,Toys,21861.84
+4301,Ceiling Fan,,564.21
+4302,Markers,Stationery,34971.04
+4303,Football,Sports,14519.13
+4304,Markers,Stationery,32270.65
+4305,Puzzle,Toys,1336.23
+4306,x BcunLho,Kitchen,2275.19
+4307,Mixer Grinder,Home,31933.47
+4308,Lego Set,Toys,37504.26
+4309,Sketch Book,,571.0
+4310,Mixer Grinder,,22365.42
+4311,Dining Table,Home,40364.4
+4312,lblaoFto,Sports,45488.44
+4313,Smart Watch,Electronics,16618.04
+4314,Knife Set,Kitchen,41372.39
+4315,Lego Set,Toys,25865.77
+4316,Pen Set,Stationery,6003.96
+4317,Sofa Set,Home,36360.05
+4318,asneJ,Clothing,33999.79
+4319,Tennis Racket,Sports,12885.9
+4320,Dining Table,Home,18685.38
+4321,Yoga Mat,Sports,24093.43
+4322,Markers,Stationery,25646.8
+4323,Women Saree,Clothing,32465.51
+4324,Doll,Toys,18732.7
+4325,Pressure Cooker,,33515.98
+4326,Laptop,Electronics,2730.2
+4327,T-Shirt,,21707.27
+4328,Bluetooth Speaker,Electronics,26853.31
+4329,LED TV,Electronics,48446.22
+4330,Markers,Stationery,40904.91
+4331,Dining Table,Home,15421.95
+4332,T-Shirt,,45445.9
+4333,Jacket,Clothing,7126.19
+4334,Mobile Phone,Electronics,13122.62
+4335,Lego Set,Toys,6908.84
+4336,Water Bottle,Kitchen,48981.06
+4337,Lunch Box,Kitchen,32296.29
+4338,Knife Set,Kitchen,39045.53
+4339,Dumbbell,Sports,23579.71
+4340,Markers,Stationery,23340.63
+4341,Car Toy,Toys,47412.06
+4342,Mathematics Book,Books,33026.42
+4343,Pressure Cooker,Kitchen,7839.66
+4344,Jacket,Clothing,18667.38
+4345,Action Figure,Toys,8326.75
+4346,LED TV,Electronics,35517.45
+4347,Doll,Toys,26590.83
+4348,Non-stick Pan,Kitchen,18881.67
+4349,LED TV,Electronics,20206.3
+4350,Women Saree,,17097.57
+4351,Doll,Toys,9894.78
+4352,Dumbbell,Sports,16183.24
+4353,LED TV,Electronics,47450.89
+4354,Women Saree,Clothing,27385.31
+4355,Laptop,Electronics,34065.8
+4356,Sketch Book,Stationery,34766.57
+4357,Cricket Bat,Sports,4214.12
+4358,Yoga Mat,Sports,34728.49
+4359,Vacuum Cleaner,Home,39543.85
+4360,Sofa Set,Home,30181.29
+4361,Puzzle,Toys,5282.86
+4362,Competitive Guide,Books,37250.98
+4363,Mobile Phone,Electronics,20707.65
+4364,Doll,Toys,19129.24
+4365,LED TV,Electronics,38226.42
+4366,Mathematics Book,Books,113.91
+4367,Mobile Phone,Electronics,33690.55
+4368,Dumbbell,Sports,36188.44
+4369,T-Shirt,Clothing,19940.53
+4370,Women Saree,Clothing,32231.34
+4371,Tennis Racket,Sports,23989.79
+4372,Lego Set,Toys,4025.85
+4373,Knife Set,Kitchen,29334.57
+4374,T-Shirt,Clothing,32323.83
+4375,Jeans,Clothing,43599.85
+4376,Laptop,Electronics,26551.09
+4377,NCERT Science,Books,18294.54
+4378,Bluetooth Speaker,Electronics,30220.43
+4379,Mathematics Book,Books,47418.28
+4380,Sofa Set,Home,21424.79
+4381,Smart Watch,Electronics,6058.35
+4382,Mixer Grinder,Home,8367.48
+4383,Mathematics Book,Books,5996.76
+4384,Pressure Cooker,Kitchen,42960.92
+4385,Vacuum Cleaner,Home,36048.3
+4386,Notebook,Stationery,6706.23
+4387,Dumbbell,Sports,25809.38
+4388,Story Book,Books,21331.09
+4389,Lego Set,Toys,44540.49
+4390,Water Bottle,Kitchen,11354.79
+4391,Sketch Book,Stationery,27125.11
+4392,Dumbbell,Sports,26260.26
+4393,Action Figure,Toys,1590.44
+4394,LED TV,Electronics,33941.41
+4395,Football,Sports,9180.47
+4396,Story Book,Books,27897.63
+4397,Lunch Box,Kitchen,43945.59
+4398,Mobile Phone,Electronics,45587.21
+4399,Story Book,Books,30508.09
+4400,Jacket,Clothing,24116.66
+4401,Jeans,,45142.57
+4402,NCERT Science,Books,34677.73
+4403,Drawing Kit,Stationery,48627.74
+4404,Yoga Mat,Sports,31368.22
+4405,Ceiling Fan,Home,28642.46
+4406,Pen Set,Stationery,1731.69
+4407,Women Saree,Clothing,18358.21
+4408,Cricket Bat,Sports,49088.46
+4409,NCERT Science,Books,48674.23
+4410,T-Shirt,Clothing,20757.87
+4411,Mobile Phone,Electronics,13548.11
+4412,Notebook,Stationery,32974.01
+4413,Action Figure,Toys,20083.14
+4414,Dining Table,Home,40034.71
+4415,Ceiling Fan,Home,45532.54
+4416,Women Saree,Clothing,4707.04
+4417,Cricket Bat,Sports,43447.82
+4418,Lunch Box,Kitchen,27359.37
+4419,Men Kurta,Clothing,16656.52
+4420,Fiction Novel,Books,47900.13
+4421,Pen Set,Stationery,15151.25
+4422,Yoga Mat,Sports,22507.54
+4423,Laptop,Electronics,46418.53
+4424,Men Kurta,Clothing,20505.92
+4425,Jacket,Clothing,18208.28
+4426,Mixer Grinder,Home,48287.4
+4427,Knife Set,Kitchen,45509.93
+4428,Smart Watch,Electronics,45885.44
+4429,Car Toy,Toys,31714.37
+4430,Dumbbell,Sports,27298.6
+4431,T-Shirt,Clothing,11270.95
+4432,Smart Watch,Electronics,2316.97
+4433,Jeans,Clothing,48581.58
+4434,Pressure Cooker,Kitchen,46028.58
+4435,Lunch Box,Kitchen,5489.85
+4436,Tennis Racket,,1230.26
+4437,Dining Table,Home,1379.96
+4438,Car Toy,,14760.27
+4439,Mobile Phone,Electronics,15867.82
+4440,Jacket,Clothing,26288.76
+4441,Vacuum Cleaner,Home,47675.8
+4442,Knife Set,Kitchen,7729.66
+4443,Car Toy,Toys,5683.79
+4444,Women Saree,Clothing,17938.18
+4445,T-Shirt,Clothing,40634.57
+4446,Pen Set,Stationery,10535.76
+4447,Competitive Guide,Books,5830.55
+4448,Pressure Cooker,Kitchen,37720.0
+4449,Yoga Mat,Sports,25200.12
+4450,Pressure Cooker,Kitchen,811.28
+4451,Drawing Kit,Stationery,20697.45
+4452,Non-stick Pan,Kitchen,1686.02
+4453,Fiction Novel,Books,23180.85
+4454,Jacket,Clothing,45560.43
+4455,Lego Set,Toys,16877.82
+4456,Bluetooth Speaker,Electronics,38695.75
+4457,Lunch Box,Kitchen,39886.48
+4458,Vacuum Cleaner,Home,43527.82
+4459,Mathematics Book,Books,36188.12
+4460,Pressure Cooker,Kitchen,42431.34
+4461,Drawing Kit,Stationery,34861.71
+4462,Cricket Bat,Sports,36772.04
+4463,Mobile Phone,Electronics,13023.03
+4464,Women Saree,Clothing,24051.87
+4465,Men Kurta,,40245.71
+4466,Cricket Bat,Sports,22275.38
+4467,Sofa Set,Home,16412.97
+4468,Sketch Book,Stationery,25460.13
+4469,LED TV,Electronics,22108.56
+4470,Men Kurta,Clothing,22940.33
+4471,Mathematics Book,Books,12920.47
+4472,Laptop,Electronics,38153.38
+4473,Fiction Novel,Books,49888.51
+4474,Water Bottle,Kitchen,3786.64
+4475,TanRete sknic,Sports,22849.83
+4476,Ceiling Fan,Home,47146.16
+4477,Mathematics Book,Books,33723.93
+4478,Dumbbell,Sports,24259.99
+4479,Football,,36772.63
+4480,esanJ,Clothing,1895.1
+4481,Tennis Racket,Sports,10179.38
+4482,T-Shirt,Clothing,40923.97
+4483,Football,Sports,6237.82
+4484,Football,,34737.97
+4485,Lunch Box,Kitchen,32199.83
+4486,Dining Table,Home,18006.99
+4487,Non-stick Pan,Kitchen,2564.82
+4488,Fiction Novel,Books,14644.07
+4489,Markers,Stationery,33461.99
+4490,Markers,Stationery,10610.34
+4491,Notebook,Stationery,1251.16
+4492,Water Bottle,Kitchen,25296.11
+4493,Football,Sports,21966.04
+4494,Pen Set,Stationery,15073.08
+4495,Notebook,,20747.49
+4496,Sofa Set,Home,25646.59
+4497,Puzzle,Toys,36680.52
+4498,Lego Set,Toys,6715.86
+4499,Lego Set,Toys,47863.96
+4500,Bluetooth Speaker,Electronics,31756.81
+4501,Lego Set,,34854.59
+4502,Competitive Guide,Books,26521.01
+4503,Yoga Mat,Sports,20389.18
+4504,Mathematics Book,Books,27331.31
+4505,Action Figure,Toys,10440.4
+4506,Water Bottle,Kitchen,13172.9
+4507,LED TV,Electronics,29242.91
+4508,Bluetooth Speaker,Electronics,18360.95
+4509,Ceiling Fan,Home,41273.59
+4510,Tennis Racket,Sports,49805.81
+4511,Doll,Toys,39255.28
+4512,Drawing Kit,Stationery,24957.14
+4513,Ceiling Fan,Home,2432.4
+4514,eioostma tachkBM,Books,30014.18
+4515,Car Toy,Toys,43726.65
+4516,Jeans,Clothing,9159.24
+4517,Water Bottle,Kitchen,44377.14
+4518,Action Figure,,34859.0
+4519,Markers,Stationery,14538.72
+4520,Lego Set,Toys,5693.03
+4521,Fiction Novel,Books,26629.28
+4522,Women Saree,Clothing,2964.18
+4523,Drawing Kit,Stationery,2356.36
+4524,Football,,14880.28
+4525,Doll,Toys,44236.7
+4526,Non-stick Pan,Kitchen,18105.68
+4527,Notebook,Stationery,34399.59
+4528,Jacket,Clothing,42897.0
+4529,coBhn uxL,Kitchen,28123.27
+4530,Markers,Stationery,49546.86
+4531,Tennis Racket,Sports,28002.72
+4532,Drawing Kit,Stationery,31575.22
+4533,Knife Set,Kitchen,25961.29
+4534,Dining Table,Home,41411.76
+4535,Dumbbell,Sports,2449.56
+4536,Knife Set,Kitchen,25455.11
+4537,Jacket,Clothing,28855.44
+4538,Pressure Cooker,Kitchen,36686.74
+4539,T-Shirt,Clothing,47669.22
+4540,Cricket Bat,Sports,21171.84
+4541,Sketch Book,Stationery,9931.4
+4542,Story Book,Books,1014.42
+4543,Puzzle,Toys,33215.45
+4544,Vacuum Cleaner,Home,5228.26
+4545,Sofa Set,Home,3849.7
+4546,Puzzle,Toys,32824.56
+4547,Sketch Book,Stationery,7670.32
+4548,Pressure Cooker,Kitchen,45387.63
+4549,Competitive Guide,Books,46234.82
+4550,Jacket,Clothing,21974.04
+4551,lzeuzP,Toys,15369.73
+4552,Drawing Kit,Stationery,1009.31
+4553,Fiction Novel,,7688.99
+4554,Dumbbell,Sports,46101.27
+4555,Lunch Box,Kitchen,4576.45
+4556,Mobile Phone,Electronics,30046.23
+4557,Football,Sports,24222.13
+4558,Car Toy,Toys,28363.06
+4559,LED TV,Electronics,6425.1
+4560,Laptop,Electronics,45962.57
+4561,Competitive Guide,Books,15055.75
+4562,Mixer Grinder,Home,6456.43
+4563,Vacuum Cleaner,Home,43658.57
+4564,Laptop,Electronics,27652.58
+4565,Dining Table,Home,14425.96
+4566,Jeans,Clothing,16562.63
+4567,Lunch Box,Kitchen,38010.18
+4568,Jacket,Clothing,21209.46
+4569,NCERT Science,Books,12396.87
+4570,Pressure Cooker,Kitchen,39266.4
+4571,Fiction Novel,Books,24452.01
+4572,Mathematics Book,Books,48986.78
+4573,Jacket,,38822.16
+4574,Tennis Racket,Sports,7465.46
+4575,T-Shirt,Clothing,11690.83
+4576,Markers,Stationery,36972.76
+4577,Bluetooth Speaker,Electronics,36629.44
+4578,Pen Set,Stationery,18278.85
+4579,Football,Sports,35892.77
+4580,Dumbbell,Sports,16904.82
+4581,Mixer Grinder,Home,19380.12
+4582,Football,Sports,13379.89
+4583,Men Kurta,Clothing,17326.64
+4584,Dumbbell,Sports,8556.05
+4585,Football,Sports,16461.55
+4586,Doll,Toys,35682.89
+4587,T-Shirt,Clothing,27933.36
+4588,Smart Watch,Electronics,11566.88
+4589,Sketch Book,Stationery,47152.2
+4590,Action Figure,Toys,27046.1
+4591,Mobile Phone,Electronics,32190.34
+4592,Pressure Cooker,Kitchen,13709.32
+4593,Mathematics Book,Books,14864.07
+4594,Football,Sports,48944.05
+4595,Markers,Stationery,1629.9
+4596,NCERT Science,Books,26134.62
+4597,Women Saree,Clothing,19030.98
+4598,Mathematics Book,Books,23004.08
+4599,Non-stick Pan,Kitchen,17371.79
+4600,Ceiling Fan,Home,11070.07
+4601,Laptop,Electronics,6865.74
+4602,Non-stick Pan,Kitchen,39420.48
+4603,Lego Set,Toys,4864.67
+4604,Fiction Novel,Books,5157.86
+4605,Mixer Grinder,Home,47771.8
+4606,Smart Watch,Electronics,3999.57
+4607,Notebook,Stationery,12526.7
+4608,Football,Sports,6790.5
+4609,Pen Set,Stationery,44191.43
+4610,Sofa Set,Home,4187.18
+4611,Mobile Phone,Electronics,38982.44
+4612,Sofa Set,Home,17007.62
+4613,Notebook,Stationery,47221.48
+4614,Non-stick Pan,Kitchen,31491.08
+4615,Lunch Box,Kitchen,27716.77
+4616,Lunch Box,Kitchen,5044.74
+4617,Notebook,Stationery,5335.63
+4618,Jeans,Clothing,8172.8
+4619,Tennis Racket,Sports,18361.25
+4620,Fiction Novel,Books,10052.46
+4621,Women Saree,Clothing,21133.8
+4622,Water Bottle,,5370.47
+4623,Yoga Mat,Sports,6085.42
+4624,Doll,Toys,26406.22
+4625,Puzzle,Toys,24375.03
+4626,Car Toy,Toys,11848.31
+4627,LED TV,Electronics,31093.16
+4628,Dining Table,Home,40323.54
+4629,Lunch Box,Kitchen,32532.37
+4630,Dining Table,Home,9794.67
+4631,Vacuum Cleaner,Home,20191.16
+4632,Women Saree,Clothing,39671.55
+4633,Competitive Guide,Books,11238.35
+4634,Pressure Cooker,Kitchen,21283.4
+4635,Lunch Box,Kitchen,23601.9
+4636,Sketch Book,Stationery,29651.08
+4637,Sketch Book,,20757.58
+4638,Competitive Guide,Books,33893.48
+4639,Fiction Novel,Books,14998.18
+4640,Lunch Box,Kitchen,34662.03
+4641,Markers,Stationery,18848.45
+4642,Lego Set,,24824.21
+4643,Dining Table,Home,41596.59
+4644,Yoga Mat,Sports,11489.14
+4645,uDbllbem,Sports,47674.12
+4646,Drawing Kit,Stationery,35787.41
+4647,Dining Table,Home,26405.34
+4648,T-Shirt,,25613.27
+4649,Drawing Kit,Stationery,20343.99
+4650,Dumbbell,Sports,46988.87
+4651,Car Toy,Toys,30796.07
+4652,Sofa Set,Home,16735.2
+4653,LED TV,Electronics,41852.53
+4654,Doll,Toys,32379.33
+4655,T-Shirt,Clothing,34569.24
+4656,Women Saree,Clothing,6301.6
+4657,Mathematics Book,Books,14360.44
+4658,Mathematics Book,Books,20332.06
+4659,Bluetooth Speaker,Electronics,36085.0
+4660,Jacket,Clothing,14782.24
+4661,Markers,Stationery,42946.44
+4662,Knife Set,Kitchen,12150.23
+4663,Lunch Box,Kitchen,9033.05
+4664,LED TV,Electronics,2975.97
+4665,Smart Watch,Electronics,11757.91
+4666,Sofa Set,Home,30292.52
+4667,Men Kurta,Clothing,25537.16
+4668,Bluetooth Speaker,Electronics,39507.83
+4669,Doll,Toys,24852.25
+4670,Doll,Toys,134.04
+4671,Drawing Kit,Stationery,12364.04
+4672,Jacket,Clothing,11765.41
+4673,Mathematics Book,Books,4722.64
+4674,Smart Watch,Electronics,13338.93
+4675,Mathematics Book,Books,30189.75
+4676,Laptop,Electronics,45957.99
+4677,Vacuum Cleaner,Home,5814.63
+4678,Dumbbell,Sports,43147.38
+4679,Pressure Cooker,,25136.37
+4680,Men Kurta,Clothing,15613.5
+4681,Lunch Box,Kitchen,38466.81
+4682,Sketch Book,Stationery,11125.41
+4683,NCERT Science,,29415.93
+4684,B toeplSeuthkroea,Electronics,13989.98
+4685,Vacuum Cleaner,Home,38233.57
+4686,Sofa Set,Home,43773.02
+4687,Mathematics Book,,27787.72
+4688,Non-stick Pan,Kitchen,23795.17
+4689,Football,Sports,7253.39
+4690,Knife Set,Kitchen,46696.63
+4691,kTcn teneaisR,Sports,16008.99
+4692,T-Shirt,Clothing,11594.88
+4693,Markers,Stationery,24216.53
+4694,Mathematics Book,Books,44737.16
+4695,Pressure Cooker,Kitchen,15836.93
+4696,Pen Set,Stationery,34969.95
+4697,Story Book,Books,44440.27
+4698,Dumbbell,Sports,43012.22
+4699,Laptop,Electronics,44150.04
+4700,Knife Set,Kitchen,33094.02
+4701,Markers,Stationery,48869.41
+4702,LED TV,Electronics,1446.03
+4703,Lunch Box,Kitchen,1629.98
+4704,Football,Sports,10618.93
+4705,Pen Set,Stationery,48521.43
+4706,Pen Set,Stationery,4816.84
+4707,Notebook,Stationery,33865.93
+4708,T-Shirt,Clothing,1108.81
+4709,Notebook,Stationery,36758.53
+4710,Lunch Box,Kitchen,15310.2
+4711,Doll,Toys,7986.91
+4712,Sofa Set,Home,23970.41
+4713,LED TV,Electronics,42618.64
+4714,Markers,Stationery,42119.11
+4715,Car Toy,Toys,33282.73
+4716,Action Figure,,15022.04
+4717,eJsan,Clothing,41856.63
+4718,Jacket,Clothing,47026.04
+4719,Vacuum Cleaner,Home,12361.62
+4720,Water Bottle,Kitchen,32757.95
+4721,Jacket,Clothing,42331.47
+4722,Car Toy,Toys,20284.68
+4723,WSomeera ne,Clothing,12596.67
+4724,Tennis Racket,Sports,12951.21
+4725,soee PrkosreruC,Kitchen,43416.59
+4726,Men Kurta,Clothing,18674.25
+4727,Lunch Box,Kitchen,8171.28
+4728,Women Saree,Clothing,7559.25
+4729,Mixer Grinder,Home,45411.13
+4730,Non-stick Pan,Kitchen,14841.76
+4731,Car Toy,Toys,15496.08
+4732,Laptop,Electronics,23598.97
+4733,Women Saree,Clothing,21211.16
+4734,Non-stick Pan,Kitchen,11326.21
+4735,Puzzle,Toys,35989.56
+4736,Notebook,Stationery,24015.13
+4737,Women Saree,Clothing,13711.22
+4738,T-Shirt,Clothing,32927.01
+4739,Men Kurta,Clothing,27002.2
+4740,LED TV,Electronics,10048.15
+4741,Sketch Book,Stationery,6200.28
+4742,Dumbbell,Sports,28729.83
+4743,Story Book,Books,5896.51
+4744,Bluetooth Speaker,,49714.35
+4745,Cricket Bat,Sports,30197.16
+4746,Fiction Novel,Books,13753.03
+4747,Mixer Grinder,Home,28458.58
+4748,Car Toy,,37460.75
+4749,Fiction Novel,Books,24366.38
+4750,Pressure Cooker,Kitchen,1365.65
+4751,Doll,Toys,7147.66
+4752,Bluetooth Speaker,Electronics,37808.32
+4753,Jacket,Clothing,5127.64
+4754,Knife Set,Kitchen,2492.87
+4755,Mobile Phone,Electronics,40037.56
+4756,Water Bottle,Kitchen,38693.67
+4757,Football,Sports,39773.92
+4758,Cricket Bat,Sports,21435.97
+4759,Non-stick Pan,Kitchen,20300.31
+4760,Sketch Book,Stationery,40328.99
+4761,Smart Watch,Electronics,34067.27
+4762,Mathematics Book,Books,28729.79
+4763,Markers,Stationery,25676.44
+4764,Lunch Box,Kitchen,36174.02
+4765,Women Saree,Clothing,27261.47
+4766,NCERT Science,Books,21661.96
+4767,Knife Set,Kitchen,31857.14
+4768,Car Toy,Toys,10655.33
+4769,Lunch Box,Kitchen,313.24
+4770,Jeans,Clothing,28852.52
+4771,etnaMKur ,Clothing,10448.08
+4772,Tennis Racket,,33203.6
+4773,Sketch Book,Stationery,18132.54
+4774,Women Saree,Clothing,2527.19
+4775,Car Toy,Toys,6946.36
+4776,Drawing Kit,Stationery,1560.6
+4777,Knife Set,Kitchen,25007.54
+4778,Notebook,Stationery,26558.79
+4779,ertuKa Mn,Clothing,30589.66
+4780,Women Saree,Clothing,27765.86
+4781,Mathematics Book,Books,21647.3
+4782,Sofa Set,Home,49095.67
+4783,Cricket Bat,Sports,9853.22
+4784,Pressure Cooker,Kitchen,18980.49
+4785,Competitive Guide,Books,11395.99
+4786,Non-stick Pan,Kitchen,48006.8
+4787,Markers,Stationery,3065.92
+4788,Vacuum Cleaner,Home,14499.39
+4789,Yoga Mat,Sports,9924.86
+4790,Football,Sports,12743.86
+4791,Women Saree,Clothing,30147.7
+4792,Mathematics Book,Books,48043.55
+4793,Knife Set,Kitchen,4324.08
+4794,Vacuum Cleaner,Home,39142.57
+4795,Jeans,Clothing,25432.45
+4796,Drawing Kit,,18876.77
+4797,Notebook,Stationery,6333.98
+4798,Water Bottle,Kitchen,9715.8
+4799,ctSW hmaart,Electronics,47392.74
+4800,Drawing Kit,Stationery,17259.48
+4801,Mixer Grinder,Home,46279.33
+4802,Car Toy,Toys,38691.76
+4803,Dumbbell,Sports,15513.84
+4804,Knife Set,Kitchen,37543.73
+4805,Pen Set,Stationery,415.6
+4806,Notebook,Stationery,47008.11
+4807,Fiction Novel,Books,10794.23
+4808,Bluetooth Speaker,Electronics,28696.29
+4809,Laptop,Electronics,13252.28
+4810,Laptop,,34348.11
+4811,Fiction Novel,Books,43785.02
+4812,Football,Sports,9773.41
+4813,Lego Set,Toys,597.12
+4814,Drawing Kit,Stationery,36796.71
+4815,Notebook,Stationery,527.54
+4816,Fiction Novel,Books,23496.47
+4817,Pen Set,Stationery,49256.16
+4818,Doll,Toys,44013.44
+4819,Men Kurta,Clothing,17141.71
+4820,Dumbbell,Sports,39158.15
+4821,Sofa Set,,28493.85
+4822,Jeans,Clothing,14394.39
+4823,Car Toy,Toys,1884.79
+4824,Women Saree,Clothing,35101.28
+4825,Mathematics Book,Books,3991.91
+4826,Ceiling Fan,Home,9403.53
+4827,Action Figure,Toys,39653.75
+4828,Water Bottle,Kitchen,17804.84
+4829,Mixer Grinder,Home,26543.41
+4830,Lunch Box,Kitchen,25757.72
+4831,Pen Set,Stationery,7245.5
+4832,Bluetooth Speaker,Electronics,13281.53
+4833,NCERT Science,Books,43659.33
+4834,Car Toy,Toys,47285.67
+4835,Tennis Racket,Sports,7116.04
+4836,Action Figure,Toys,26176.75
+4837,LED TV,Electronics,15238.1
+4838,Jeans,Clothing,7533.76
+4839,Laptop,Electronics,41386.14
+4840,Tennis Racket,Sports,10481.58
+4841,Sketch Book,Stationery,48617.39
+4842,Smart Watch,Electronics,17414.08
+4843,T-Shirt,Clothing,32581.95
+4844,Water Bottle,Kitchen,36439.75
+4845,Story Book,Books,40828.52
+4846,T-Shirt,Clothing,39714.78
+4847,tpaoLp,Electronics,26527.32
+4848,Yoga Mat,Sports,20238.53
+4849,Sofa Set,Home,15356.46
+4850,Bluetooth Speaker,Electronics,14162.05
+4851,Men Kurta,Clothing,41127.41
+4852,Mathematics Book,Books,41555.32
+4853,Mobile Phone,Electronics,39764.91
+4854,Jeans,Clothing,33132.55
+4855,Fiction Novel,Books,5143.16
+4856,Dining Table,Home,37884.31
+4857,Tennis Racket,Sports,47994.28
+4858,Action Figure,Toys,24033.04
+4859,Car Toy,Toys,12227.93
+4860,Tennis Racket,Sports,31632.19
+4861,T-Shirt,Clothing,26586.22
+4862,NCERT Science,Books,1893.82
+4863,Mathematics Book,Books,46187.56
+4864,Action Figure,Toys,3510.75
+4865,Cricket Bat,Sports,44051.01
+4866,NCERT Science,Books,23617.0
+4867,Pressure Cooker,Kitchen,3691.01
+4868,Pressure Cooker,Kitchen,31993.47
+4869,T-Shirt,Clothing,6494.4
+4870,Markers,Stationery,41574.57
+4871,Doll,Toys,47727.58
+4872,Knife Set,Kitchen,12213.81
+4873,Knife Set,Kitchen,20777.02
+4874,Laptop,Electronics,17417.81
+4875,Smart Watch,Electronics,31003.19
+4876,Car Toy,Toys,14032.45
+4877,Sofa Set,Home,42739.68
+4878,Water Bottle,Kitchen,14002.01
+4879,Notebook,Stationery,33681.26
+4880,Story Book,Books,21786.64
+4881,Doll,Toys,17942.01
+4882,Water Bottle,Kitchen,33941.47
+4883,Cricket Bat,Sports,2071.58
+4884,Dumbbell,Sports,18727.0
+4885,Laptop,Electronics,12746.7
+4886,Non-stick Pan,Kitchen,44803.3
+4887,Doll,Toys,10388.3
+4888,ezuzlP,Toys,39376.47
+4889,Sofa Set,,41713.84
+4890,Car Toy,Toys,38051.52
+4891,Doll,Toys,26577.83
+4892,Ma Yaogt,Sports,31438.15
+4893,LED TV,Electronics,5851.63
+4894,eJsna,Clothing,11137.65
+4895,Cricket Bat,Sports,45677.04
+4896,LED TV,Electronics,29018.1
+4897,Action Figure,Toys,10154.33
+4898,Doll,Toys,21630.33
+4899,Drawing Kit,Stationery,654.13
+4900,Tennis Racket,Sports,28655.82
+4901,Jeans,Clothing,39527.65
+4902,Knife Set,Kitchen,10736.71
+4903,NCERT Science,Books,5782.94
+4904,Bluetooth Speaker,Electronics,3364.94
+4905,Non-stick Pan,Kitchen,2123.27
+4906,LED TV,Electronics,46176.21
+4907,Competitive Guide,Books,11037.73
+4908,LED TV,Electronics,38173.07
+4909,Vacuum Cleaner,Home,1555.37
+4910,Tennis Racket,Sports,45307.93
+4911,Notebook,Stationery,42390.52
+4912,NCERT Science,,25919.67
+4913,Men Kurta,Clothing,24905.99
+4914,Puzzle,Toys,1424.78
+4915,Mobile Phone,Electronics,26292.2
+4916,Competitive Guide,Books,1421.45
+4917,Story Book,Books,41062.86
+4918,aeliFnCign ,Home,13384.53
+4919,Non-stick Pan,Kitchen,34433.53
+4920,Mobile Phone,Electronics,31155.0
+4921,SuptkoeBaeo retlh,Electronics,898.94
+4922,NCERT Science,Books,40258.97
+4923,Football,Sports,14074.19
+4924,Fiction Novel,Books,2204.75
+4925,Men Kurta,Clothing,43873.22
+4926,Tennis Racket,Sports,45254.81
+4927,Action Figure,Toys,34167.91
+4928,Drawing Kit,,35818.49
+4929,T-Shirt,,15031.26
+4930,Mobile Phone,Electronics,25411.52
+4931,Knife Set,Kitchen,31031.69
+4932,Puzzle,Toys,44914.85
+4933,Dumbbell,Sports,36855.81
+4934,Dining Table,Home,34679.56
+4935,Yoga Mat,Sports,19305.01
+4936,Drawing Kit,Stationery,17429.62
+4937,Yoga Mat,Sports,40721.42
+4938,Puzzle,Toys,27363.03
+4939,Dumbbell,Sports,28094.82
+4940,Story Book,Books,37452.41
+4941,Water Bottle,Kitchen,35616.59
+4942,Mathematics Book,Books,40872.05
+4943,Yoga Mat,Sports,48259.44
+4944,Knife Set,Kitchen,26258.69
+4945,Mathematics Book,Books,3172.93
+4946,Puzzle,Toys,12668.23
+4947,Mobile Phone,Electronics,46134.3
+4948,LED TV,Electronics,40172.4
+4949,LED TV,Electronics,49033.45
+4950,Car Toy,Toys,49741.78
+4951,Pressure Cooker,Kitchen,32283.0
+4952,Story Book,Books,38198.96
+4953,Sketch Book,,23708.97
+4954,Yoga Mat,Sports,34715.57
+4955,Laptop,Electronics,7891.08
+4956,Markers,Stationery,41159.71
+4957,Women Saree,Clothing,15662.37
+4958,Vacuum Cleaner,Home,5204.07
+4959,Drawing Kit,Stationery,26918.33
+4960,Puzzle,Toys,30593.12
+4961,Mixer Grinder,Home,36408.12
+4962,Sofa Set,Home,41823.12
+4963,Water Bottle,Kitchen,5130.49
+4964,Car Toy,Toys,42152.19
+4965,Pressure Cooker,Kitchen,37433.38
+4966,Non-stick Pan,Kitchen,35521.26
+4967,Water Bottle,Kitchen,21117.98
+4968,Cricket Bat,Sports,44751.99
+4969,Mobile Phone,Electronics,9996.6
+4970,Jacket,Clothing,41591.69
+4971,LED TV,Electronics,35349.21
+4972,NCERT Science,Books,11415.56
+4973,NCERT Science,Books,25960.26
+4974,Car Toy,Toys,9022.98
+4975,T-Shirt,Clothing,43145.06
+4976,LED TV,Electronics,28025.48
+4977,aeSf tSo,Home,12801.78
+4978,Mixer Grinder,,33547.19
+4979,Dumbbell,Sports,38507.26
+4980,Women Saree,Clothing,32246.56
+4981,Smart Watch,Electronics,17135.71
+4982,Sketch Book,Stationery,8372.97
+4983,Pressure Cooker,Kitchen,28008.79
+4984,Knife Set,Kitchen,43511.24
+4985,Ceiling Fan,Home,36100.55
+4986,Jacket,,35030.28
+4987,lPezuz,Toys,20485.83
+4988,Cricket Bat,Sports,19883.25
+4989,Men Kurta,Clothing,20795.12
+4990,Mobile Phone,Electronics,25398.98
+4991,Lunch Box,Kitchen,47707.78
+4992,Markers,Stationery,8932.92
+4993,Football,Sports,17723.04
+4994,Tennis Racket,Sports,874.24
+4995,Dining Table,Home,17039.42
+4996,Cricket Bat,Sports,20555.08
+4997,Bluetooth Speaker,Electronics,17523.51
+4998,Mobile Phone,Electronics,30538.75
+4999,Yoga Mat,,35291.6
+5000,Yoga Mat,Sports,41716.76
